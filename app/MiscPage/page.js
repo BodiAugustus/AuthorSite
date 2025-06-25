@@ -43,6 +43,17 @@ export default function MiscPage() {
             </a>
           </div>
           <div>
+            <p className="font-bold">Tristan Nettles YouTube Channel</p>
+            <a
+              href="https://www.youtube.com/@TristanNettlesFreeAshley"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-blue-400"
+            >
+              Official YouTube channel of Tristan Nettles.
+            </a>
+          </div>
+          <div>
             <p className="font-bold">Free Ashley</p>
             <a
               href="https://www.FreeAshley.org"
