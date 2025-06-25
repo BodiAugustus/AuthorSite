@@ -23,7 +23,7 @@ export default function WorksPage() {
   );
 
   return (
-    <div className="p-6 md:p-10 lg:p-16">
+    <div className="p-6 md:p-10 lg:p-16 md:min-h-[550px]">
       <h1 className="text-3xl md:text-4xl font-bold font-serif mb-8">
         Written Works - A to Z
       </h1>

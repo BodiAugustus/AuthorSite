@@ -38,7 +38,7 @@ export default function NavBar() {
                 className={`relative pb-1 transition-all duration-200
                   ${
                     pathname === href
-                      ? "border-b-2 border-white font-semibold"
+                      ? "border-b-2 border-red-400 font-semibold"
                       : "border-b-2 border-transparent hover:border-slate-600"
                   }`}
               >
