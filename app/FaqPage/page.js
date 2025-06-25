@@ -80,7 +80,7 @@ const faqs = {
     {
       question: "Are your travel stories based on real events?",
       answer:
-        "Yes. My fiction writing is also heavily influenced by my world travels and international living. ",
+        "Yes. My fiction writing is also heavily influenced by my world travels and living internationally. ",
     },
   ],
   Writing: [

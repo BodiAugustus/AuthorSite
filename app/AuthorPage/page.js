@@ -181,59 +181,53 @@ export default function AuthorPage() {
           <p className="text-sm font-semibold text-gray-600">PHOTO CREDIT</p>
           <p className="mb-6">Ashley Oosthuizen</p>
           <p className="mb-4">
-            Tristan Seth Nettles was born with a severe speech impediment in
-            Atlanta, Georgia 1987, the first son of Russ and Olga Nettles. After
-            his parents divorced when Tristan was eight, he and his siblings,
-            Josh and Tabi, lived with his mother. Parts of his childhood were
-            spent in Man-O-War Cay, in the Abaco Bahamas, and the Atlanta area,
-            where he began growing up rough and getting into trouble after
-            falling in with the wrong crowds. When Tristan was twelve, he was
-            charged with his first criminal case and by fifteen, had been sent
-            to Oak Ride Military Academy in Tennessee after being expelled from
-            the public and alternative schools in Georgia. After reoeating the
-            tenth grade and moving states, Tristan recieved a fresh start, using
-            it to graduate high school and enlist with the Marine Corps infantry
-            where he was sationed in Kaneohe Bay, HI.
+            Tristan Seth Nettles was born in Atlanta, Georgia, in 1987 with a
+            severe speech impediment, the first son of Russ and Olga Nettles.
+            After his parents divorced when he was eight, Tristan and his
+            siblings, Josh and Tabi, lived primarily with their mother. Parts of
+            his childhood were spent in Man-O-War Cay, in the Abaco Islands of
+            the Bahamas, and the rest in the Atlanta area, where he fell in with
+            the wrong crowds. After attending five middle schools and seven high
+            schools, Tristan enlisted in the Marine Corps infantry, where he was
+            stationed in Kaneohe Bay, Hawaii.
           </p>
+
           <p>
-            After leaving the Marine Corps, following a stint in the brig in
-            Quantico, VA and a home invasion in Escatava, Mississippi, where he
-            was almost killed, Tristan enrolled in a university Biology Program.
-          </p>
-          <p>
-            In 2015, directly after graduating with a B.S. in Biology, a
-            restless spirit took Tristan far beyond U.S. borders—through remote
-            Pacific islands, Himalayan trails, Southeast Asia, and Europe. His
-            travels have left deep cultural imprints, grounding his storytelling
-            in rich, authentic detail .
+            Upon leaving the Marine Corps, following a home invasion and a stint
+            in the brig, Tristan enrolled in a university Biology Program. In
+            2015, directly after graduating with a B.S. in Biology, a restless
+            spirit took Tristan far beyond U.S. borders—through remote Pacific
+            islands, Himalayan trails, Southeast Asia, and Europe. His travels
+            have left deep cultural imprints, grounding his storytelling in
+            rich, authentic detail.
           </p>
           <p>
             But his path has not been ordinary. Tristan navigated the shadowed
             intersections of legality—using cryptocurrencies and the internet to
-            import large amount of party drugs into Thailand to fund his medical
-            school studies abroad, leading to the arrest and imprisonment of his
-            long time girlfriend, a South African woman named Ashley Oosthuizen.
-            His creative work is not escapism but a reckoning with impulses past
-            and present.
+            import large amount of recreational drugs into Thailand to fund his
+            medical school studies abroad, eventually leading to the arrest and
+            imprisonment of his long time girlfriend, a South African woman
+            named Ashley Oosthuizen. His creative work is not escapism but a
+            reckoning with impulses past and present.
           </p>
           <p>
             His debut novel, The Shepherd: A Bronze Age Tale{" "}
             <span className="font-bold">(Histria Books, 2024)</span>, was
-            written to bring awareness to Ashley&#39; s cause, along with a
-            seven month stint in Ukraine fighting against Russia, where Tristan
-            and his squad of combat veterans, The Wolverines, made it into
-            Rollingstone. Tristan&#39; s first novel debuted as a notoriously
-            brutal and vivid vision of antiquity—a gritty coming-of-age immersed
-            in love, sacrifice, and redemption. Praised for its “distinctive,
-            narrative-driven storytelling” and stark portrayal of Bronze-Age
-            life, it has earned rave ratings and an enthusiastic endorsement
-            from the Midwest Book Review.
+            written to bring awareness to Ashley&#39;s cause, along with a seven
+            month stint in Ukraine fighting against Russia. Tristan&#39;s first
+            novel debuted as a notoriously brutal and vivid vision of
+            antiquity—a gritty coming-of-age tale immersed in love, sacrifice,
+            and redemption. Praised for its “distinctive, narrative-driven
+            storytelling” and stark portrayal of Bronze-Age life, it has earned
+            rave ratings and an enthusiastic endorsement from the Midwest Book
+            Review.
           </p>
           <p>
             Beyond his literary pursuits, Tristan balances a multifaceted life:
-            living internationally, on his fourth passport, working in digital
-            finance as a crypto consultant and funds manager, and advocating for
-            the release of Ashley Oosthuizen from wrongful imprisonment.
+            living predominately internationally, currently on his fourth
+            passport, and working in digital finance as a crypto consultant and
+            funds manager, all while continuously advocating for Ashley
+            Oosthuizen&#39;s release.
           </p>
           <p>
             Tristan Nettles writes with true conviction and authenticity—a man
@@ -261,18 +255,18 @@ export default function AuthorPage() {
         </h2>
         <p className="mb-4">
           Tristan Seth Nettles is an American author, combat veteran, and world
-          traveler known for his brutally vivid storytelling. Born in Atlanta,
-          GA in 1987, he overcame a severe speech impediment and a troubled
-          youth before enlisting with the Marine Corps infantry and later
-          earning a B.S. in Biology from the University of North Florida. His
-          life has intersected with crime, war, and technology, including a
-          combat tour in Ukraine. Drawing from real-life grit, his writing
-          explores the extremes with needle-like precision. He currently works
-          as a crypto consultant and wealth manager for Ashley DeFi while
-          continuing to advocate for Ashley&#39; s release. Now, on his fourth
-          passport, Nettles lives abroad full-time. His work fuses lived
-          experience with historical scope, delivering fiction that is both
-          timeless and deeply personal.
+          traveler known for his brutally realistic storytelling. Born in
+          Atlanta, GA in 1987, he overcame a severe speech impediment and a
+          troubled youth before enlisting with the Marine Corps infantry and
+          later earning a B.S. in Biology from the University of North Florida.
+          His life has intersected at various times with crime, war, and
+          technology, including a combat tour in Ukraine. Drawing from real-life
+          grit, his writing explores the extremes of humanity with needle-like
+          precision. He currently works as a crypto consultant and wealth
+          manager for Ashley DeFi while continuing to advocate for Ashley
+          Oosthuizen&#39;s release. Now, on his fourth passport, Nettles lives
+          abroad full-time. His work fuses lived experience with historical
+          scope, delivering fiction that is both timeless and deeply personal.
         </p>
         <p className="mb-4">
           Tristan lives in Puerto Rico, where he hopes to one day have a family
