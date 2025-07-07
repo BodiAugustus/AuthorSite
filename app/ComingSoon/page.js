@@ -136,10 +136,10 @@ export default function ComingSoon() {
                 The King - A Bronze Age Tale is finished!
               </h3>
               <p className="text-xs text-gray-500 mb-2">
-                Posted: June 30th, 2025 3:51:24 pm EDT
+                Posted: July 7th, 2025 6:31:24 pm EDT
               </p>
               <p className="text-sm text-gray-700 font-serif">
-                Tristan finishes the final chapter of the epic 500 page follow
+                Tristan finishes the final chapter of the epic 505s page follow
                 up to The Shepherd - A Bronze Age Tale.
               </p>
               <p className="text-sm font-bold mt-2">READ MORE</p>

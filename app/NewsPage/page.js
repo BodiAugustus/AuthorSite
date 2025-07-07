@@ -5,8 +5,8 @@ import Image from "next/image";
 const newsItems = [
   {
     title: "The King - A Bronze Age Tale is finished!",
-    date: "Posted: June 30th, 2025 3:51:24 pm EDT",
-    content: `Tristan finishes the final chapter of the epic 500 page follow
+    date: "Posted: July 7th, 2025 6:31:24 pm EDT",
+    content: `Tristan finishes the final chapter of the epic 505 page follow
     up to The Shepherd - A Bronze Age Tale. This thirty chapter masterpiece follows.....will be sent to.........`,
     youtubeEmbed: "",
     image: "/shepherd.png",
