@@ -29,7 +29,7 @@ const upcomingWorks = [
     available:
       "The King - A Bronze Age Tale will be available in most in most English-language markets by Summer, 2026.",
     image: "/bookCover.jpeg",
-    category: "Historical Fiction",
+    category: "Commercial Fiction",
   },
   // More books can be added here
 ];

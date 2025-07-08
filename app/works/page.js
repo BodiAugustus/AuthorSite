@@ -6,7 +6,7 @@ const worksData = [
   {
     title: "The Shepherd - A Bronze Age Tale",
     type: "Historical Fiction",
-    date: "November March 11th, 2024",
+    date: "March 11th, 2024",
   },
   // { title: "'Salem's Lot", type: "Limited Edition", date: "October 2004" },
   // { title: "11/22/63", type: "Novel", date: "November 8th, 2011" },
