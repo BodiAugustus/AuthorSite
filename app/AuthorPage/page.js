@@ -255,7 +255,7 @@ export default function AuthorPage() {
         </h2>
         <p className="mb-4">
           Tristan Seth Nettles is an American author, combat veteran, and world
-          traveler known for his brutally realistic storytelling. Born in
+          traveler known for his intensely realistic storytelling. Born in
           Atlanta, GA in 1987, he overcame a severe speech impediment and a
           troubled youth before enlisting with the Marine Corps infantry and
           later earning a B.S. in Biology from the University of North Florida.
