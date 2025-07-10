@@ -132,6 +132,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
+        <link rel="canonical" href="https://www.tristannettles.com" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
