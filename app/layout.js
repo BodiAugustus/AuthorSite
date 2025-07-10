@@ -85,8 +85,12 @@ export const metadata = {
   alternates: {
     canonical: "https://www.tristannettles.com",
   },
-  other: {
-    "script:ld+json": JSON.stringify({
+};
+//check
+
+export default function RootLayout({ children }) {
+  const structuredData = [
+    {
       "@context": "https://schema.org",
       "@type": "Person",
       name: "Tristan Nettles",
@@ -100,14 +104,41 @@ export const metadata = {
         "@type": "Organization",
         name: "Ashley DeFi",
       },
-    }),
-  },
-};
-//check
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Book",
+      name: "The Shepherd – A Bronze Age Tale",
+      author: { "@type": "Person", name: "Tristan Nettles" },
+      datePublished: "2022-01-01",
+      description:
+        "An epic historical novel set during the collapse of the Bronze Age, following a shepherd who becomes a warrior king.",
+      publisher: { "@type": "Organization", name: "Independent" },
+      inLanguage: "English",
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Book",
+      name: "False Positive",
+      author: { "@type": "Person", name: "Tristan Nettles" },
+      datePublished: "2021-01-01",
+      description:
+        "A gripping modern thriller about medicine, betrayal, and redemption.",
+      publisher: { "@type": "Organization", name: "Independent" },
+      inLanguage: "English",
+    },
+  ];
 
-export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(structuredData),
+          }}
+        />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} ${playfair.variable} antialiased`}
       >
