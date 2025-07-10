@@ -19,11 +19,60 @@ export default function Home() {
       name: "Ashley DeFi",
     },
   };
+  const bookStructuredData = [
+    {
+      "@context": "https://schema.org",
+      "@type": "Book",
+      name: "The Shepherd – A Bronze Age Tale",
+      author: {
+        "@type": "Person",
+        name: "Tristan Nettles",
+      },
+      datePublished: "2022-01-01",
+      description:
+        "An epic historical novel set during the collapse of the Bronze Age, following a shepherd who becomes a warrior king.",
+      publisher: {
+        "@type": "Organization",
+        name: "Independent",
+      },
+      inLanguage: "English",
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Book",
+      name: "False Positive",
+      author: {
+        "@type": "Person",
+        name: "Tristan Nettles",
+      },
+      datePublished: "2021-01-01",
+      description:
+        "A gripping modern thriller about medicine, betrayal, and redemption.",
+      publisher: {
+        "@type": "Organization",
+        name: "Independent",
+      },
+      inLanguage: "English",
+    },
+  ];
+
   return (
     <div>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(bookStructuredData[0]),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(bookStructuredData[1]),
+        }}
       />
       <HomePage />
       <NewReleases />
