@@ -7,13 +7,13 @@ import Link from "next/link";
 const slides = [
   {
     src: "/shepherd.png",
-    alt: "Christine Cover",
+    alt: "The Shepherd - A Bronze Age Tale Cover",
     href: "/works",
   },
   {
-    src: "/shepherd.png",
-    alt: "Cujo Cover",
-    href: "/UpcomingWorks",
+    src: "/slide2.png",
+    alt: "Histria Books Banner",
+    href: "https://histriabooks.com/",
   },
   {
     src: "/shepherd.png",
