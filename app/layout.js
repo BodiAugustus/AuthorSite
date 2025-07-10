@@ -82,6 +82,9 @@ export const metadata = {
     creator: "@tristan_nettles",
     images: ["https://www.TristanNettles.com/preview.png"],
   },
+  alternates: {
+    canonical: "https://www.tristannettles.com",
+  },
 };
 
 export default function RootLayout({ children }) {
