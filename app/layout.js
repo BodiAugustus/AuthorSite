@@ -85,6 +85,23 @@ export const metadata = {
   alternates: {
     canonical: "https://www.tristannettles.com",
   },
+  other: {
+    "script:ld+json": JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Person",
+      name: "Tristan Nettles",
+      url: "https://www.tristannettles.com",
+      image: "https://www.tristannettles.com/preview.png",
+      sameAs: ["https://twitter.com/tristan_nettles"],
+      jobTitle: "Novelist",
+      description:
+        "Tristan Nettles is the author of historical and Bronze Age fiction including 'The Shepherd' and 'False Positive'.",
+      worksFor: {
+        "@type": "Organization",
+        name: "Ashley DeFi",
+      },
+    }),
+  },
 };
 
 export default function RootLayout({ children }) {
