@@ -4,15 +4,23 @@ const nextConfig = {
 
   async redirects() {
     return [
+      // Redirect non-www to www
       {
         source: "/(.*)",
         has: [
           {
             type: "host",
-            value: "tristannettles.com", // 👈 or swap if you prefer www-less domain
+            value: "tristannettles.com", // non-www
           },
         ],
         destination: "https://www.tristannettles.com/:path*",
+        permanent: true,
+      },
+
+      // Redirect /defi to homepage
+      {
+        source: "/defi",
+        destination: "/",
         permanent: true,
       },
     ];
