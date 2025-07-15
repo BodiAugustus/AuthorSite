@@ -7,11 +7,11 @@ const upcomingWorks = [
     title: "False Positive",
     releaseDate: "Fall, 2025",
     description1:
-      "From a troubled childhood in the American South to the battle-scarred fields of Ukraine, Tristan Seth Nettles has lived a life that almost defies belief. Born between wealth and poverty, armed with stubborn determination and a restless spirit, Tristan navigates a world that seems determined to break him to it&#39;s mold — and somehow survives, grows stronger, and fights back.",
+      "From a troubled childhood in the American South to the battle-scarred fields of Ukraine, Tristan Seth Nettles has lived a life that almost defies belief. Born between wealth and poverty, armed with stubborn determination and a restless spirit, Tristan navigates a world that seems determined to break him to it's mold — and somehow survives, grows stronger, and fights back.",
     description2:
       "False Positive is the true story of a man who outruns his past but never forgets it. As a student, soldier, international drug dealer, outlaw, lover, and mercenary, Tristan travels the world — from armed home invasions to mountain top temples, from Southeast Asian prisons to battlefields in Eastern Europe — chasing truth, redemption, and ultimately, justice. When the woman he loves, Ashley Oosthuizen, is wrongfully imprisoned and sentenced to death in Thailand, Tristans&#39; mission becomes clear. What began as a reckless search for freedom turns into an international fight for someone else&#39;s. ",
     description3:
-      "Told with dark humor, brutal honesty, and heart-stopping intensity, False Positive is a modern epic — a real-life odyssey in the spirit of Forrest Gump and Catch Me If You Can. It&#39;s a raw, unforgettable journey through love, loss, crime, war, and the deep, messy beauty of being human.",
+      "Told with dark humor, brutal honesty, and heart-stopping intensity, False Positive is a modern epic — a real-life odyssey in the spirit of Forrest Gump and Catch Me If You Can. It's a raw, unforgettable journey through love, loss, crime, war, and the deep, messy beauty of being human.",
     available:
       "False Positive will be available in most English-language markets in the Fall of 2025.",
     image: "/comingSoon.jpeg",
@@ -23,7 +23,7 @@ const upcomingWorks = [
     description1:
       "In a brutal world shaped by bronze and blood, Pan Shepherd returns — no longer a slave, but a man driven by love, vengeance, and an unrelenting determination to rescue Beocca, who was abducted during their wedding by a sadistic prince-turned-king.",
     description2:
-      "Set against the sweeping backdrop of a collapsing kingdom and a rising warlord, <em>The King – A Bronze Age Tale</em> continues the saga of the shepherd destined to become a king. As better-trained and better-equipped enemy armies close in, Pan must navigate overwhelming odds, betrayal, and court intrigue — not only to survive, but to reclaim the woman he loves.",
+      "Set against the sweeping backdrop of a collapsing kingdom and a rising warlord, The King – A Bronze Age Tale continues the saga of the shepherd destined to become a king. As better-trained and better-equipped enemy armies close in, Pan must navigate overwhelming odds, betrayal, and court intrigue — not only to survive, but to reclaim the woman he loves.",
     description3:
       " Rich in historical detail, political intrigue, and haunting emotion, this epic sequel to The Shepherd cements Tristan Nettles’ place as a rising voice in historical fiction. The King is a powerful tale of war, leadership, and love — where loyalty endures, and nothing is more sacred than the bonds we fight to protect.",
     available:
