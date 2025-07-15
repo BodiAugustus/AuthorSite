@@ -90,13 +90,13 @@ export default function NewReleases() {
                 his past but never forgets it. As a rambunctious youth, soldier,
                 international dark web drug dealer, outlaw, lover, and
                 mercenary, Tristan travels the world — from armed home invasions
-                to mountain top temples, from Southeast Asian prisons to
-                battlefields in Eastern Europe — chasing truth, redemption, and
-                ultimately, justice. When the woman he loves, Ashley Oosthuizen,
-                is wrongfully imprisoned and sentenced to death in Thailand,
-                Tristans&#39; mission becomes clear. What began as a reckless
-                search for freedom turns into an international fight for someone
-                else&#39;s.
+                in Mississippi to mountain top temples in Nepal, from Southeast
+                Asian prisons to battlefields in Eastern Europe — chasing truth,
+                redemption, and ultimately, justice. When the woman he loves,
+                Ashley Oosthuizen, is wrongfully imprisoned and sentenced to
+                death in Thailand, Tristans&#39; mission becomes clear. What
+                began as a reckless search for freedom turns into an
+                international fight for someone else&#39;s.
               </p>
               <p className="font font-serif">
                 Told with dark humor, brutal honesty, and heart-stopping
