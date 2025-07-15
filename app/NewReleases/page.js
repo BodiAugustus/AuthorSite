@@ -58,8 +58,8 @@ export default function NewReleases() {
           {/* Book Cover */}
           <div className="flex-shrink-0 mx-auto lg:mx-0">
             <Image
-              src="/bookCover.jpeg" // Replace with actual image path
-              alt="Never Flinch Cover"
+              src="/comingSoon.jpeg" // Replace with actual image path
+              alt="Upcoming soon"
               width={300}
               height={450}
               className="shadow-lg rounded"

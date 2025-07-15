@@ -14,7 +14,7 @@ const upcomingWorks = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
     available:
       "False Positive will be available in most English-language markets in the Fall of 2025.",
-    image: "/bookCover.jpeg",
+    image: "/comingSoon.jpeg",
     category: "Commercial Nonfiction",
   },
   {
@@ -28,7 +28,7 @@ const upcomingWorks = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ",
     available:
       "The King - A Bronze Age Tale will be available in most in most English-language markets by Summer, 2026.",
-    image: "/bookCover.jpeg",
+    image: "/comingSoon.jpeg",
     category: "Commercial Fiction",
   },
   // More books can be added here

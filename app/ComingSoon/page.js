@@ -29,7 +29,7 @@ export default function ComingSoon() {
               {/* Foreground book cover image */}
               <div className="relative z-10">
                 <Image
-                  src="/bookCover.jpeg"
+                  src="/comingSoon.jpeg"
                   alt="The Shepherd Cover"
                   width={125}
                   height={200}
@@ -82,7 +82,7 @@ export default function ComingSoon() {
               {/* Foreground book cover image */}
               <div className="relative z-10">
                 <Image
-                  src="/bookCover.jpeg"
+                  src="/comingSoon.jpeg"
                   alt="The Shepherd Cover"
                   width={125}
                   height={200}
@@ -133,6 +133,20 @@ export default function ComingSoon() {
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">
+                Hominids - Genesis, a new series has started!
+              </h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: July 14th, 2025 9:23:32 pm EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Tristan Nettles Begins Work on Groundbreaking New Series:
+                Hominids – Genesis. Author Tristan Nettles has officially begun
+                writing his ambitious new...
+              </p>
+              <p className="text-sm font-bold mt-2">READ MORE</p>
+            </div>
+            <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">
                 The King - A Bronze Age Tale is finished!
               </h3>
               <p className="text-xs text-gray-500 mb-2">
@@ -141,19 +155,6 @@ export default function ComingSoon() {
               <p className="text-sm text-gray-700 font-serif">
                 Tristan finishes the final chapter of the epic 505s page follow
                 up to The Shepherd - A Bronze Age Tale.
-              </p>
-              <p className="text-sm font-bold mt-2">READ MORE</p>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">
-                False Positive Publication Date Announced
-              </h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: August 7th, 2025 12:00:00 pm EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Award-winning publishing house, Histria Books, announced the
-                long awaited true tale about the Ashley Oosthuizen Saga.
               </p>
               <p className="text-sm font-bold mt-2">READ MORE</p>
             </div>
