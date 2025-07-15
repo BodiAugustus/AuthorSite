@@ -52,13 +52,13 @@ export default function ComingSoon() {
                   False Positive
                 </h3>
                 <p className="mt-2 text-gray-700 text-sm font-serif">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                  irure dolor in reprehenderit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                  cupidatat non proident.
+                  From a troubled childhood in the American South to the
+                  battle-scarred fields of Ukraine,{" "}
+                  <strong>Tristan Seth Nettles</strong> has lived a life that
+                  defies belief. Born into chaos, armed with stubborn
+                  determination and a restless spirit, Tristan navigates a world
+                  that seems determined to break him — and somehow survives,
+                  transforms, and fights back.
                 </p>
                 <p className="text-sm font-bold mt-3 text-gray-800">
                   MORE INFO
@@ -105,13 +105,14 @@ export default function ComingSoon() {
                   The King - A Bronze Age Tale
                 </h3>
                 <p className="mt-2 text-gray-700 text-sm font-serif">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                  irure dolor in reprehenderit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                  cupidatat non proident.
+                  In a brutal world shaped by bronze and blood,{" "}
+                  <strong>Pan Shepherd</strong> returns — no longer a slave, but
+                  a man driven by love, vengeance, and an unrelenting
+                  determination to rescue Beocca, who was abducted during their
+                  wedding by a sadistic prince-turned-king. Set against the
+                  sweeping backdrop of a collapsing kingdom and a rising
+                  warlord, <em>The King – A Bronze Age Tale</em> continues the
+                  saga of the shepherd destined to become a king.
                 </p>
                 <p className="text-sm font-bold mt-3 text-gray-800">
                   MORE INFO

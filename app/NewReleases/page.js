@@ -77,32 +77,36 @@ export default function NewReleases() {
             {/* Scrollable content area */}
             <div className="max-h-[60vh] overflow-y-auto pr-4 space-y-6 bg-white p-2 rounded-md">
               <p className="font font-serif">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
+                From a troubled childhood in the American South to the
+                battle-scarred fields of Ukraine,{" "}
+                <strong>Tristan Seth Nettles</strong> has lived a life that
+                defies belief. Born into chaos, armed with stubborn
+                determination and a restless spirit, Tristan navigates a world
+                that seems determined to break him — and somehow survives,
+                transforms, and fights back.
               </p>
               <p className="font font-serif">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
+                <em>False Positive</em> is the true story of a man who outruns
+                his past but never forgets it. As a student, soldier,
+                international drug dealer, outlaw, lover, and mercenary, Tristan
+                travels the world — from armed home invasions to Russian
+                Roulette, from Southeast Asian prisons to battlefields in
+                Eastern Europe — chasing truth, redemption, and ultimately,
+                justice. When the woman he loves, Ashley Oosthuizen, is
+                wrongfully imprisoned and sentenced to death in Thailand,
+                Tristans&#39; mission becomes clear. What began as a reckless
+                search for freedom turns into an international fight for someone
+                else&#39;s.
               </p>
               <p className="font font-serif">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
+                Told with dark humor, brutal honesty, and heart-stopping
+                intensity, <strong>False Positive</strong> is a modern epic — a
+                real-life odyssey in the spirit of <em>Forrest Gump</em> and{" "}
+                <em>Catch Me If You Can</em>. It&#39;s a raw, unforgettable
+                journey through love, loss, crime, war, and the deep, messy
+                beauty of being human.
               </p>
+
               <p className="font font-serif italic font-bold">
                 False Positive is available for preorder now — in hardcover,
                 ebook, and audiobook — only at Histria Books!
