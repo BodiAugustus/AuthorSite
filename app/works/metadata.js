@@ -1,11 +1,11 @@
 export const metadata = {
-  title: "Works by Tristan Nettles | Bronze Age & Modern Fiction",
+  title: "Works by Tristan Nettles | Commercial Fiction",
   description:
-    "Browse the full library of books by Tristan Nettles, including historical epics and psychological thrillers.",
+    "Browse the full library of books by Tristan Nettles, including historical sagas and modern epics.",
   keywords: [
     "Tristan Nettles books",
     "The Shepherd novel",
-    "False Positive thriller",
+    "False Positive novel",
     "Bronze Age fiction",
     "complete works",
     "Tristan Nettles author",
@@ -16,7 +16,7 @@ export const metadata = {
   openGraph: {
     title: "Works by Tristan Nettles",
     description:
-      "Explore every book written by Tristan Nettles. Bronze Age tales, thrillers, and unforgettable narratives.",
+      "Explore every book written by Tristan Nettles. Bronze Age tales, epics, and unforgettable narratives.",
     url: "https://www.tristannettles.com/works",
     images: [
       {

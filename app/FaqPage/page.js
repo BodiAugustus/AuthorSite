@@ -45,28 +45,28 @@ const faqs = {
             className="text-blue-600 underline hover:text-blue-400"
           >
             Rollingstone.
-          </a>There were many others like it.`,
+          </a>Being there was akin to living on the razor's edge. It was scary, exciting, profound, and stupid.`,
     },
     {
       question:
         "How did your background in biology and the military shape your worldview?",
       answer:
-        "Both pursuits have led me to deduct, not infer, my conclusions to avoid being misled or mislead. I have a greater appreciation for the majesty of life than I did before, and its many complexities. I also learned how to think rationally, scientifically, and for myself. Some of my discoveries have been eye opening, to say the least.",
+        "Both pursuits have led me to learn how to deduct, not infer, my conclusions to avoid being misled or mislead. I have a greater appreciation for the majesty of life than I did before, and its many complexities. I also learned how to think rationally, scientifically, and for myself.",
     },
     {
       question: "What role does cryptocurrency play in your life today?",
       answer:
-        "I use digital finance daily, most notably as an investment platform but more and more as a daily means of transaction. I am heavily invested in the Sonic Blockchain and believe very much in Monero as well. I encourage all people, especially young ones, to learn how to invest in and utilize digital assets.",
+        "I use digital finance daily, most notably as an investment platform but more and more as a daily means of transaction. I am heavily invested in the Sonic Blockchain and believe very much in Monero as well. I encourage all people, especially young ones, to learn how to invest in and utilize digital assets moving forward. Anyone who is interested in learning more can visit Ashley DeFi by clicking on the link on the top right corner of this website.",
     },
     {
       question:
         "Is your advocacy for Ashley a one-man mission or part of a larger campaign?",
       answer:
-        "It is part of a much larger campaign set up and run by her mother, who lives outside of Ashley's prison in Surat Thani, Thailand, and visits her regularly. She also maintains all legal proceedings in Thailand to get her released, and continues to work with the South African government as well. Ashley was initially sentenced to death, then commuted to life, then commuted to 34 years, and now, most recently, her sentence has been commuted down to 12 with a downgrade of her charges and eligibility for a royal pardon. Everyone works, hopes, and prays that Ashley will be allowed to return home soon.",
+        "It is part of a much larger campaign set up and run by her mother, who lives outside of Ashley's prison in Surat Thani, Thailand, and visits her regularly. She also maintains all legal proceedings in Thailand to get her released, and continues to work with the South African government as well. Ashley was initially sentenced to death, then commuted to life, then commuted to 34 years, and now, most recently, her sentence has been commuted down to 12 with a downgrade of her charges and eligibility for a royal pardon.",
     },
     {
       question: "What countries have influenced your worldview the most?",
-      answer: "The USA. Nepal and Thailand as well.",
+      answer: "The USA, Bahamas, Micronesia, and Thailand as well.",
     },
     {
       question: "What's your favorite place out of everywhere you have gone?",
@@ -75,24 +75,23 @@ const faqs = {
     {
       question: "What does a typical day look like for you now?",
       answer:
-        "I wake up before 6 and write until 9. Then I take an hour for breakfast. From 10 until lunch I focus on digital assets. After lunch I work more on writing until taking an hour or two for a physical activity, like going to the gym or the beach. Afterwards, I work until dinner and then revise my writing for an hour or so before bed, usually around 10.",
+        "Lots of work with very little rest or time off. I generally work every day, and have done so ever since Ashley Oosthuizen was first taken. This is how I have managed, among many other things, to write over 1400 pages spanning three novels in under five years.",
     },
     {
       question: "Are your travel stories based on real events?",
       answer:
-        "Yes. My fiction writing is also heavily influenced by my world travels and living internationally. ",
+        "Yes. My fiction writing is also heavily influenced by my personal experiences, world travels, and living internationally. ",
     },
   ],
   Writing: [
     {
       question: "Why did you become a writer?",
-      answer:
-        "First, to help raise attention and awareness for Ashley Oosthuizen. Second, as a means to share my experiences with the world.",
+      answer: "To help raise attention and awareness for Ashley Oosthuizen.",
     },
     {
       question: "Where do you get your ideas?",
       answer:
-        "They come to me suddenly, and without warning. I imagine my colorful life has helped a lot.",
+        "I am not sure. A drop forms a trickle that creates the stream to fill an ocean. That is how my ideas come to me, starting as a single drop. The rest gets tersed out overtime.",
     },
     {
       question: "Do you only write about the Bronze Age?",
@@ -101,22 +100,22 @@ const faqs = {
     },
     {
       question: "Will you read my manuscript and tell me what you think?",
-      answer: "Tristan Nettles is unable to read unsolicited manuscripts.",
+      answer: "I lack the time to read unsolicited manuscripts.",
     },
     {
       question: "How did you get published?",
       answer:
-        "I sent in my manuscript to various traditional publishers and was eventually offered a contract.",
+        "I sent in my original manuscript to various traditional publishers and was eventually offered a contract via Histria Books.",
     },
     {
       question: "What inspired The Shepherd: A Bronze Age Tale?",
       answer:
-        "Ashley Oosthuizen. The storyline came to me in a dream during her trial. I then spent 15 month writing it up in the jungles of El Salvador to help raise awareness and funds for her cause before volunteering to go fight in Ukraine.",
+        "Ashley Oosthuizen. The storyline came to me in a dream during her trial. I then spent 15 month writing it up in the jungles of Honduras and El Salvador, to help raise awareness and funds for her cause, before volunteering to go fight in Ukraine.",
     },
     {
       question: "How do you research ancient history for your novels?",
       answer:
-        "I have an extensive historical background, curated from childhood,  including many university classes specifically centered on ancient history. I use modern tools and research methods as well to ensure historical accuracy in my writing.",
+        "I have an extensive historical background, curated from childhood, including many university classes centered on ancient history. I also use modern tools and research methods to ensure historical accuracy in my writing.",
     },
     {
       question:
@@ -133,7 +132,7 @@ const faqs = {
       question:
         "What authors or books have most influenced your writing style?",
       answer:
-        "The classic writers - especially Dumas, Dickens and Tolstoy. I have also been influenced by some more modern authors as well, specifically Patrick O'Brian and Bernard Cornwell.",
+        "The classic writers - especially Dumas, Dickens and Tolstoy. I have also been influenced by more modern authors as well, specifically Patrick O'Brian, Evans Cottman, and Bernard Cornwell.",
     },
   ],
   // Rumors: [

@@ -19,13 +19,13 @@ const newsItems = [
   },
   {
     title: "False Positive Publication Date Announced",
-    date: "    Posted: August 7th, 2025 12:00:00 pm EDT",
+    date: "    Posted: July 3rd, 2025 1:12:53 pm EDT",
     content: ` Award-winning publisher Histria Books — now part of the Simon & Schuster family — has officially announced the release of the long-awaited true account of the Ashley Oosthuizen saga, coming Fall 2025. Spanning 710 pages, this global odyssey is a raw, unforgettable journey — equal parts David Copperfield, Forrest Gump, and Requiem for a Dream. It’s a modern epic of war, crime, sex, drugs, corruption, betrayal, and wrongful imprisonment — all drawn from real events that expose the uncomfortable truths of our modern world from multiple, often unflattering angles. Heartbreaking and profound, this generational story pulls no punches — and every word is true. Keep your eyes on bookstore shelves this fall. This is one book you won't want to miss.`,
     youtubeEmbed: "",
   },
   {
     title: "New Author Website Posted",
-    date: "    Posted: June 20th, 2025 12:00:00 pm EDT",
+    date: "    Posted: June 20th, 2025 9:53:06 am EDT",
     content: ` Readers and fans can now explore the newly launched official website of author Tristan Nettles, designed to make it easier than ever to connect, follow his journey, and stay up to date on current and upcoming works. The site features exclusive updates, book announcements, and behind-the-scenes content — all in one place. Stay tuned for regular updates and insights from the author himself.`,
     youtubeEmbed: "",
     image: "/phangan3.jpg",

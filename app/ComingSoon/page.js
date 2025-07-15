@@ -55,10 +55,12 @@ export default function ComingSoon() {
                   From a troubled childhood in the American South to the
                   battle-scarred fields of Ukraine,{" "}
                   <strong>Tristan Seth Nettles</strong> has lived a life that
-                  defies belief. Born into chaos, armed with stubborn
-                  determination and a restless spirit, Tristan navigates a world
-                  that seems determined to break him — and somehow survives,
-                  transforms, and fights back.
+                  almost defies belief. Born between wealth and poverty, armed
+                  with stubborn determination and a restless spirit, Tristan
+                  navigates a world that seems determined to break him to
+                  it&#39;s mold — and somehow survives, grows stronger, and
+                  fights back. Told with dark humor, brutal honesty, and
+                  heart-stopping intensity, False Positive is a modern epic.
                 </p>
                 <p className="text-sm font-bold mt-3 text-gray-800">
                   MORE INFO

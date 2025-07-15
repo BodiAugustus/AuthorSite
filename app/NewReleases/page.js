@@ -80,20 +80,20 @@ export default function NewReleases() {
                 From a troubled childhood in the American South to the
                 battle-scarred fields of Ukraine,{" "}
                 <strong>Tristan Seth Nettles</strong> has lived a life that
-                defies belief. Born into chaos, armed with stubborn
-                determination and a restless spirit, Tristan navigates a world
-                that seems determined to break him — and somehow survives,
-                transforms, and fights back.
+                almost defies belief. Born between wealth and poverty, armed
+                with stubborn determination and a restless spirit, Tristan
+                navigates a world that seems determined to break him to it&#39;s
+                mold — and somehow survives, grows stronger, and fights back.
               </p>
               <p className="font font-serif">
                 <em>False Positive</em> is the true story of a man who outruns
-                his past but never forgets it. As a student, soldier,
-                international drug dealer, outlaw, lover, and mercenary, Tristan
-                travels the world — from armed home invasions to Russian
-                Roulette, from Southeast Asian prisons to battlefields in
-                Eastern Europe — chasing truth, redemption, and ultimately,
-                justice. When the woman he loves, Ashley Oosthuizen, is
-                wrongfully imprisoned and sentenced to death in Thailand,
+                his past but never forgets it. As a rambunctious youth, soldier,
+                international dark web drug dealer, outlaw, lover, and
+                mercenary, Tristan travels the world — from armed home invasions
+                to mountain top temples, from Southeast Asian prisons to
+                battlefields in Eastern Europe — chasing truth, redemption, and
+                ultimately, justice. When the woman he loves, Ashley Oosthuizen,
+                is wrongfully imprisoned and sentenced to death in Thailand,
                 Tristans&#39; mission becomes clear. What began as a reckless
                 search for freedom turns into an international fight for someone
                 else&#39;s.

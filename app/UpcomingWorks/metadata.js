@@ -1,13 +1,15 @@
 export const metadata = {
   title: "Upcoming Books | Tristan Nettles",
   description:
-    "Preview upcoming books by Tristan Nettles. Get a glimpse at what’s next in historical fiction and psychological thrillers.",
+    "Preview upcoming books by Tristan Nettles. Get a glimpse at what’s next in historical fiction and commercial fiction.",
   keywords: [
     "upcoming books",
     "Tristan Nettles next release",
     "future novels",
     "new books soon",
     "Bronze Age saga upcoming",
+    "Hominids",
+    "Mr. Tinkerton",
   ],
   alternates: {
     canonical: "https://www.tristannettles.com/upcoming",

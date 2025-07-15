@@ -1,12 +1,13 @@
 export const metadata = {
   title: "New Releases | Tristan Nettles",
   description:
-    "Explore the latest books by Tristan Nettles. From Bronze Age battles to modern conspiracies, read what’s new.",
+    "Explore the latest books by Tristan Nettles. From Bronze Age battles to modern epics, read what’s new.",
   keywords: [
     "new book releases",
     "Tristan Nettles latest books",
     "Bronze Age historical fiction",
     "thriller author new books",
+    "Commercial fiction",
   ],
   alternates: {
     canonical: "https://www.tristannettles.com/new-releases",
@@ -14,7 +15,7 @@ export const metadata = {
   openGraph: {
     title: "New Releases | Tristan Nettles",
     description:
-      "Get the latest books from historical fiction and thriller author Tristan Nettles.",
+      "Get the latest books from historical and commercial fiction author Tristan Nettles.",
     url: "https://www.tristannettles.com/new-releases",
     images: [
       {
