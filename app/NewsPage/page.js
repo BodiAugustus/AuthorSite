@@ -9,7 +9,6 @@ const newsItems = [
     content: `Tristan Nettles Begins Work on Groundbreaking New Series: Hominids – Genesis. Author Tristan Nettles has officially begun writing his ambitious new multi-book series, Hominids – Genesis. The story follows a young ancient boy coming of age in a mysterious land where five early human species coexist, compete, and clash over scarce resources — a world where only one will ultimately survive. Blending commercial fiction, evolutionary science, and spiritual themes, this bold new series promises to explore what it means to be human in a time before history, in a way readers have never seen before. Stay tuned for more updates as this groundbreaking saga unfolds.
 `,
     youtubeEmbed: "",
-    image: "/shepherd.png",
   },
   {
     title: "The King - A Bronze Age Tale is finished!",
@@ -17,14 +16,12 @@ const newsItems = [
     content: `Tristan finishes the final chapter of the epic 505 page follow
     up to The Shepherd - A Bronze Age Tale. This thirty chapter masterpiece follows Pan Shepherd as he leads a rebellion that ultimately topples a centuries old kingdom under the control of a sadistic prince turned king. The novel, the third written by Tristan, will be published by Simon & Schuster, so look for it at a bookstore near you soon!`,
     youtubeEmbed: "",
-    image: "/comingSoon.jpeg",
   },
   {
     title: "False Positive Publication Date Announced",
     date: "    Posted: August 7th, 2025 12:00:00 pm EDT",
     content: ` Award-winning publisher Histria Books — now part of the Simon & Schuster family — has officially announced the release of the long-awaited true account of the Ashley Oosthuizen saga, coming Fall 2025. Spanning 710 pages, this global odyssey is a raw, unforgettable journey — equal parts David Copperfield, Forrest Gump, and Requiem for a Dream. It’s a modern epic of war, crime, sex, drugs, corruption, betrayal, and wrongful imprisonment — all drawn from real events that expose the uncomfortable truths of our modern world from multiple, often unflattering angles. Heartbreaking and profound, this generational story pulls no punches — and every word is true. Keep your eyes on bookstore shelves this fall. This is one book you won't want to miss.`,
     youtubeEmbed: "",
-    image: "/comingSoon.jpeg",
   },
   {
     title: "New Author Website Posted",
