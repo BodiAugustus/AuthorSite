@@ -22,7 +22,7 @@ export default function NavBar() {
 
       <nav>
         <ul
-          className={`flex flex-wrap justify-center gap-6 text-sm md:text-base font-light ${lato.className}`}
+          className={` flex flex-wrap justify-center gap-6 text-sm md:text-base font-light ${lato.className}`}
         >
           {[
             { label: "Works", href: "/works" },
