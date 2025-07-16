@@ -117,13 +117,13 @@ const photoGallery = [
     ),
   },
   {
-    src: "/slideshow/kohtao.jpg",
-    alt: "Selfie",
+    src: "/slideshow/me.jpg",
+    alt: "Coral Hill",
     caption: (
       <>
-        Driving on Koh Tao
+        Coral Hill
         <br />
-        Koh Tao, Thailand
+        Koh Samui, Thailand
       </>
     ),
   },

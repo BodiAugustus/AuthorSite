@@ -61,9 +61,12 @@ export default function ComingSoon() {
                   it&#39;s mold — and somehow survives, grows stronger, and
                   fights back.
                 </p>
-                <p className="text-sm font-bold mt-3 text-gray-800">
+                <Link
+                  href="/UpcomingWorks"
+                  className="text-sm font-bold mt-3 text-gray-800"
+                >
                   MORE INFO
-                </p>
+                </Link>
               </div>
             </div>
 
@@ -115,9 +118,12 @@ export default function ComingSoon() {
                   warlord, <em>The King – A Bronze Age Tale</em> continues the
                   saga of the shepherd destined to become a king.
                 </p>
-                <p className="text-sm font-bold mt-3 text-gray-800">
+                <Link
+                  href="/UpcomingWorks"
+                  className="text-sm font-bold mt-3 text-gray-800"
+                >
                   MORE INFO
-                </p>
+                </Link>
               </div>
             </div>
           </div>
@@ -145,7 +151,9 @@ export default function ComingSoon() {
                 Hominids – Genesis. Author Tristan Nettles has officially begun
                 writing his ambitious new...
               </p>
-              <p className="text-sm font-bold mt-2">READ MORE</p>
+              <Link href="NewsPage" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
             </div>
             <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">
@@ -158,7 +166,9 @@ export default function ComingSoon() {
                 Tristan finishes the final chapter of the epic 505s page follow
                 up to The Shepherd - A Bronze Age Tale.
               </p>
-              <p className="text-sm font-bold mt-2">READ MORE</p>
+              <Link href="NewsPage" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
             </div>
           </div>
         </aside>
