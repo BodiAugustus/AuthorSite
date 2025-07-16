@@ -141,6 +141,20 @@ export default function ComingSoon() {
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">
+                Publishing contract for <em>The King - A Bronze Age Tale</em> is signed!
+              </h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: July 16th, 2025 6:31:12 am EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Tristan Nettles has signed a new publishing agreement covering <em>The King - A Bronze Age Tale</em> which will be published by Histria Books and Simon & Schuster!
+              </p>
+              <Link href="NewsPage" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">
                 Hominids - Genesis, a new series has started!
               </h3>
               <p className="text-xs text-gray-500 mb-2">
@@ -155,21 +169,7 @@ export default function ComingSoon() {
                 READ MORE
               </Link>
             </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">
-                The King - A Bronze Age Tale is finished!
-              </h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: July 7th, 2025 6:31:24 pm EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Tristan finishes the final chapter of the epic 505s page follow
-                up to The Shepherd - A Bronze Age Tale.
-              </p>
-              <Link href="NewsPage" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
+       
           </div>
         </aside>
       </div>
