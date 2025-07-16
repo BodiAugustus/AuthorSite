@@ -12,11 +12,16 @@ export default function NewsletterSignup() {
 
   return (
     <section
-      className="w-full min-h-screen bg-[url('/portal.jpg')] bg-cover bg-center text-white py-16 px-6 sm:px-10 md:px-20"
+      className="w-full min-h-screen bg-[url('/portal.jpg')] bg-center bg-no-repeat 
+             bg-[length:200%_auto] sm:bg-[length:150%_auto] md:bg-cover 
+             text-white py-16 px-6 sm:px-10 md:px-20"
       id="newsletter"
     >
-      <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
-        <div className="text-3xl sm:text-4xl md:text-5xl font-extralight font-serif leading-15">
+      <div
+        className="bg-[#6AAAD6] p-2 sm:bg-transparent sm:p-0
+      max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center "
+      >
+        <div className="text-3xl sm:text-4xl md:text-5xl font-extralight font-serif sm:leading-15">
           <p>Get all the latest</p>
           <p className="">Tristan Nettles news and</p>
           <p className="">info sent to your inbox.</p>

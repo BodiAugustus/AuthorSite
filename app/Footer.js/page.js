@@ -6,13 +6,13 @@ import { HiX } from "react-icons/hi";
 export default function Footer() {
   return (
     <footer
-      className=" border-t border-gray-200 py-1 px-6 md:px-12 lg:px-20 text-sm text-gray-700
+      className="pt-6 border-t border-gray-200 py-1 px-6 md:px-12 lg:px-20 text-sm text-gray-700
     bg-fixed bg-center bg-cover bg-no-repeat relative"
       style={{ backgroundImage: "url('/navBG.png')" }}
     >
       <div className="max-w-screen-xl mx-auto flex flex-col lg:flex-row justify-between items-start lg:items-center">
         {/* Links */}
-        <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 text-center lg:text-left">
+        <div className="grid grid-cols-3 gap-4 text-center lg:text-left">
           <div className="flex flex-col">
             <Link className="font-semibold text-black" href="/AuthorPage">
               The Author
@@ -43,7 +43,7 @@ export default function Footer() {
           </div>
         </div>
         {/* Social Media Icons */}
-        <div className="mt-6 flex justify-center gap-6">
+        <div className="mt-6 flex justify-center gap-6 mx-auto">
           <a
             href="https://x.com/tristan_nettles"
             target="_blank"
@@ -68,7 +68,7 @@ export default function Footer() {
         </div>
 
         {/* Tower image */}
-        <div className="mt-8 lg:mt-0">
+        <div className="sm:mt-8 lg:mt-0 mx-auto">
           <Image
             src="/watch.png"
             alt="Dark Tower Silhouette"
@@ -80,7 +80,7 @@ export default function Footer() {
       </div>
 
       {/* Bottom Text */}
-      <div className="mt-10 text-center text-xs text-gray-500">
+      <div className="sm:mt-10 text-center text-xs text-gray-500">
         <p>© Copyright 2025 Tristan Nettles - All Rights Reserved. &nbsp;</p>
       </div>
     </footer>

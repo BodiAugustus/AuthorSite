@@ -47,10 +47,13 @@ export default function HomePage() {
       className="min-h-[calc(100vh-15vh)] bg-fixed bg-center bg-cover bg-no-repeat relative"
       style={{ backgroundImage: "url('/phangan3.jpg')" }}
     >
-      <div className="pt-6">
+      <div className="pt-[10vh] md:pt-6">
         {/* Slideshow Section */}
         <section
-          className="relative w-full max-w-[960px] mx-auto aspect-[16/8] rounded-lg shadow-lg overflow-hidden bg-black md:mt-2"
+          className="relative w-full max-w-[960px] mx-auto 
+             aspect-[12/12] sm:aspect-[9/16] md:aspect-[16/8] 
+             max-h-[85vh]
+             rounded-lg shadow-lg overflow-hidden bg-black md:mt-2 "
           onMouseEnter={stopSlideTimer}
           onMouseLeave={startSlideTimer}
           ref={containerRef}
