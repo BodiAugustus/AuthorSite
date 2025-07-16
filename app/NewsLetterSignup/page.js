@@ -114,7 +114,7 @@ export default function NewsletterSignup() {
 
           <button
             type="submit"
-            className="w-full py-2 bg-[#6AAAD6] text-white font-semibold tracking-wider hover:opacity-90"
+            className="w-full py-2 bg-[#6AAAD6] text-white font-semibold tracking-wider hover:opacity-90 active:opacity-100 cursor-pointer"
           >
             SIGN UP
           </button>
