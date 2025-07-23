@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Research Deep Dive Underway for Hominids – Genesis",
+    date: "Posted: July 23th, 2025 11:02:46 am EDT",
+    content: `With The King – A Bronze Age Tale now signed and scheduled for release, Tristan Nettles is wasting no time digging deeper into his next epic: Hominids – Genesis. This week, he’s been immersed in research to bring historical, cultural, and evolutionary accuracy to this bold prehistoric saga. From early human tool use and interspecies conflict to ancient climate shifts and survival strategies, each element is being woven with care and intensity. The groundwork laid now will shape a gripping story of love, loss, and survival in a world without modern language — but full of raw human emotion. Stay tuned for more insights and sneak peeks as the series continues to evolve.
+`,
+    youtubeEmbed: "",
+  },
+  {
     title: "Publishing contract for, 'The King - A Bronze Age Tale,' signed!",
     date: "Posted: July 16th, 2025 6:31:12 am EDT",
     content: `Tristan Nettles has signed a new publishing agreement covering 'The King - A Bronze Age Tale' which will be published by Histria Books and Simon & Schuster! This marks Tristan's third traditionally published novel, and amounts to over 1450 pages in under five years! With work already started on a brand new series, titled, 'Hominids,' there are still many more stories left to be told! Stay tuned!

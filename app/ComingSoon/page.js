@@ -141,13 +141,15 @@ export default function ComingSoon() {
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">
-                Publishing contract for <em>The King - A Bronze Age Tale</em> is signed!
+                Research Deep Dive Underway for Hominids – Genesis
               </h3>
               <p className="text-xs text-gray-500 mb-2">
-                Posted: July 16th, 2025 6:31:12 am EDT
+                Posted: July 23th, 2025 11:02:46 am EDT
               </p>
               <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles has signed a new publishing agreement covering <em>The King - A Bronze Age Tale</em> which will be published by Histria Books and Simon & Schuster!
+                With The King – A Bronze Age Tale now signed and scheduled for
+                release, Tristan Nettles is wasting no time digging deeper into
+                his next epic: Hominids – Genesis...
               </p>
               <Link href="NewsPage" className="text-sm font-bold mt-2">
                 READ MORE
@@ -155,21 +157,21 @@ export default function ComingSoon() {
             </div>
             <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">
-                Hominids - Genesis, a new series has started!
+                Publishing contract for <em>The King - A Bronze Age Tale</em> is
+                signed!
               </h3>
               <p className="text-xs text-gray-500 mb-2">
-                Posted: July 14th, 2025 9:23:32 pm EDT
+                Posted: July 16th, 2025 6:31:12 am EDT
               </p>
               <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles Begins Work on Groundbreaking New Series:
-                Hominids – Genesis. Author Tristan Nettles has officially begun
-                writing his ambitious new...
+                Tristan Nettles has signed a new publishing agreement covering{" "}
+                <em>The King - A Bronze Age Tale</em> which will be published by
+                Histria Books and Simon & Schuster!
               </p>
               <Link href="NewsPage" className="text-sm font-bold mt-2">
                 READ MORE
               </Link>
             </div>
-       
           </div>
         </aside>
       </div>
