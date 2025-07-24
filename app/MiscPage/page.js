@@ -114,7 +114,7 @@ export default function MiscPage() {
       {/* Section: Publishers */}
       <section>
         <h3 className="text-2xl font-semibold mb-4">Publishers</h3>
-        <div className="space-y-4">
+        <div className="space-y-4 mb-5">
           <p>
             <span className="font-bold">Histria Books</span> – Histria Books is
             a leading independent publishing house, with offices in Las Vegas
