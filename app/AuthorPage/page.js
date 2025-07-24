@@ -48,15 +48,59 @@ const photoGallery = [
       </>
     ),
   },
-
   {
-    src: "/slideshow/skipper.jpg",
-    alt: "Sailing Voyage",
+    src: "/slideshow/PacificSailing.jpg",
+    alt: "Japanese Lighthouse",
     caption: (
       <>
-        Ocean Sailing
+        Blue Water Sailing
         <br />
-        The Atlantic
+        Chuuk, Micronesia
+      </>
+    ),
+  },
+  {
+    src: "/slideshow/shipwreck.jpg",
+    alt: "Shipwreck",
+    caption: (
+      <>
+        Shipwreck
+        <br />
+        Chuuk, Micronesia
+      </>
+    ),
+  },
+  {
+    src: "/slideshow/chess.jpg",
+    alt: "Chess",
+    caption: (
+      <>
+        Chess
+        <br />
+        Pisar, Micronesia
+      </>
+    ),
+  },
+  {
+    src: "/slideshow/monks.jpg",
+    alt: "Monks",
+    caption: (
+      <>
+        Little Monks
+        <br />
+        Adzom Monastary, Nepal
+      </>
+    ),
+  },
+
+  {
+    src: "/slideshow/pirate.jpg",
+    alt: "Pirate's Life",
+    caption: (
+      <>
+        Pirate&nbsp;s Life
+        <br />
+        Thailand
       </>
     ),
   },

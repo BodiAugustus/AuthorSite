@@ -39,7 +39,7 @@ export default function ComingSoon() {
                 {/* Torn ribbon */}
                 <div className="absolute top-3 left-1/3 transform -translate-x-1/4 z-20">
                   <div className="relative bg-red-700 text-white font-bold text-xs px-4 py-1 shadow-lg">
-                    Release Date: Fall, 2025
+                    Release Date: Fall, 2026
                     <span className="absolute left-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -ml-1"></span>
                     <span className="absolute right-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -mr-1"></span>
                   </div>
@@ -96,7 +96,7 @@ export default function ComingSoon() {
                 {/* Torn ribbon */}
                 <div className="absolute top-3 left-1/3 transform -translate-x-1/4 z-20">
                   <div className="relative bg-red-700 text-white font-bold text-xs px-4 py-1 shadow-lg">
-                    Release Date: Summer 2026
+                    Release Date: Summer 2027
                     <span className="absolute left-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -ml-1"></span>
                     <span className="absolute right-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -mr-1"></span>
                   </div>
@@ -141,6 +141,22 @@ export default function ComingSoon() {
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">
+                Expanding Our Reach: – New Partnerships to Empower Your Books
+              </h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: July 24th, 2025 3:13:08 pm EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Tristan Nettles will receive unprecedented levels of exposure
+                for his upcoming and future works, thanks to multiple large
+                aquistion and partnership deals undertaken....
+              </p>
+              <Link href="NewsPage" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">
                 Research Deep Dive Underway for Hominids – Genesis
               </h3>
               <p className="text-xs text-gray-500 mb-2">
@@ -150,23 +166,6 @@ export default function ComingSoon() {
                 With The King – A Bronze Age Tale now signed and scheduled for
                 release, Tristan Nettles is wasting no time digging deeper into
                 his next epic: Hominids – Genesis...
-              </p>
-              <Link href="NewsPage" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">
-                Publishing contract for <em>The King - A Bronze Age Tale</em> is
-                signed!
-              </h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: July 16th, 2025 6:31:12 am EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles has signed a new publishing agreement covering{" "}
-                <em>The King - A Bronze Age Tale</em> which will be published by
-                Histria Books and Simon & Schuster!
               </p>
               <Link href="NewsPage" className="text-sm font-bold mt-2">
                 READ MORE

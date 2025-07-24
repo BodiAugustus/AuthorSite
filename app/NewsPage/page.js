@@ -4,7 +4,14 @@ import Image from "next/image";
 
 const newsItems = [
   {
-    title: "Research Deep Dive Underway for Hominids – Genesis",
+    title: "Expanding Our Reach: – New Partnerships to Empower Your Books",
+    date: "Posted: July 24th, 2025 3:13:08 pm EDT",
+    content: `Tristan Nettles will receive unprecedented levels of exposure for his upcoming and future works, thanks to multiple large aquistion and partnership deals undertaken by his publisher Histria Books. Per their most recent newsletter: On the heels of our previous announcement that Simon & Schuster will provide sales and distribution services for Histria Books in the United States and Canada beginning January 1, 2026, we are thrilled to share two exciting new announcements that mark the next chapter in our growth—and yours. These developments are designed to enhance sales and distribution, increase discoverability, and open new markets for Histria Books and our authors. In a landmark move to expand our international presence, Histria Books has joined forces with Forefront Books, based in Nashville, to acquire the Unicorn Publishing Group in the United Kingdom and to launch the Unified Publishing Group (UPG). The Unified Publishing Group brings together three respected publishers to: Strengthen global distribution—including expanded access to the UK, Europe, and other international markets; Launch co-publishing initiatives across genres and territories; Support authors with deeper editorial and marketing resources; Through UPG, Histria authors will benefit from new global exposure, potential co-publishing opportunities, and an unparalleled new international distribution network.
+`,
+    youtubeEmbed: "",
+  },
+  {
+    title: "Research deep dive underway for Hominids – Genesis",
     date: "Posted: July 23th, 2025 11:02:46 am EDT",
     content: `With The King – A Bronze Age Tale now signed and scheduled for release, Tristan Nettles is wasting no time digging deeper into his next epic: Hominids – Genesis. This week, he’s been immersed in research to bring historical, cultural, and evolutionary accuracy to this bold prehistoric saga. From early human tool use and interspecies conflict to ancient climate shifts and survival strategies, each element is being woven with care and intensity. The groundwork laid now will shape a gripping story of love, loss, and survival in a world without modern language — but full of raw human emotion. Stay tuned for more insights and sneak peeks as the series continues to evolve.
 `,
@@ -34,7 +41,7 @@ const newsItems = [
   {
     title: "False Positive Publication Date Announced",
     date: "    Posted: July 3rd, 2025 1:12:53 pm EDT",
-    content: ` Award-winning publisher Histria Books — now part of the Simon & Schuster family — has officially announced the release of the long-awaited true account of the Ashley Oosthuizen saga, coming Fall 2025. Spanning 710 pages, this global odyssey is a raw, unforgettable journey — equal parts David Copperfield, Forrest Gump, and Requiem for a Dream. It’s a modern epic of war, crime, sex, drugs, corruption, betrayal, and wrongful imprisonment — all drawn from real events that expose the uncomfortable truths of our modern world from multiple, often unflattering angles. Heartbreaking and profound, this generational story pulls no punches — and every word is true. Keep your eyes on bookstore shelves this fall. This is one book you won't want to miss.`,
+    content: ` Award-winning publisher Histria Books — now part of the Simon & Schuster family — has officially announced the release of the long-awaited true account of the Ashley Oosthuizen saga, coming Fall 2026. Spanning 710 pages, this global odyssey is a raw, unforgettable journey — equal parts David Copperfield, Forrest Gump, and Requiem for a Dream. It’s a modern epic of war, crime, sex, drugs, corruption, betrayal, and wrongful imprisonment — all drawn from real events that expose the uncomfortable truths of our modern world from multiple, often unflattering angles. Heartbreaking and profound, this generational story pulls no punches — and every word is true. Keep your eyes on bookstore shelves this fall. This is one book you won't want to miss.`,
     youtubeEmbed: "",
   },
   {

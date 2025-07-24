@@ -5,7 +5,7 @@ import Link from "next/link";
 const upcomingWorks = [
   {
     title: "False Positive",
-    releaseDate: "Fall, 2025",
+    releaseDate: "Fall, 2026",
     description1:
       "From a troubled childhood in the American South to the battle-scarred fields of Ukraine, Tristan Seth Nettles has lived a life that almost defies belief. Born between wealth and poverty, armed with stubborn determination and a restless spirit, Tristan navigates a world that seems determined to break him to it's mold — and somehow survives, grows stronger, and fights back.",
     description2:
@@ -13,13 +13,13 @@ const upcomingWorks = [
     description3:
       "Told with dark humor, brutal honesty, and heart-stopping intensity, False Positive is a modern epic — a real-life odyssey in the spirit of Forrest Gump and Catch Me If You Can. It's a raw, unforgettable journey through love, loss, crime, war, and the deep, messy beauty of being human.",
     available:
-      "False Positive will be available in most English-language markets in the Fall of 2025.",
+      "False Positive will be available in most English-language markets in the Fall of 2026.",
     image: "/comingSoon.jpeg",
     category: "Commercial Nonfiction",
   },
   {
     title: "The King - A Bronze Age Tale",
-    releaseDate: "Summer, 2026",
+    releaseDate: "Summer, 2027",
     description1:
       "In a brutal world shaped by bronze and blood, Pan Shepherd returns — no longer a slave, but a man driven by love, vengeance, and an unrelenting determination to rescue Beocca, who was abducted during their wedding by a sadistic prince-turned-king.",
     description2:
@@ -27,7 +27,7 @@ const upcomingWorks = [
     description3:
       " Rich in historical detail, political intrigue, and haunting emotion, this epic sequel to The Shepherd cements Tristan Nettles’ place as a rising voice in historical fiction. The King is a powerful tale of war, leadership, and love — where loyalty endures, and nothing is more sacred than the bonds we fight to protect.",
     available:
-      "The King - A Bronze Age Tale will be available in most in most English-language markets by Summer, 2026.",
+      "The King - A Bronze Age Tale will be available in most in most English-language markets by Summer, 2027.",
     image: "/comingSoon.jpeg",
     category: "Commercial Fiction",
   },

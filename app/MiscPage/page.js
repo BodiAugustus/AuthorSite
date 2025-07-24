@@ -129,6 +129,23 @@ export default function MiscPage() {
             Histria Books Official Website
           </a>
         </div>
+        <div className="space-y-4">
+          <p>
+            <span className="font-bold">Simon & Schuster</span> - Simon and
+            Schuster is an American publishing house. It was founded in New York
+            City in 1924. Along with Penguin Random House, Hachette,
+            HarperCollins and Macmillan Publishers, Simon & Schuster is
+            considered one of the Big Five English language publishers.
+          </p>
+          <a
+            href="https://www.simonandschuster.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-blue-400"
+          >
+            Simon and Schuster Official Website
+          </a>
+        </div>
       </section>
     </main>
   );
