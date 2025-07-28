@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url><loc>https://www.tristannettles.com/works</loc><lastmod>2025-07-13T22:04:27.523Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.tristannettles.com/NewReleases</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.tristannettles.com/new-releases</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://www.tristannettles.com/Footer.js</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://www.tristannettles.com/HomePage</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.tristannettles.com/FaqPage</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.tristannettles.com/faqs</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://www.tristannettles.com/NewsLetterSignup</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://www.tristannettles.com/ComingSoon</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://www.tristannettles.com/components/NavBar</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.tristannettles.com/ContactPage</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.tristannettles.com/contact</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 <url><loc>https://www.tristannettles.com</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.tristannettles.com/UpcomingWorks</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.tristannettles.com/MiscPage</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.tristannettles.com/AuthorPage</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.tristannettles.com/NewsPage</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.tristannettles.com/upcoming-works</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.tristannettles.com/miscellaneous</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.tristannettles.com/author</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.tristannettles.com/news</loc><lastmod>2025-07-13T22:04:27.524Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 </urlset>

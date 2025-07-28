@@ -62,7 +62,7 @@ export default function ComingSoon() {
                   fights back.
                 </p>
                 <Link
-                  href="/UpcomingWorks"
+                  href="/upcoming-works"
                   className="text-sm font-bold mt-3 text-gray-800"
                 >
                   MORE INFO
@@ -134,7 +134,7 @@ export default function ComingSoon() {
           <h2 className="text-3xl font-bold mb-0 font-serif">Latest News</h2>
           <Link
             className={`hover:underline ${lato.className} font-bold text-slate-400`}
-            href="/NewsPage"
+            href="/news"
           >
             More News
           </Link>
@@ -151,7 +151,7 @@ export default function ComingSoon() {
                 for his upcoming and future works, thanks to multiple large
                 aquistion and partnership deals undertaken....
               </p>
-              <Link href="NewsPage" className="text-sm font-bold mt-2">
+              <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
               </Link>
             </div>
@@ -167,7 +167,7 @@ export default function ComingSoon() {
                 release, Tristan Nettles is wasting no time digging deeper into
                 his next epic: Hominids – Genesis...
               </p>
-              <Link href="NewsPage" className="text-sm font-bold mt-2">
+              <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
               </Link>
             </div>

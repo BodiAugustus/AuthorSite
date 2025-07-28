@@ -26,10 +26,10 @@ export default function NavBar() {
         >
           {[
             { label: "Works", href: "/works" },
-            { label: "Upcoming", href: "/UpcomingWorks" },
-            { label: "The Author", href: "/AuthorPage" },
-            { label: "News", href: "/NewsPage" },
-            { label: "FAQ", href: "/FaqPage" },
+            { label: "Upcoming", href: "/upcoming-works" },
+            { label: "The Author", href: "/author" },
+            { label: "News", href: "/news" },
+            { label: "FAQ", href: "/faqs" },
             { label: "Ashley DeFi", href: "https://www.ashleydefi.com" },
           ].map(({ label, href }) => (
             <li key={href}>

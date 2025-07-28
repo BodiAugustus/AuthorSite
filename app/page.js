@@ -1,5 +1,5 @@
 import HomePage from "./HomePage/page";
-import NewReleases from "./NewReleases/page";
+import NewReleases from "./new-releases/page";
 import ComingSoon from "./ComingSoon/page";
 import NewsletterSignup from "./NewsLetterSignup/page";
 

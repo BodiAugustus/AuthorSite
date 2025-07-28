@@ -14,12 +14,12 @@ export default function Footer() {
         {/* Links */}
         <div className="grid grid-cols-3 gap-4 text-center lg:text-left">
           <div className="flex flex-col">
-            <Link className="font-semibold text-black" href="/AuthorPage">
+            <Link className="font-semibold text-black" href="/author">
               The Author
             </Link>
-            <Link href="/NewsPage">News</Link>
-            <Link href="/FaqPage">FAQs</Link>
-            <Link href="/ContactPage">Contact</Link>
+            <Link href="/news">News</Link>
+            <Link href="/faqs">FAQs</Link>
+            <Link href="/contact">Contact</Link>
           </div>
           <div className="flex flex-col">
             <Link
@@ -29,17 +29,17 @@ export default function Footer() {
             >
               Newsletter
             </Link>
-            <Link href="/MiscPage">Miscellaneous</Link>
+            <Link href="/miscellaneous">Miscellaneous</Link>
             <Link href="https://www.AshleyDefi.com" target="_blank">
               Ashley DeFi
             </Link>
             <Link href="/works">All Works</Link>
           </div>
           <div className="flex flex-col">
-            <Link className="font-semibold text-black" href="/UpcomingWorks">
+            <Link className="font-semibold text-black" href="/upcoming-works">
               Upcoming
             </Link>
-            <Link href="/NewReleases">New Releases</Link>
+            <Link href="/new-releases">New Releases</Link>
           </div>
         </div>
         {/* Social Media Icons */}

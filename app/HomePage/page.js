@@ -18,7 +18,7 @@ const slides = [
   {
     src: "/shepherd.png",
     alt: "Pet Sematary Cover",
-    href: "/NewsPage",
+    href: "/news",
   },
 ];
 
