@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Excerpt from: Hominids - Genesis",
+    date: "    Posted: July 29th, 2025 11:08:18 am EDT",
+    content: `Readers and fans can now enjoy the first short excerpt from Tristan Nettles newest series, Hominids, which seeks to chart the journey of five distinct species of early humans on the island of Java, 55,000 years ago, as they all vye for survival and supremecy. Be sure to follow Tristan on his X profile to see all of the latest excerpts as they are posted!`,
+    youtubeEmbed: "",
+    image: "/excerpt1.png",
+  },
+  {
     title: "Expanding Our Reach: – New Partnerships to Empower Your Books",
     date: "Posted: July 24th, 2025 3:13:08 pm EDT",
     content: `Tristan Nettles will receive unprecedented levels of exposure for his upcoming and future works, thanks to multiple large aquistion and partnership deals undertaken by his publisher Histria Books. Per their most recent newsletter: On the heels of our previous announcement that Simon & Schuster will provide sales and distribution services for Histria Books in the United States and Canada beginning January 1, 2026, we are thrilled to share two exciting new announcements that mark the next chapter in our growth—and yours. These developments are designed to enhance sales and distribution, increase discoverability, and open new markets for Histria Books and our authors. In a landmark move to expand our international presence, Histria Books has joined forces with Forefront Books, based in Nashville, to acquire the Unicorn Publishing Group in the United Kingdom and to launch the Unified Publishing Group (UPG). The Unified Publishing Group brings together three respected publishers to: Strengthen global distribution—including expanded access to the UK, Europe, and other international markets; Launch co-publishing initiatives across genres and territories; Support authors with deeper editorial and marketing resources; Through UPG, Histria authors will benefit from new global exposure, potential co-publishing opportunities, and an unparalleled new international distribution network.
@@ -41,13 +48,13 @@ const newsItems = [
   {
     title: "False Positive Publication Date Announced",
     date: "    Posted: July 3rd, 2025 1:12:53 pm EDT",
-    content: ` Award-winning publisher Histria Books — now part of the Simon & Schuster family — has officially announced the release of the long-awaited true account of the Ashley Oosthuizen saga, coming Fall 2026. Spanning 710 pages, this global odyssey is a raw, unforgettable journey — equal parts David Copperfield, Forrest Gump, and Requiem for a Dream. It’s a modern epic of war, crime, sex, drugs, corruption, betrayal, and wrongful imprisonment — all drawn from real events that expose the uncomfortable truths of our modern world from multiple, often unflattering angles. Heartbreaking and profound, this generational story pulls no punches — and every word is true. Keep your eyes on bookstore shelves this fall. This is one book you won't want to miss.`,
+    content: `Award-winning publisher Histria Books — now part of the Simon & Schuster family — has officially announced the release of the long-awaited true account of the Ashley Oosthuizen saga, coming Fall 2026. Spanning 710 pages, this global odyssey is a raw, unforgettable journey — equal parts David Copperfield, Forrest Gump, and Requiem for a Dream. It’s a modern epic of war, crime, sex, drugs, corruption, betrayal, and wrongful imprisonment — all drawn from real events that expose the uncomfortable truths of our modern world from multiple, often unflattering angles. Heartbreaking and profound, this generational story pulls no punches — and every word is true. Keep your eyes on bookstore shelves this fall. This is one book you won't want to miss.`,
     youtubeEmbed: "",
   },
   {
     title: "New Author Website Posted",
     date: "    Posted: June 20th, 2025 9:53:06 am EDT",
-    content: ` Readers and fans can now explore the newly launched official website of author Tristan Nettles, designed to make it easier than ever to connect, follow his journey, and stay up to date on current and upcoming works. The site features exclusive updates, book announcements, and behind-the-scenes content — all in one place. Stay tuned for regular updates and insights from the author himself.`,
+    content: `Readers and fans can now explore the newly launched official website of author Tristan Nettles, designed to make it easier than ever to connect, follow his journey, and stay up to date on current and upcoming works. The site features exclusive updates, book announcements, and behind-the-scenes content — all in one place. Stay tuned for regular updates and insights from the author himself.`,
     youtubeEmbed: "",
     image: "/phangan3.jpg",
   },

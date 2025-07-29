@@ -140,6 +140,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Excerpt from: Hominids - Genesis</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: July 29th, 2025 11:08:18 am EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Readers and fans can now enjoy the first short excerpt from
+                Tristan Nettles newest series, Hominids, which seeks to chart
+                the journey of five distinct species...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">
                 Expanding Our Reach: – New Partnerships to Empower Your Books
               </h3>
@@ -150,22 +164,6 @@ export default function ComingSoon() {
                 Tristan Nettles will receive unprecedented levels of exposure
                 for his upcoming and future works, thanks to multiple large
                 aquistion and partnership deals undertaken....
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">
-                Research Deep Dive Underway for Hominids – Genesis
-              </h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: July 23th, 2025 11:02:46 am EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                With The King – A Bronze Age Tale now signed and scheduled for
-                release, Tristan Nettles is wasting no time digging deeper into
-                his next epic: Hominids – Genesis...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
