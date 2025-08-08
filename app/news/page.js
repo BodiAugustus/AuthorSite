@@ -8,7 +8,7 @@ const newsItems = [
     date: "    Posted: August 8th, 2025 6:48:43 pm EDT",
     content: `This week's focus has been on character development for the young protagonist, exploring themes of identity, alliance, and conflict in a largely pre-linguistic era driven by instinct and emotion. Fans can expect another excerpt shared soon on Tristan's X profile—follow @tristan_nettles for real-time glimpses into this groundbreaking saga. Stay tuned as the journey toward supremacy unfolds!`,
     youtubeEmbed: "",
-    image: "/excerpt1.png",
+    image: "",
   },
   {
     title: "Excerpt from: Hominids - Genesis",
