@@ -140,6 +140,22 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">
+                Diving Deeper into Hominids – Genesis
+              </h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: August 8th, 2025 6:48:43 pm EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                This week&apos;s focus has been on character development for the
+                young protagonist, exploring themes of identity, alliance, and
+                conflict in a...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">Excerpt from: Hominids - Genesis</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: July 29th, 2025 11:08:18 am EDT
@@ -148,22 +164,6 @@ export default function ComingSoon() {
                 Readers and fans can now enjoy the first short excerpt from
                 Tristan Nettles newest series, Hominids, which seeks to chart
                 the journey of five distinct species...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">
-                Expanding Our Reach: – New Partnerships to Empower Your Books
-              </h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: July 24th, 2025 3:13:08 pm EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles will receive unprecedented levels of exposure
-                for his upcoming and future works, thanks to multiple large
-                aquistion and partnership deals undertaken....
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE

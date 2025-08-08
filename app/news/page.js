@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Diving Deeper into Hominids – Genesis",
+    date: "    Posted: August 8th, 2025 6:48:43 pm EDT",
+    content: `This week's focus has been on character development for the young protagonist, exploring themes of identity, alliance, and conflict in a largely pre-linguistic era driven by instinct and emotion. Fans can expect another excerpt shared soon on Tristan's X profile—follow @tristan_nettles for real-time glimpses into this groundbreaking saga. Stay tuned as the journey toward supremacy unfolds!`,
+    youtubeEmbed: "",
+    image: "/excerpt1.png",
+  },
+  {
     title: "Excerpt from: Hominids - Genesis",
     date: "    Posted: July 29th, 2025 11:08:18 am EDT",
     content: `Readers and fans can now enjoy the first short excerpt from Tristan Nettles newest series, Hominids, which seeks to chart the journey of five distinct species of early humans on the island of Java, 55,000 years ago, as they all vye for survival and supremecy. Be sure to follow Tristan on his X profile to see all of the latest excerpts as they are posted!`,
