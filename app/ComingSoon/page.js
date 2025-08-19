@@ -140,6 +140,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Writing Epic</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: August 19th, 2025 10:30:05 am EDT{" "}
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                As Tristan Nettles carves out his fourth novel, he reflects on a
+                life that fuels his storytelling—a tapestry of raw experiences
+                that...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">
                 Diving Deeper into Hominids – Genesis
               </h3>
@@ -150,20 +164,6 @@ export default function ComingSoon() {
                 This week&apos;s focus has been on character development for the
                 young protagonist, exploring themes of identity, alliance, and
                 conflict in a...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">Excerpt from: Hominids - Genesis</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: July 29th, 2025 11:08:18 am EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Readers and fans can now enjoy the first short excerpt from
-                Tristan Nettles newest series, Hominids, which seeks to chart
-                the journey of five distinct species...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE

@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Writing Epic",
+    date: "Posted: August 19th, 2025 10:30:05 am EDT",
+    content: `As Tristan Nettles carves out his fourth novel, he reflects on a life that fuels his storytelling—a tapestry of raw experiences that most could hardly imagine. Each novel, from *The Shepherd* to his latest work in progress, channels the grit and heart of a life lived boldly. This week, Tristan’s been immersed in writing, promising a story that pulses with riveting authenticity. Fans can catch glimpses of his process and musings on his X profile (@tristan_nettles). Keep an eye out for more as this prolific author’s next chapter unfolds!`,
+    youtubeEmbed: "",
+    image: "/sc.png",
+  },
+  {
     title: "Diving Deeper into Hominids – Genesis",
     date: "    Posted: August 8th, 2025 6:48:43 pm EDT",
     content: `This week's focus has been on character development for the young protagonist, exploring themes of identity, alliance, and conflict in a largely pre-linguistic era driven by instinct and emotion. Fans can expect another excerpt shared soon on Tristan's X profile—follow @tristan_nettles for real-time glimpses into this groundbreaking saga. Stay tuned as the journey toward supremacy unfolds!`,
@@ -65,6 +72,7 @@ const newsItems = [
     youtubeEmbed: "",
     image: "/phangan3.jpg",
   },
+
   // Add more news objects as needed
 ];
 
