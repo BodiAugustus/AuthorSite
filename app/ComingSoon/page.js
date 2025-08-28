@@ -140,6 +140,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Update on Worldwide Distribution</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: August 28th, 2025 12:39:15 pm EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Histria Books has joined forces with Forefront Books to create
+                the Unified Publishing Group (UPG). In July, UPG acquired the
+                Unicorn Publishing Group in the United Kingdom....
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">Writing Epic</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: August 19th, 2025 10:30:05 am EDT{" "}
@@ -148,22 +162,6 @@ export default function ComingSoon() {
                 As Tristan Nettles carves out his fourth novel, he reflects on a
                 life that fuels his storytelling—a tapestry of raw experiences
                 that...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">
-                Diving Deeper into Hominids – Genesis
-              </h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: August 8th, 2025 6:48:43 pm EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                This week&apos;s focus has been on character development for the
-                young protagonist, exploring themes of identity, alliance, and
-                conflict in a...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE

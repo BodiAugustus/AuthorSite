@@ -4,6 +4,14 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Update on Worldwide Distribution",
+    date: "Posted: August 28th, 2025 12:39:15 pm EDT",
+    content: `Histria Books has joined forces with Forefront Books to create the Unified Publishing Group (UPG). In July, UPG acquired the Unicorn Publishing Group in the United Kingdom.
+    Apart from its publishing program, which features high-quality art books, Unicorn also operates a worldwide distribution network, with sales reps around the globe and fulfillment. As of January 1, 2026, all Histria Books titles, including backlist titles and titles obtained in the Top of the World acquisition, will be sold around the world via the Unified Distribution Group (UDG), bringing a whole new level of international distribution to Tristan Nettles works.`,
+    youtubeEmbed: "",
+    image: "",
+  },
+  {
     title: "Writing Epic",
     date: "Posted: August 19th, 2025 10:30:05 am EDT",
     content: `As Tristan Nettles carves out his fourth novel, he reflects on a life that fuels his storytelling—a tapestry of raw experiences that most could hardly imagine. Each novel, from *The Shepherd* to his latest work in progress, channels the grit and heart of a life lived boldly. This week, Tristan’s been immersed in writing, promising a story that pulses with riveting authenticity. Fans can catch glimpses of his process and musings on his X profile (@tristan_nettles). Keep an eye out for more as this prolific author’s next chapter unfolds!`,
