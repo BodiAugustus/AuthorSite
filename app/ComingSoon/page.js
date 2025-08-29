@@ -119,7 +119,7 @@ export default function ComingSoon() {
                   saga of the shepherd destined to become a king.
                 </p>
                 <Link
-                  href="/UpcomingWorks"
+                  href="/upcoming-works"
                   className="text-sm font-bold mt-3 text-gray-800"
                 >
                   MORE INFO
