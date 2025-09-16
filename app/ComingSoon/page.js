@@ -140,14 +140,14 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">Update on U.S. Distribution Changes</h3>
+              <h3 className="font-bold">Writing Update</h3>
               <p className="text-xs text-gray-500 mb-2">
-                Posted: September 8th, 2025 8:47:34 pm EDT
+                Posted: September 16th, 2025 10:30:19 pm EDT
               </p>
               <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles publisher, Histria Books, is excited to share
-                that their transition from IPG to Simon & Schuster distribution
-                is well underway. This move...
+                Tristan Nettles continues to write and research his newest epic,
+                Hominids, ensuring a riveting and historically accurate epic
+                that is sure to keep readers on the edge of....
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE

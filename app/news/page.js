@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Writing Update",
+    date: "Posted: September 16th, 2025 10:30:19 pm EDT",
+    content: `Tristan Nettles continues to write and research his newest epic, Hominids, ensuring a riveting and historically accurate epic that is sure to keep readers on the edge of their seat. Tristan enjoys the challenge of writing far sweeping epic tales and looks forward to sharing more of his newest work in the weeks and months ahead!`,
+    youtubeEmbed: "",
+    image: "",
+  },
+  {
     title: "Update on U.S. Distribution Changes",
     date: "Posted: September 8th, 2025 8:47:34 pm EDT",
     content: `Tristan Nettles publisher, Histria Books, is excited to share that their transition from IPG to Simon & Schuster distribution is well underway. This move gives Histria Books access to state-of-the-art systems and the industry’s leading sales force, expanding our reach and creating new opportunities for every author, including Tristan. Distribution via Simon & Schuster begins January 1, 2026.`,
