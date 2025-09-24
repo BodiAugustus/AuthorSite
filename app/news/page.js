@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Distribution Update",
+    date: "Posted: September 24th, 2025 11:50:08 am EDT",
+    content: `Tristan Nettles publisher is delighted to report that, beginning October 1, 2025, Unified Book Distribution will take on the distribution of qualifying Histria Books titles in the United Kingdom and Europe. This marks the first phase of our effort to expand international opportunities for Histria Books authors. Then, starting January 1, 2026, Unified Book Distribution will represent all qualified Histria Books titles worldwide (with the exception of the U.S. and Canada, which will be handled exclusively by Simon & Schuster).`,
+    youtubeEmbed: "",
+    image: "",
+  },
+  {
     title: "Writing Update",
     date: "Posted: September 16th, 2025 10:30:19 pm EDT",
     content: `Tristan Nettles continues to write and research his newest epic, Hominids, ensuring a riveting and historically accurate epic that is sure to keep readers on the edge of their seat. Tristan enjoys the challenge of writing far sweeping epic tales and looks forward to sharing more of his newest work in the weeks and months ahead!`,
