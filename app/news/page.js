@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Excerpt from Upcoming Novel",
+    date: "October 1st, 2025 9:15:07 am EDT",
+    content: `Enjoy a short excerpt from Tristan Nettles upcoming novel, 'The King - A Bronze Age Tale.' This epic, commercial fiction following the saga of Pan Shepherd and the legendary Beocca, will cement Tristan's status as an author of modern day classics. This masterfully written tale will be published internationally by Tristan's publisher, Simon & Schuster, during the fall of 2026. Get ready for an epic!`,
+    youtubeEmbed: "",
+    image: "/xcerpt.png",
+  },
+  {
     title: "Distribution Update",
     date: "Posted: September 24th, 2025 11:50:08 am EDT",
     content: `Tristan Nettles publisher is delighted to report that, beginning October 1, 2025, Unified Book Distribution will take on the distribution of qualifying Histria Books titles in the United Kingdom and Europe. This marks the first phase of our effort to expand international opportunities for Histria Books authors. Then, starting January 1, 2026, Unified Book Distribution will represent all qualified Histria Books titles worldwide (with the exception of the U.S. and Canada, which will be handled exclusively by Simon & Schuster).`,
