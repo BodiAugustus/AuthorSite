@@ -140,6 +140,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Writing Continues!</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: October 13th, 2025 12:47:23 pm EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Tristan Nettles latest novel, Hominids - Genesis, continues its
+                formation into a riveting and adventerous saga, regularly adding
+                new pages and chapters that....
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">Excerpt from Upcoming Novel</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: October 1st, 2025 9:15:07 am EDT
@@ -149,21 +163,6 @@ export default function ComingSoon() {
                 &apos;The King - A Bronze Age Tale.&apos; This epic, commercial
                 fiction following the saga of Pan Shepherd and the legendary
                 Beocca....
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">Distribution Update</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: September 24th, 2025 11:50:08 am EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles publisher is delighted to report that, beginning
-                October 1, 2025, Unified Book Distribution will take on the
-                distribution of qualifying Histria Books titles in the United
-                Kingdom and....
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE

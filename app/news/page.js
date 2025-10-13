@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Writing Continues!",
+    date: "October 13th, 2025 12:47:23 pm EDT",
+    content: `Tristan Nettles latest novel, Hominids - Genesis, continues its formation into a riveting and adventerous saga, regularly adding new pages and chapters that will leave readers immersed in the tribal world of stone age societies, with each one vying for total suremecy. Stay tuned for further updates ahead!`,
+    youtubeEmbed: "",
+    image: "",
+  },
+  {
     title: "Excerpt from Upcoming Novel",
     date: "October 1st, 2025 9:15:07 am EDT",
     content: `Enjoy a short excerpt from Tristan Nettles upcoming novel, 'The King - A Bronze Age Tale.' This epic, commercial fiction following the saga of Pan Shepherd and the legendary Beocca, will cement Tristan's status as an author of modern day classics. This masterfully written tale will be published internationally by Tristan's publisher, Simon & Schuster, during the fall of 2026. Get ready for an epic!`,
