@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Out Island Mechanic!",
+    date: "October 25th, 2025 2:07:37 pm EDT",
+    content: `Tristan Nettles favorite book growing up was entitled, 'Out Island Doctor,' by D. Evans Cottman. It followed the story of a retired Canadian science teacher who found himself practicing medicine, while learning on the fly, in the Bahamas out islands during the 1950's and 60's. With a B.S. in Biology, Tristan was set to pursue the same career path until the terrible misjustice regarding Miss Ashley Oosthuizen occurred. Everything Tristan has done since her arrest has been in the pursuit of gaining both her freedom, and future happiness. To help ensure this happy outcome, in addition to his writing and dabbling in decentralized finance, Tristan is further hedging his bets in the digital age by seeking to becoe an out island mechanic instead! He is currently in school until May, 2026, learning about diesel engines and acquiring the skills and tools required to go down into the Carribbean to begin working and building a beautiful homestead for Ashley to come home to. Writing continues as well, for when love is on the line, is any sacrifice ever considered too great? Stay tuned for future author updates, and excerpts from upcoming and soon to be published works!`,
+    youtubeEmbed: "",
+    image: "",
+  },
+  {
     title: "Writing Continues!",
     date: "October 13th, 2025 12:47:23 pm EDT",
     content: `Tristan Nettles latest novel, Hominids - Genesis, continues its formation into a riveting and adventerous saga, regularly adding new pages and chapters that will leave readers immersed in the tribal world of stone age societies, with each one vying for total suremecy. Stay tuned for further updates ahead!`,

@@ -140,6 +140,21 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Out Island Mechanic!</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: October 25th, 2025 2:07:37 pm EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Tristan Nettles favorite book growing up was entitled, Out
+                Island Doctor, by D. Evans Cottman. It followed the story of a
+                retired Canadian science teacher who found himself practicing
+                medicine, while....
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">Writing Continues!</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: October 13th, 2025 12:47:23 pm EDT
@@ -148,21 +163,6 @@ export default function ComingSoon() {
                 Tristan Nettles latest novel, Hominids - Genesis, continues its
                 formation into a riveting and adventerous saga, regularly adding
                 new pages and chapters that....
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">Excerpt from Upcoming Novel</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: October 1st, 2025 9:15:07 am EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Enjoy a short excerpt from Tristan Nettles upcoming novel,
-                &apos;The King - A Bronze Age Tale.&apos; This epic, commercial
-                fiction following the saga of Pan Shepherd and the legendary
-                Beocca....
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
