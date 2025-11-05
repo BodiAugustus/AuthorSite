@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Meta Data Sent!",
+    date: "November 4th, 2025 8:07:11 pm EDT",
+    content: `The meta data for both of Tristan Nettles upcoming novels, False Positive and The King - A Bronze Age Tale, has been completed and sent back to Histria Books and Simon & Schuster to begin preparing the covers and marketing for each work prior to publication! Tristan is excited to see how both covers turn out, and rest assured, they will be shared here as soon as they are recieved!`,
+    youtubeEmbed: "",
+    image: "",
+  },
+  {
     title: "Out Island Mechanic!",
     date: "October 25th, 2025 2:07:37 pm EDT",
     content: `Tristan Nettles favorite book growing up was entitled, 'Out Island Doctor,' by D. Evans Cottman. It followed the story of a retired Canadian science teacher who found himself practicing medicine, while learning on the fly, in the Bahamas out islands during the 1950's and 60's. With a B.S. in Biology, Tristan was set to pursue the same career path until the terrible misjustice regarding Miss Ashley Oosthuizen occurred. Everything Tristan has done since her arrest has been in the pursuit of gaining both her freedom, and future happiness. To help ensure this happy outcome, in addition to his writing and dabbling in decentralized finance, Tristan is further hedging his bets in the digital age by seeking to becoe an out island mechanic instead! He is currently in school until May, 2026, learning about diesel engines and acquiring the skills and tools required to go down into the Carribbean to begin working and building a beautiful homestead for Ashley to come home to. Writing continues as well, for when love is on the line, is any sacrifice ever considered too great? Stay tuned for future author updates, and excerpts from upcoming and soon to be published works!`,
