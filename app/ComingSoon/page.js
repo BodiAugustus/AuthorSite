@@ -147,8 +147,8 @@ export default function ComingSoon() {
               <p className="text-sm text-gray-700 font-serif">
                 In preparation of Tristan Nettles modern epic, False Positive,
                 the author is doing two more final edits to ensure the best
-                reader experience possible. Tristan has come a long way since
-                first writing....
+                reader experience possible. Tristan has come a long way
+                since....
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
