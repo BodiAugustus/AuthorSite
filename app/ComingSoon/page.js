@@ -140,6 +140,21 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">False Positive Final Edits!</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: November 17th, 2025 10:04:59 pm EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                In preparation of Tristan Nettles modern epic, False Positive,
+                the author is doing two more final edits to ensure the best
+                reader experience possible. Tristan has come a long way since
+                first writing....
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">Meta Data Sent!</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: November 4th, 2025 8:07:11 pm EDT
@@ -148,21 +163,6 @@ export default function ComingSoon() {
                 The meta data for both of Tristan Nettles upcoming novels, False
                 Positive and The King - A Bronze Age Tale, has been completed
                 and sent back to Histria Books and Simon & Schuster to....
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">Out Island Mechanic!</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: October 25th, 2025 2:07:37 pm EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles favorite book growing up was entitled, Out
-                Island Doctor, by D. Evans Cottman. It followed the story of a
-                retired Canadian science teacher who found himself practicing
-                medicine, while....
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE

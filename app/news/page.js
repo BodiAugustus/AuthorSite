@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "False Positive Final Edits!",
+    date: "November 17th, 2025 10:04:59 pm EDT",
+    content: `In preparation of Tristan Nettles modern epic, False Positive, the author is doing two more final edits to ensure the best reader experience possible. Tristan has come a long way since first writing The Shepherd - A Bronze Age Tale, for Ashley Oosthuizen. That makes it critical that False Positive benefit from all of the extra spit and polish acquired over the years since the original manuscript was finished. The published work, coming in Fall 2026, is sure to be considered a modern day classic. Stay tuned!`,
+    youtubeEmbed: "",
+    image: "",
+  },
+  {
     title: "Meta Data Sent!",
     date: "November 4th, 2025 8:07:11 pm EDT",
     content: `The meta data for both of Tristan Nettles upcoming novels, False Positive and The King - A Bronze Age Tale, has been completed and sent back to Histria Books and Simon & Schuster to begin preparing the covers and marketing for each work prior to publication! Tristan is excited to see how both covers turn out, and rest assured, they will be shared here as soon as they are recieved!`,
