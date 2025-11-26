@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "A Shockingly Good Adventure",
+    date: "November 26th, 2025 11:26:13 am EDT",
+    content: `Tristan Nettles modern day epic, False Positive, is like no story you have read before. The book is as incredible as it is true, with endless memorable places, experiences, and characters to keep the reader glued to their seat. Endless adaptations will come of this, once the world is able to discover what it is. False Positive's Publish date is set for Fall, 2026!`,
+    youtubeEmbed: "",
+    image: "",
+  },
+  {
     title: "False Positive Final Edits!",
     date: "November 17th, 2025 10:04:59 pm EDT",
     content: `In preparation of Tristan Nettles modern epic, False Positive, the author is doing two more final edits to ensure the best reader experience possible. Tristan has come a long way since first writing The Shepherd - A Bronze Age Tale, for Ashley Oosthuizen. That makes it critical that False Positive benefit from all of the extra spit and polish acquired over the years since the original manuscript was finished. The published work, coming in Fall 2026, is sure to be considered a modern day classic. Stay tuned!`,
