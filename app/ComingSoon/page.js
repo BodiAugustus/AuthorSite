@@ -162,7 +162,7 @@ export default function ComingSoon() {
               <p className="text-sm text-gray-700 font-serif">
                 Tristan Nettles modern day epic, False Positive, is like no
                 story you have read before. The book is as incredible as it is
-                true, with endless....
+                true, with endless...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
