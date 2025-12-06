@@ -140,6 +140,21 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Excerpt from False Positive</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: December 6st, 2025 12:15:09 pm EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Tristan Nettles is hard at work with the final edit to his
+                upcoming novel, False Positive. This epic, commercial nonfiction
+                following the saga of Tristan Nettles and Ashley Oosthuizen,
+                will provide....
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">A Shockingly Good Adventure!</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: November 26th, 2025 11:26:13 am EDT
@@ -148,21 +163,6 @@ export default function ComingSoon() {
                 Tristan Nettles modern day epic, False Positive, is like no
                 story you have read before. The book is as incredible as it is
                 true, with endless....
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">False Positive Final Edits</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: November 17th, 2025 10:04:59 pm EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                In preparation of Tristan Nettles modern epic, False Positive,
-                the author is doing two more final edits to ensure the best
-                reader experience possible. Tristan has come a long way
-                since....
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE

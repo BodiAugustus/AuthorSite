@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Excerpt from False Positive",
+    date: "December 6st, 2025 12:15:09 pm EDT",
+    content: `Tristan Nettles is hard at work with the final edit to his upcoming novel, 'False Positive.' This epic, commercial nonfiction following the saga of Tristan Nettles and Ashley Oosthuizen, will provide all the resources and attention needs to Free Ashley. This masterfully written true story will be published internationally by Tristan's publisher, Simon & Schuster, during the fall of 2026. Get ready for an classic on the same scale as Gone with the Wind!`,
+    youtubeEmbed: "",
+    image: "/excerpt2.png",
+  },
+  {
     title: "A Shockingly Good Adventure",
     date: "November 26th, 2025 11:26:13 am EDT",
     content: `Tristan Nettles modern day epic, False Positive, is like no story you have read before. The book is as incredible as it is true, with endless memorable places, experiences, and characters to keep the reader glued to their seat. Endless adaptations will come of this, once the world is able to discover what it is. False Positive's Publish date is set for Fall, 2026!`,
