@@ -142,13 +142,13 @@ export default function ComingSoon() {
             <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">Excerpt from False Positive</h3>
               <p className="text-xs text-gray-500 mb-2">
-                Posted: December 6st, 2025 12:15:09 pm EDT
+                Posted: December 6th, 2025 12:15:09 pm EDT
               </p>
               <p className="text-sm text-gray-700 font-serif">
                 Tristan Nettles is hard at work with the final edit to his
                 upcoming novel, False Positive. This epic, commercial nonfiction
                 following the saga of Tristan Nettles and Ashley Oosthuizen,
-                will provide....
+                will provide...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
