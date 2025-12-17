@@ -148,7 +148,7 @@ export default function ComingSoon() {
                 Tristan Nettles is hard at work with the final edit to his
                 upcoming novel, False Positive. This epic, commercial nonfiction
                 following the saga of Tristan Nettles and Ashley Oosthuizen,
-                will provide....
+                will provide...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
