@@ -4,8 +4,15 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Technical Update",
+    date: "December 17th, 2025 12:46:23 pm EDT",
+    content: `Due to a bug in an old version of Node JS, which opened up a security flaw in Next JS, which Tristan Nettles author site was built with, the last updates were never applied to the site. This applies to The Shepherd Novel website as well. The outdated packages have since been updated on both sites, allowing for this and future updates to be deployed as normal. We apologize for any inconvienence that this outage may have caused. Rest assured, however, that Tristan remains hard at work crafting modern masterpieces for the ages!`,
+    youtubeEmbed: "",
+    image: "/excerpt2.png",
+  },
+  {
     title: "Excerpt from False Positive",
-    date: "December 6st, 2025 12:15:09 pm EDT",
+    date: "December 6th, 2025 12:15:09 pm EDT",
     content: `Tristan Nettles is hard at work with the final edit to his upcoming novel, 'False Positive.' This epic, commercial nonfiction following the saga of Tristan Nettles and Ashley Oosthuizen, will provide all the resources and attention needs to Free Ashley. This masterfully written true story will be published internationally by Tristan's publisher, Simon & Schuster, during the fall of 2026. Get ready for an classic on the same scale as Gone with the Wind!`,
     youtubeEmbed: "",
     image: "/excerpt2.png",

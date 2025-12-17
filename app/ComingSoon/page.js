@@ -140,6 +140,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Technical Update</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: December 17th, 2025 12:46:23 pm EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Due to a bug in an old version of Node JS, which opened up a
+                security flaw in Next JS, which Tristan Nettles author site was
+                built with...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">Excerpt from False Positive</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: December 6th, 2025 12:15:09 pm EDT
@@ -149,20 +163,6 @@ export default function ComingSoon() {
                 upcoming novel, False Positive. This epic, commercial nonfiction
                 following the saga of Tristan Nettles and Ashley Oosthuizen,
                 will provide...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">A Shockingly Good Adventure!</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: November 26th, 2025 11:26:13 am EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles modern day epic, False Positive, is like no
-                story you have read before. The book is as incredible as it is
-                true, with endless...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
