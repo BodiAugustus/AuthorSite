@@ -8,12 +8,12 @@ const newsItems = [
     date: "December 17th, 2025 12:46:23 pm EDT",
     content: `Due to a bug in an old version of Node JS, which opened up a security flaw in Next JS, which Tristan Nettles author site was built with, the last updates were never applied to the site. This applies to The Shepherd Novel website as well. The outdated packages have since been updated on both sites, allowing for this and future updates to be deployed as normal. We apologize for any inconvienence that this outage may have caused. Rest assured, however, that Tristan remains hard at work crafting modern masterpieces for the ages!`,
     youtubeEmbed: "",
-    image: "/excerpt2.png",
+    image: "",
   },
   {
     title: "Excerpt from False Positive",
     date: "December 6th, 2025 12:15:09 pm EDT",
-    content: `Tristan Nettles is hard at work with the final edit to his upcoming novel, 'False Positive.' This epic, commercial nonfiction following the saga of Tristan Nettles and Ashley Oosthuizen, will provide all the resources and attention needs to Free Ashley. This masterfully written true story will be published internationally by Tristan's publisher, Simon & Schuster, during the fall of 2026. Get ready for an classic on the same scale as Gone with the Wind!`,
+    content: `Tristan Nettles is hard at work with the final edit to his upcoming novel, 'False Positive.' This epic, commercial nonfiction following the saga of Tristan Nettles and Ashley Oosthuizen, will provide all the resources and attention needs to Free Ashley. This masterfully written true story will be published internationally by Tristan's publisher, Histria Books, distributed by Simon and Schuster, during the fall of 2026. Get ready for an classic on the same scale as Gone with the Wind!`,
     youtubeEmbed: "",
     image: "/excerpt2.png",
   },
@@ -55,7 +55,7 @@ const newsItems = [
   {
     title: "Excerpt from Upcoming Novel",
     date: "October 1st, 2025 9:15:07 am EDT",
-    content: `Enjoy a short excerpt from Tristan Nettles upcoming novel, 'The King - A Bronze Age Tale.' This epic, commercial fiction following the saga of Pan Shepherd and the legendary Beocca, will cement Tristan's status as an author of modern day classics. This masterfully written tale will be published internationally by Tristan's publisher, Simon & Schuster, during the fall of 2026. Get ready for an epic!`,
+    content: `Enjoy a short excerpt from Tristan Nettles upcoming novel, 'The King - A Bronze Age Tale.' This epic, commercial fiction following the saga of Pan Shepherd and the legendary Beocca, will cement Tristan's status as an author of modern day classics. This masterfully written tale will be published internationally by Tristan's publisher, Histria Books, distributed by Simon & Schuster, during the fall of 2026. Get ready for an epic!`,
     youtubeEmbed: "",
     image: "/xcerpt.png",
   },
