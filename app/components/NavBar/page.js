@@ -30,7 +30,9 @@ export default function NavBar() {
             { label: "The Author", href: "/author" },
             { label: "News", href: "/news" },
             { label: "FAQ", href: "/faqs" },
-            { label: "Ashley DeFi", href: "https://www.ashleydefi.com" },
+            {
+              /* { label: "Ashley DeFi", href: "https://www.ashleydefi.com" }, */
+            },
           ].map(({ label, href }) => (
             <li key={href}>
               <Link
