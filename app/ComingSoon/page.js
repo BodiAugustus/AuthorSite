@@ -140,6 +140,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Merry Christmas</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: December 25th, 2025 1:33:45 pm EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Merry Christmas from the author Tristan Nettles. Unfortunately,
+                Santa was not able to return Ashley Oosthuizen this year. The
+                author remains undettered, however...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">Technical Update</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: December 17th, 2025 12:46:23 pm EDT
@@ -148,21 +162,6 @@ export default function ComingSoon() {
                 Due to a bug in an old version of Node JS, which opened up a
                 security flaw in Next JS, which Tristan Nettles author site was
                 built with...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">Excerpt from False Positive</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: December 6th, 2025 12:15:09 pm EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles is hard at work with the final edit to his
-                upcoming novel, False Positive. This epic, commercial nonfiction
-                following the saga of Tristan Nettles and Ashley Oosthuizen,
-                will provide...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE

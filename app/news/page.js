@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Merry Christmas",
+    date: "December 25th, 2025 1:33:45 pm EDT",
+    content: `Merry Christmas from the author Tristan Nettles. Unfortunately, Santa was not able to return Ashley Oosthuizen this year. The author remains undettered, however, working tiressly to ensure the conditions for her release, and for a happy, healthy, and comfortable life of freedom afterwards. Merry Christmas to all, and Free Ashley! `,
+    youtubeEmbed: "",
+    image: "/ashleyme.jpg",
+  },
+  {
     title: "Technical Update",
     date: "December 17th, 2025 12:46:23 pm EDT",
     content: `Due to a bug in an old version of Node JS, which opened up a security flaw in Next JS, which Tristan Nettles author site was built with, the last updates were never applied to the site. This applies to The Shepherd Novel website as well. The outdated packages have since been updated on both sites, allowing for this and future updates to be deployed as normal. We apologize for any inconvienence that this outage may have caused. Rest assured, however, that Tristan remains hard at work crafting modern masterpieces for the ages!`,
