@@ -5,7 +5,7 @@ import Link from "next/link";
 const upcomingWorks = [
   {
     title: "False Positive",
-    releaseDate: "Fall, 2026",
+    releaseDate: "October 20th, 2026",
     description1:
       "From a troubled childhood in the American South to the battle-scarred fields of Ukraine, Tristan Seth Nettles has lived a life that almost defies belief. Born between wealth and poverty, armed with stubborn determination and a restless spirit, Tristan navigates a world that seems determined to break him to it's mold — and somehow survives, grows stronger, and fights back.",
     description2:
@@ -19,7 +19,7 @@ const upcomingWorks = [
   },
   {
     title: "The King - A Bronze Age Tale",
-    releaseDate: "Summer, 2027",
+    releaseDate: "September 22nd, 2026",
     description1:
       "In a brutal world shaped by bronze and blood, Pan Shepherd returns — no longer a slave, but a man driven by love, vengeance, and an unrelenting determination to rescue Beocca, who was abducted during their wedding by a sadistic prince-turned-king.",
     description2:

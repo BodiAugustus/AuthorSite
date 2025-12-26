@@ -39,7 +39,7 @@ export default function ComingSoon() {
                 {/* Torn ribbon */}
                 <div className="absolute top-3 left-1/3 transform -translate-x-1/4 z-20">
                   <div className="relative bg-red-700 text-white font-bold text-xs px-4 py-1 shadow-lg">
-                    Release Date: Fall, 2026
+                    Release Date: October 20th, 2026
                     <span className="absolute left-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -ml-1"></span>
                     <span className="absolute right-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -mr-1"></span>
                   </div>
@@ -96,7 +96,7 @@ export default function ComingSoon() {
                 {/* Torn ribbon */}
                 <div className="absolute top-3 left-1/3 transform -translate-x-1/4 z-20">
                   <div className="relative bg-red-700 text-white font-bold text-xs px-4 py-1 shadow-lg">
-                    Release Date: Summer 2027
+                    Release Date: September 22, 2026
                     <span className="absolute left-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -ml-1"></span>
                     <span className="absolute right-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -mr-1"></span>
                   </div>
