@@ -39,7 +39,7 @@ export default function ComingSoon() {
                 {/* Torn ribbon */}
                 <div className="absolute top-3 left-1/3 transform -translate-x-1/4 z-20">
                   <div className="relative bg-red-700 text-white font-bold text-xs px-4 py-1 shadow-lg">
-                    Release Date: October 20th, 2026
+                    Release Date: Oct. 20th, 2026
                     <span className="absolute left-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -ml-1"></span>
                     <span className="absolute right-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -mr-1"></span>
                   </div>
@@ -96,7 +96,7 @@ export default function ComingSoon() {
                 {/* Torn ribbon */}
                 <div className="absolute top-3 left-1/3 transform -translate-x-1/4 z-20">
                   <div className="relative bg-red-700 text-white font-bold text-xs px-4 py-1 shadow-lg">
-                    Release Date: September 22, 2026
+                    Release Date: Sep. 22, 2026
                     <span className="absolute left-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -ml-1"></span>
                     <span className="absolute right-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -mr-1"></span>
                   </div>
@@ -140,7 +140,7 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">Novel Release Dates announced!</h3>
+              <h3 className="font-bold">Novel Release Dates Announced!</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: December 26th, 2025 10:23 am EDT
               </p>
