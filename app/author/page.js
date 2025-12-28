@@ -71,7 +71,7 @@ const photoGallery = [
     ),
   },
   {
-    src: "/slideshow/chess.jpg",
+    src: "/slideshow/Chess.jpg",
     alt: "Chess",
     caption: (
       <>
@@ -269,8 +269,7 @@ export default function AuthorPage() {
           <p>
             Beyond his literary pursuits, Tristan balances a multifaceted life:
             living predominately internationally, currently on his fourth
-            passport, and working in digital finance as a crypto consultant and
-            funds manager, all while continuously advocating for Ashley
+            passport, all while continuously advocating for Ashley
             Oosthuizen&#39;s release.
           </p>
           <p>
@@ -307,14 +306,11 @@ export default function AuthorPage() {
           technology, including a combat tour in Ukraine. Drawing from real-life
           grit, his writing explores the extremes of humanity with needle-like
           precision. He currently works as a crypto consultant and wealth
-          manager for Ashley DeFi while continuing to advocate for Ashley
-          Oosthuizen&#39;s release. Now, on his fourth passport, Nettles lives
-          abroad full-time. His work fuses lived experience with historical
-          scope, delivering fiction that is both timeless and deeply personal.
-        </p>
-        <p className="mb-4">
-          Tristan lives in Puerto Rico, where he hopes to one day have a family
-          and live in peace.
+          manager for Ashley DeFi while continuing Now, on his fourth passport,
+          Nettles lives abroad full-time and continues to advocate for Ashley
+          Oosthuizen&#39;s release. His work fuses lived experience with
+          historical scope, delivering fiction that is both timeless and deeply
+          personal.
         </p>
       </section>
 
