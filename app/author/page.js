@@ -305,12 +305,10 @@ export default function AuthorPage() {
           His life has intersected at various times with crime, war, and
           technology, including a combat tour in Ukraine. Drawing from real-life
           grit, his writing explores the extremes of humanity with needle-like
-          precision. He currently works as a crypto consultant and wealth
-          manager for Ashley DeFi while continuing Now, on his fourth passport,
-          Nettles lives abroad full-time and continues to advocate for Ashley
-          Oosthuizen&#39;s release. His work fuses lived experience with
-          historical scope, delivering fiction that is both timeless and deeply
-          personal.
+          precision. Now, on his fourth passport, Nettles lives abroad,
+          continuing to advocate for Ashley Oosthuizen&#39;s release. His work
+          fuses lived experience with historical scope, delivering fiction that
+          is both timeless and deeply personal.
         </p>
       </section>
 
