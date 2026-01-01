@@ -362,12 +362,6 @@ export default function AuthorPage() {
       </section>
 
       {/* Section: Film/TV Appearances */}
-      <section>
-        <h2 className="text-3xl font-serif font-semibold mb-6">
-          Film/TV Appearances
-        </h2>
-        <p>Coming soon...</p>
-      </section>
 
       {/* Section: Awards */}
     </main>
