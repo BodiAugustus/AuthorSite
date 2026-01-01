@@ -370,67 +370,6 @@ export default function AuthorPage() {
       </section>
 
       {/* Section: Awards */}
-      <section>
-        <h2 className="text-3xl font-serif font-semibold mb-6">
-          Awards & Nominations
-        </h2>
-
-        <div className="mb-6">
-          <p>Coming soon...</p>
-          {/* <h3 className="text-xl font-bold">Alex Awards</h3> */}
-          {/* <div className="grid grid-cols-4 font-semibold border-b py-2">
-            <div>Award Category</div>
-            <div>Work</div>
-            <div>Status</div>
-            <div>Year</div>
-          </div>
-          <div className="grid grid-cols-4 border-b py-2">
-            <div>Fiction</div>
-            <div>Just After Sunset</div>
-            <div>Winner</div>
-            <div>2009</div>
-          </div>
-        </div>
-
-        <div>
-          <h3 className="text-xl font-bold">
-            American Audio Publishers Association
-          </h3>
-          <div className="grid grid-cols-4 font-semibold border-b py-2">
-            <div>Award Category</div>
-            <div>Work</div>
-            <div>Status</div>
-            <div>Year</div>
-          </div>
-          <div className="grid grid-cols-4 border-b py-2">
-            <div>Audie Award: Fiction, Unabridged</div>
-            <div>
-              The Talisman by Stephen King and Peter Straub. Narrated by Frank
-              Muller.
-            </div>
-            <div>Winner</div>
-            <div>2002</div>
-          </div>
-          <div className="grid grid-cols-4 border-b py-2">
-            <div>Audie Award: Fiction</div>
-            <div>Duma Key. Narrated by John Slattery.</div>
-            <div>Winner</div>
-            <div>2009</div>
-          </div>
-          <div className="grid grid-cols-4 border-b py-2">
-            <div>Audie Award: Fiction</div>
-            <div>Doctor Sleep. Narrated by Will Patton.</div>
-            <div>Winner</div>
-            <div>2014</div>
-          </div>
-          <div className="grid grid-cols-4 border-b py-2">
-            <div>Audie Award: Thriller/Suspense</div>
-            <div>The Institute (Narrated by Santino Fontana)</div>
-            <div>Winner</div>
-            <div>2020</div> */}
-          {/* </div> */}
-        </div>
-      </section>
     </main>
   );
 }
