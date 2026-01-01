@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Happy New Year!",
+    date: "January 1st, 2026 7:39 pm EDT",
+    content: `Happy New Year from Tristan Nettles! Tristan has been hard at work performing the final edits for his two upcoming novels, The King - A Bronze Age Tale, and False Positive. With both books coming out this year, 2026, there is not a moment to waste! Stay tuned for more updates from the author soon!`,
+    youtubeEmbed: "",
+    image: "",
+  },
+  {
     title: "Novel Release Dates announced!",
     date: "December 26th, 2025 10:23 am EDT",
     content: `The author Tristan Nettles has just received word that both of his upcoming novels, False Positive and The King, will be published in Fall, 2026. The King - A Bronze Age Tale will be published on September 22nd, 2026 and False Positive, the epic true story about Tristan Nettles and Ashley Oosthuizen, will be published on October 20th, 2026. Both books metadata are in the works now. Cover art and more details will come soon! Stay tuned! `,

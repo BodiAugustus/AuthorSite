@@ -81,7 +81,7 @@ export default function Footer() {
 
       {/* Bottom Text */}
       <div className="sm:mt-10 text-center text-xs text-gray-500">
-        <p>© Copyright 2025 Tristan Nettles - All Rights Reserved. &nbsp;</p>
+        <p>© Copyright 2026 Tristan Nettles - All Rights Reserved. &nbsp;</p>
       </div>
     </footer>
   );

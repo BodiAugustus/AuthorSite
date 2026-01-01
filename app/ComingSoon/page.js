@@ -140,6 +140,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Happy New Year!</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: January 1st, 2026 7:39 pm EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Happy New Year from Tristan Nettles! Tristan has been hard at
+                work performing the final edits for his two upcoming novels, The
+                King - A Bronze Age...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">Novel Release Dates Announced!</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: December 26th, 2025 10:23 am EDT
@@ -148,20 +162,6 @@ export default function ComingSoon() {
                 The author Tristan Nettles has just received word that both of
                 his upcoming novels, False Positive and The King, will be
                 published in Fall, 2026. The King...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">Merry Christmas!</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: December 25th, 2025 1:33:45 pm EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Merry Christmas from the author Tristan Nettles. Unfortunately,
-                Santa was not able to return Ashley Oosthuizen this year. The
-                author remains undettered, however...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
