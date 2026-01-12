@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "The Editing Continues",
+    date: "January 12th, 2026 10:17 am EDT",
+    content: `Tristan remains hard at work editing False Positive for publication later this year. With Ashley Oosthuizen still languishing inside of a Thai prison, the stakes can not be higher. As such, the author is leaving no stone unturned in preparation of its release in October, 2026. The King will also be undergoing the same rigorous editing process in the months ahead. Stay tuned!`,
+    youtubeEmbed: "",
+    image: "",
+  },
+  {
     title: "Happy New Year!",
     date: "January 1st, 2026 7:39 pm EDT",
     content: `Happy New Year from Tristan Nettles! Tristan has been hard at work performing the final edits for his two upcoming novels, The King - A Bronze Age Tale, and False Positive. With both books coming out this year, 2026, there is not a moment to waste! Stay tuned for more updates from the author soon!`,
