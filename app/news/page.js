@@ -293,7 +293,7 @@ export default function NewsPage() {
             </div>
           )}
           {item.image && (
-            <div className="w-full max-w-2xl">
+            <div className="w-full ">
               {Array.isArray(item.image) ? (
                 <div className="flex flex-row justify-center gap-4 flex-wrap">
                   {item.image.map((src, imgIndex) => (
