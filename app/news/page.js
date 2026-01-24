@@ -8,7 +8,7 @@ const newsItems = [
     date: "January 24th, 2026 12:35 pm EDT",
     content: `Tristan Nettles is beggining his campaign for the upcoming novels dedicated to helping Ashley Oosthuizen get out of Thai prison. This months long campaign will work to ensure that both books, and the reason for their being written, are remembered for a long time to come. To kick things off, enjoy a multipage excerpt from the first chapter of Book V in False Positive, the unbelievable true story of Tristan Nettles and Ashley Oosthuizen. Stay tuned for much more content and updates soon!`,
     youtubeEmbed: "",
-    image: "/S1.png, /S2.png, /S3.png",
+    image: ["/S1.png, /S2.png, /S3.png"],
   },
   {
     title: "The Editing Continues",
@@ -188,6 +188,79 @@ const newsItems = [
   // Add more news objects as needed
 ];
 
+// const ITEMS_PER_PAGE = 10;
+
+// export default function NewsPage() {
+//   const [currentPage, setCurrentPage] = useState(1);
+
+//   const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
+//   const currentItems = newsItems.slice(startIndex, startIndex + ITEMS_PER_PAGE);
+//   const totalPages = Math.ceil(newsItems.length / ITEMS_PER_PAGE);
+
+//   return (
+//     <main className="bg-white text-gray-800 px-6 md:px-12 lg:px-24 py-12">
+//       <h1 className="text-4xl font-serif font-bold mb-8">News</h1>
+//       {currentItems.map((item, index) => (
+//         <article key={index} className="mb-16 border-b pb-6">
+//           <h2 className="text-2xl font-serif font-semibold mb-2">
+//             {item.title}
+//           </h2>
+//           <p className="text-sm text-gray-500 mb-2">Posted: {item.date}</p>
+//           <p className="mb-4">{item.content}</p>
+//           {item.youtubeEmbed && (
+//             <div className="aspect-video w-full max-w-2xl">
+//               <iframe
+//                 className="w-full h-full"
+//                 src={item.youtubeEmbed}
+//                 title="YouTube video player"
+//                 frameBorder="0"
+//                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+//                 allowFullScreen
+//               ></iframe>
+//             </div>
+//           )}
+//           {item.image && (
+//             <div className=" w-full max-w-2xl">
+//               <Image
+//                 src={item.image}
+//                 alt="Blurred background"
+//                 width={300}
+//                 height={300}
+//                 className="object-cover "
+//               />
+//             </div>
+//           )}
+//         </article>
+//       ))}
+
+//       <div className="flex justify-between mt-8">
+//         <button
+//           onClick={() => setCurrentPage((prev) => Math.max(prev - 1, 1))}
+//           className="px-4 py-2 bg-gray-200 rounded disabled:opacity-50"
+//           disabled={currentPage === 1}
+//         >
+//           Previous
+//         </button>
+//         <span className="text-sm font-semibold">
+//           Page {currentPage} of {totalPages}
+//         </span>
+//         <button
+//           onClick={() =>
+//             setCurrentPage((prev) => Math.min(prev + 1, totalPages))
+//           }
+//           className="px-4 py-2 bg-gray-200 rounded disabled:opacity-50"
+//           disabled={currentPage === totalPages}
+//         >
+//           Next
+//         </button>
+//       </div>
+//     </main>
+//   );
+// }
+
+// Your newsItems array here (with updates as above)
+// const newsItems = [ ... ];
+
 const ITEMS_PER_PAGE = 10;
 
 export default function NewsPage() {
@@ -220,14 +293,29 @@ export default function NewsPage() {
             </div>
           )}
           {item.image && (
-            <div className=" w-full max-w-2xl">
-              <Image
-                src={item.image}
-                alt="Blurred background"
-                width={300}
-                height={300}
-                className="object-cover "
-              />
+            <div className="w-full max-w-2xl">
+              {Array.isArray(item.image) ? (
+                <div className="flex flex-row justify-center gap-4 flex-wrap">
+                  {item.image.map((src, imgIndex) => (
+                    <Image
+                      key={imgIndex}
+                      src={src}
+                      alt={`Image ${imgIndex + 1} for ${item.title}`}
+                      width={300}
+                      height={300}
+                      className="object-cover"
+                    />
+                  ))}
+                </div>
+              ) : (
+                <Image
+                  src={item.image}
+                  alt="Blurred background"
+                  width={300}
+                  height={300}
+                  className="object-cover"
+                />
+              )}
             </div>
           )}
         </article>
