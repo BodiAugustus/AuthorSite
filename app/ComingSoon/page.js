@@ -140,6 +140,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">The Buildup Begins!</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: January 24th, 2026 12:35 pm EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Tristan Nettles is beggining his campaign for the upcoming
+                novels dedicated to helping Ashley Oosthuizen get out of Thai
+                prison. This months long campaign will work to ensure...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">The Editing Continues</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: January 12th, 2026 10:17 am EDT
@@ -148,20 +162,6 @@ export default function ComingSoon() {
                 Tristan remains hard at work editing False Positive for
                 publication later this year. With Ashley Oosthuizen still
                 languishing inside of...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">Happy New Year!</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: January 1st, 2026 7:39 pm EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Happy New Year from Tristan Nettles! Tristan has been hard at
-                work performing the final edits for his two upcoming novels, The
-                King - A Bronze Age...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
