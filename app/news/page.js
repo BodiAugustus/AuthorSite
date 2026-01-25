@@ -8,7 +8,7 @@ const newsItems = [
     date: "January 24th, 2026 12:35 pm EDT",
     content: `Tristan Nettles is beggining his campaign for the upcoming novels dedicated to helping Ashley Oosthuizen get out of Thai prison. This months long campaign will work to ensure that both books, and the reason for their being written, are remembered for a long time to come. To kick things off, enjoy a multipage excerpt from the first chapter of Book V in False Positive, the unbelievable true story of Tristan Nettles and Ashley Oosthuizen. Stay tuned for much more content and updates soon!`,
     youtubeEmbed: "",
-    image: ["/S1.png", "/S2.png", "/S3.png", "/S4.png", "/S5.png", "S6.png"],
+    image: ["/S1.png", "/r2.png", "/r3.png", "/r4.png", "/r5.png"],
   },
   {
     title: "The Editing Continues",
