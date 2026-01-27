@@ -154,9 +154,9 @@ export default function NewsletterSignup() {
           </h2>
 
           <p className="text-center text-sm text-gray-600">
-            Sign up for updates on Ashley&apos;s story, petition progress, and a
-            free 5-page excerpt from False Positive. Every subscriber helps
-            amplify her voice!
+            Sign up for updates on Ashley&apos;s story, petition progress, and
+            free excerpts from False Positive and The King. Every subscriber
+            helps amplify her voice!
           </p>
 
           <div className="indicates-required text-sm text-red-600">
