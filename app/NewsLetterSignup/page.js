@@ -150,13 +150,13 @@ export default function NewsletterSignup() {
 
         <div className="bg-white text-black p-8 rounded-lg shadow-md space-y-6 max-w-lg mx-auto md:mx-0">
           <h2 className="text-2xl font-semibold text-[#6AAAD6] text-center">
-            Join the Fight to #FreeAshley – Get Exclusive Book Teasers!
+            Subscribe Now to Get Exclusive Book Teasers!
           </h2>
 
           <p className="text-center text-sm text-gray-600">
-            Sign up for updates on Ashley&apos;s story, petition progress, and
-            free excerpts from False Positive and The King. Every subscriber
-            helps amplify her voice!
+            Sign up for author updates, news on Ashley&apos;s story, and free
+            excerpts from False Positive, The King, and other upcoming works.
+            Every subscriber helps amplify her voice!
           </p>
 
           <div className="indicates-required text-sm text-red-600">
@@ -295,8 +295,8 @@ export default function NewsletterSignup() {
                             required // Enforces consent
                           />
                           <span className="text-sm text-gray-600">
-                            Email me updates on #FreeAshley, book teasers, and
-                            advocacy news.
+                            Email me book teasers, author updates, and advocacy
+                            news regarding Ashley.
                           </span>
                         </label>
                       </fieldset>
