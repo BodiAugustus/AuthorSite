@@ -116,7 +116,7 @@ export default function NewReleases() {
             </div>
 
             <button className="mt-4 px-4 py-2 bg-black text-white rounded">
-              Order Now!
+              Pre-Order Now!
             </button>
           </div>
         </div>
