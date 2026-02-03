@@ -76,7 +76,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Tristan Nettles | Historical Novelist & Advocate",
+    title: "Tristan Nettles | Novelist & Advocate",
     description:
       "Author of 'The Shepherd'. Explore historical fiction rooted in the Bronze Age. Support the cause to free Ashley Oosthuizen.",
     creator: "@tristan_nettles",
