@@ -67,7 +67,7 @@ export const metadata = {
     type: "website",
     images: [
       {
-        url: "https://www.TristanNettles.com/preview.png",
+        url: "https://www.TristanNettles.com/og-image.webp",
         width: 1200,
         height: 630,
         alt: "Tristan Nettles - Historical Novelist",
@@ -76,11 +76,11 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Tristan Nettles | Novelist & Advocate",
+    title: "Tristan Nettles | Novelist",
     description:
       "Author of 'The Shepherd'. Explore historical fiction rooted in the Bronze Age. Support the cause to free Ashley Oosthuizen.",
     creator: "@tristan_nettles",
-    images: ["https://www.TristanNettles.com/preview.png"],
+    images: ["https://www.TristanNettles.com/twitter-card.webp"],
   },
   alternates: {
     canonical: "https://www.tristannettles.com",

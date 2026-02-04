@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "A Litany of Updates!",
+    date: "February, 4th 2026 10:25 am EDT",
+    content: `Pre-links for Tristan Nettle's two upcomong novels, False Positive and The King - A Bronze Age Tale, will be available by the end of the month. This site and www.FreeAshley.org have both been updated. A subscriber campaign has also started, with excerpts from each book as teasers. The first round of social media posting is underway. Now, the networking with influencers is set to begin as we ramp up the campaign to #FreeAshley in the months ahead. The edits continiue, and all is underway as planned. Stay tuned for more updates soon!`,
+    youtubeEmbed: "",
+    image: "",
+  },
+  {
     title: "The Buildup Begins!",
     date: "January 24th, 2026 12:35 pm EDT",
     content: `Tristan Nettles is beggining his campaign for the upcoming novels dedicated to helping Ashley Oosthuizen get out of Thai prison. This months long campaign will work to ensure that both books, and the reason for their being written, are remembered for a long time to come. To kick things off, enjoy a multipage excerpt from the first chapter of Book V in False Positive, the unbelievable true story of Tristan Nettles and Ashley Oosthuizen. Stay tuned for much more content and updates soon!`,
