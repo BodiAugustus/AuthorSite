@@ -20,17 +20,7 @@ export default function MiscPage() {
               Official Twitter/X page
             </a>
           </div>
-          <div>
-            <p className="font-bold">Ashley DeFi</p>
-            <a
-              href="https://www.AshleyDeFi.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-blue-400"
-            >
-              Ashley DeFi - Crypto Consulting & Wealth Management website
-            </a>
-          </div>
+
           <div>
             <p className="font-bold">The Shepherd - A Bronze Age Tale</p>
             <a

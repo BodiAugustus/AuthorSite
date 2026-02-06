@@ -30,9 +30,7 @@ export default function Footer() {
               Newsletter
             </Link>
             <Link href="/miscellaneous">Miscellaneous</Link>
-            <Link href="https://www.AshleyDefi.com" target="_blank">
-              Ashley DeFi
-            </Link>
+
             <Link href="/works">All Works</Link>
           </div>
           <div className="flex flex-col">

@@ -51,13 +51,9 @@ const faqs = {
       question:
         "How did your background in biology and the military shape your worldview?",
       answer:
-        "Both pursuits have led me to learn how to deduct, not infer, my conclusions to avoid being misled or mislead. I have a greater appreciation for the majesty of life than I did before, and its many complexities. I also learned how to think rationally, scientifically, and for myself.",
+        "Both pursuits have led me to learn how to deduct, not infer, my conclusions to avoid being mislead. I have a greater appreciation for life than I did before, and its endless  complexities. I also learned how to think for myself.",
     },
-    {
-      question: "What role does cryptocurrency play in your life today?",
-      answer:
-        "I use digital finance daily, most notably as an investment platform but more and more as a daily means of transaction. I am heavily invested in the Sonic Blockchain and believe very much in Monero as well. I encourage all people, especially young ones, to learn how to invest in and utilize digital assets moving forward. Anyone who is interested in learning more can visit Ashley DeFi by clicking on the link on the top right corner of this website.",
-    },
+
     {
       question:
         "Is your advocacy for Ashley a one-man mission or part of a larger campaign?",
@@ -125,8 +121,7 @@ const faqs = {
     },
     {
       question: "Can you give me some writing tips?",
-      answer:
-        "Yes! Read a lot, write a lot, and edit constantly. The devil is in the details.",
+      answer: "Yes! Read a lot, write a lot, and edit constantly.",
     },
     {
       question:

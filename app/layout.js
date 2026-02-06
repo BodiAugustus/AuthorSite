@@ -102,7 +102,7 @@ export default function RootLayout({ children }) {
         "Tristan Nettles is the author of historical and Bronze Age fiction including 'The Shepherd' and 'False Positive'.",
       worksFor: {
         "@type": "Organization",
-        name: "Ashley DeFi",
+        name: "Doc Diesel",
       },
     },
     {
@@ -122,8 +122,7 @@ export default function RootLayout({ children }) {
       name: "False Positive",
       author: { "@type": "Person", name: "Tristan Nettles" },
       datePublished: "2021-01-01",
-      description:
-        "A gripping modern thriller about medicine, betrayal, and redemption.",
+      description: "A gripping modern thriller about drugs, love, and war.",
       publisher: { "@type": "Organization", name: "Independent" },
       inLanguage: "English",
     },

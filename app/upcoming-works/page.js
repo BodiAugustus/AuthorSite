@@ -12,8 +12,7 @@ const upcomingWorks = [
       "False Positive is the true story of a man who outruns his past but never forgets it. As a rambunctious youth, soldier, international dark web drug dealer, outlaw, and mercenary, Tristan travels the world — from armed home invasions in Mississippi to mountain top temples in Nepal, from Southeast Asian prisons to battlefields in Eastern Europe — chasing truth, redemption, and ultimately, justice. When the woman he loves, Ashley Oosthuizen, is wrongfully imprisoned and sentenced to death in Thailand, Tristan's mission becomes clear. What began as a reckless search for freedom turns into an international fight for someone else's. ",
     description3:
       "Told with dark humor, brutal honesty, and heart-stopping intensity, False Positive is a modern epic — a real-life odyssey in the spirit of Forrest Gump and Catch Me If You Can. It's a raw, unforgettable journey through love, loss, crime, war, and the deep, messy beauty of being human.",
-    available:
-      "False Positive will be available in most English-language markets in the Fall of 2026.",
+    available: "",
     image: "/comingSoon.jpeg",
     category: "Commercial Nonfiction",
   },
@@ -26,8 +25,7 @@ const upcomingWorks = [
       "Set against the sweeping backdrop of a collapsing kingdom and a rising warlord, The King – A Bronze Age Tale continues the saga of the shepherd destined to become a king. As better-trained and better-equipped enemy armies close in, Pan must navigate overwhelming odds, betrayal, and court intrigue — not only to survive, but to reclaim the woman he loves.",
     description3:
       " Rich in historical detail, political intrigue, and haunting emotion, this epic sequel to The Shepherd cements Tristan Nettles’ place as a rising voice in historical fiction. The King is a powerful tale of war, leadership, and love — where loyalty endures, and nothing is more sacred than the bonds we fight to protect.",
-    available:
-      "The King - A Bronze Age Tale will be available in most in most English-language markets by Summer, 2027.",
+    available: "",
     image: "/comingSoon.jpeg",
     category: "Commercial Fiction",
   },
