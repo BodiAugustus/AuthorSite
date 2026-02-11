@@ -58,7 +58,7 @@ export default function NewReleases() {
           {/* Book Cover */}
           <div className="flex-shrink-0 mx-auto lg:mx-0">
             <Image
-              src="/comingSoon.jpeg" // Replace with actual image path
+              src="/FalsePositiveCover.jpg" // Replace with actual image path
               alt="Upcoming soon"
               width={300}
               height={450}

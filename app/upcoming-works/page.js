@@ -13,7 +13,7 @@ const upcomingWorks = [
     description3:
       "Told with dark humor, brutal honesty, and heart-stopping intensity, False Positive is a modern epic — a real-life odyssey in the spirit of Forrest Gump and Catch Me If You Can. It's a raw, unforgettable journey through love, loss, crime, war, and the deep, messy beauty of being human.",
     available: "",
-    image: "/comingSoon.jpeg",
+    image: "/FalsePositiveCover.jpg",
     category: "Commercial Nonfiction",
   },
   {
@@ -26,7 +26,7 @@ const upcomingWorks = [
     description3:
       " Rich in historical detail, political intrigue, and haunting emotion, this epic sequel to The Shepherd cements Tristan Nettles’ place as a rising voice in historical fiction. The King is a powerful tale of war, leadership, and love — where loyalty endures, and nothing is more sacred than the bonds we fight to protect.",
     available: "",
-    image: "/comingSoon.jpeg",
+    image: "/TheKingCover.jpg",
     category: "Commercial Fiction",
   },
   // More books can be added here
@@ -58,7 +58,7 @@ export default function UpcomingWorks() {
             onClick={() =>
               window.open(
                 "https://www.amazon.com/Shepherd-Bronze-Age-Tale/dp/1592113842",
-                "_blank"
+                "_blank",
               )
             }
           />

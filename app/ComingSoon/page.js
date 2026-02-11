@@ -29,7 +29,7 @@ export default function ComingSoon() {
               {/* Foreground book cover image */}
               <div className="relative z-10">
                 <Image
-                  src="/comingSoon.jpeg"
+                  src="/FalsePositiveCover.jpg"
                   alt="The Shepherd Cover"
                   width={125}
                   height={200}
@@ -75,7 +75,7 @@ export default function ComingSoon() {
               {/* Blurred background image */}
               <div className="absolute inset-0 z-0 scale-110 blur-md p-5">
                 <Image
-                  src="/shepherd.png"
+                  src="/TheKingCover.jpg"
                   alt="Blurred background"
                   width={300}
                   height={300}
@@ -140,6 +140,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Book Covers Announced!</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: February, 11th 2026 2:25 pm EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                The first iterations of the two upcoming novel covers authored
+                by Tristan Nettles have been released. The King cover has
+                already been finalized by the publisher...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">A Litany of Updates!</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: February, 4th 2026 10:25 am EDT
@@ -148,20 +162,6 @@ export default function ComingSoon() {
                 Pre-links for Tristan Nettle&apos;s two upcomong novels, False
                 Positive and The King - A Bronze Age Tale, will be available by
                 the end of the month...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">The Buildup Begins!</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: January 24th, 2026 12:35 pm EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles is beggining his campaign for the upcoming
-                novels dedicated to helping Ashley Oosthuizen get out of Thai
-                prison. This months long campaign will work to ensure...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE

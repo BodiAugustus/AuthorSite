@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Book Covers Announced!",
+    date: "February, 11th 2026 2:25 pm EDT",
+    content: `The first iterations of the two upcoming novel covers authored by Tristan Nettles have been released. The King cover has already been finalized by the publisher. False Positive's cover is still in the process of being worked on, and could change a little, or a lot, before publication. Rest assured, once a final decision is made, you will find out about it first right here, so stay tuned!`,
+    youtubeEmbed: "",
+    image: ["/FalsePositiveCover.jpg", "/The KingCover.jpg"],
+  },
+  {
     title: "A Litany of Updates!",
     date: "February, 4th 2026 10:25 am EDT",
     content: `Pre-links for Tristan Nettle's two upcomong novels, False Positive and The King - A Bronze Age Tale, will be available by the end of the month. This site and www.FreeAshley.org have both been updated. A subscriber campaign has also started, with excerpts from each book as teasers. The first round of social media posting is underway. Now, the networking with influencers is set to begin as we ramp up the campaign to #FreeAshley in the months ahead. The edits continiue, and all is underway as planned. Stay tuned for more updates soon!`,
