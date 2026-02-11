@@ -8,7 +8,7 @@ const newsItems = [
     date: "February, 11th 2026 2:25 pm EDT",
     content: `The first iterations of the two upcoming novel covers authored by Tristan Nettles have been released. The King cover has already been finalized by the publisher. False Positive's cover is still in the process of being worked on, and could change a little, or a lot, before publication. Rest assured, once a final decision is made, you will find out about it first right here, so stay tuned!`,
     youtubeEmbed: "",
-    image: ["/FalsePositiveCover.jpg", "/The KingCover.jpg"],
+    image: ["/FalsePositiveCover.jpg", "/TheKingCover.jpg"],
   },
   {
     title: "A Litany of Updates!",

@@ -86,7 +86,7 @@ export default function ComingSoon() {
               {/* Foreground book cover image */}
               <div className="relative z-10">
                 <Image
-                  src="/comingSoon.jpeg"
+                  src="/TheKingCover.jpg"
                   alt="The Shepherd Cover"
                   width={125}
                   height={200}
