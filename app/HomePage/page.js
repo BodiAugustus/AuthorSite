@@ -7,13 +7,13 @@ import Link from "next/link";
 const slides = [
   {
     src: "/slide1.png",
-    alt: "The Shepherd - A Bronze Age Tale Cover",
-    href: "/works",
+    alt: "False Positive Cover",
+    href: "/ComingSoon",
   },
   {
     src: "/slide3.jpeg",
     alt: "Pet Sematary Cover",
-    href: "/news",
+    href: "/ComingSoon",
   },
   {
     src: "/slide2.jpeg",
