@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Home Page Updated!",
+    date: "February, 19th 2026 8:26 am EDT",
+    content: `Tristan Nettle's author website continues to be updated in preparation for his upcoming novels, False Positive and The King - A Bronze Age Tale II. Final edits are underway and the public outreach campaign is in the opening stages. There will be a large ramping up in the months ahead. Every book sold highlights Ashley Oosthuizen ongoing nightmare, and helps ensure the securement of her royal pardon. Buy a book to save a life today!`,
+    youtubeEmbed: "",
+    image: [],
+  },
+  {
     title: "Book Covers Announced!",
     date: "February, 11th 2026 2:25 pm EDT",
     content: `The first iterations of the two upcoming novel covers authored by Tristan Nettles have been released. The King cover has already been finalized by the publisher. False Positive's cover is still in the process of being worked on, and could change a little, or a lot, before publication. Rest assured, once a final decision is made, you will find out about it first right here, so stay tuned!`,
