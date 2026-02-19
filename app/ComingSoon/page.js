@@ -140,6 +140,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Home Page Updated!</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: February, 19th 2026 8:26 am EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Tristan Nettle&apos;s author website continues to be updated in
+                preparation for his upcoming novels, False Positive and The King
+                - A Bronze Age Tale II. Final edits...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">Book Covers Announced!</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: February, 11th 2026 2:25 pm EDT
@@ -148,20 +162,6 @@ export default function ComingSoon() {
                 The first iterations of the two upcoming novel covers authored
                 by Tristan Nettles have been released. The King cover has
                 already been finalized by the publisher...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">A Litany of Updates!</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: February, 4th 2026 10:25 am EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Pre-links for Tristan Nettle&apos;s two upcomong novels, False
-                Positive and The King - A Bronze Age Tale, will be available by
-                the end of the month...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
