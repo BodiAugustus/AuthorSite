@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "The King - Final Edit!",
+    date: "March, 2nd 2026 1:26 pm EDT",
+    content: `Tristan Nettle's 500 page epic, The King - A Bronze Age Tale II is in the final stages of the final edit. Within two weeks the finished final edition will be sent off to the publisher in preparation to print. The story, set in the time of bronze, is a true epic in every sense of the word. From large scale battles, to realistic stratey, court politics, intrigue, betrayal, hardship, and so much more! Buy a book to save a life today!`,
+    youtubeEmbed: "",
+    image: [],
+  },
+  {
     title: "Home Page Updated!",
     date: "February, 19th 2026 8:26 am EDT",
     content: `Tristan Nettle's author website continues to be updated in preparation for his upcoming novels, False Positive and The King - A Bronze Age Tale II. Final edits are underway and the public outreach campaign is in the opening stages. There will be a large ramping up in the months ahead. Every book sold highlights Ashley Oosthuizen ongoing nightmare, and helps ensure the securement of her royal pardon. Buy a book to save a life today!`,
