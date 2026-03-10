@@ -117,9 +117,9 @@ export default function NewReleases() {
 
             <a
               href="https://www.simonandschuster.com/books/False-Positive/Tristan-Nettles/9781592117772"
-              className="mt-4 px-4 py-2 bg-black text-white rounded cursor-pointer hover:scale-105 active:scale-100 transition-all"
+              className="mt-4 px-4 py-2 bg-black text-white rounded cursor-pointer shadow-md hover:scale-105 hover:shadow-xl active:translate-y-1 active:shadow-inner active:scale-95 transition-all duration-150 ease-in-out"
             >
-              Pre-Order Now!
+              Pre-Order Now
             </a>
           </div>
         </div>
