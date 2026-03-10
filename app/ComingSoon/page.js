@@ -18,7 +18,7 @@ export default function ComingSoon() {
               {/* Blurred background image */}
               <div className="absolute inset-0 z-0 scale-110 blur-md p-5">
                 <Image
-                  src="/shepherd.png"
+                  src="/FalsePositiveCover.jpg"
                   alt="Blurred background"
                   width={300}
                   height={300}
