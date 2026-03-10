@@ -15,6 +15,8 @@ const upcomingWorks = [
     available: "",
     image: "/FalsePositiveCover.jpg",
     category: "Commercial Nonfiction",
+    website:
+      "https://www.simonandschuster.com/books/False-Positive/Tristan-Nettles/9781592117772",
   },
   {
     title: "The King - A Bronze Age Tale",
@@ -28,6 +30,8 @@ const upcomingWorks = [
     available: "",
     image: "/TheKingCover.jpg",
     category: "Commercial Fiction",
+    website:
+      "https://www.simonandschuster.com/books/The-King/Tristan-Nettles/A-Bronze-Age-Tale/9781592117673",
   },
   // More books can be added here
 ];
@@ -55,12 +59,7 @@ export default function UpcomingWorks() {
             width={300}
             height={350}
             className="object-cover rounded shadow-md hover:cursor-grab active:cursor-grabbing hover:scale-105 active:scale-100 transition-transform duration-300 transform"
-            onClick={() =>
-              window.open(
-                "https://www.amazon.com/Shepherd-Bronze-Age-Tale/dp/1592113842",
-                "_blank",
-              )
-            }
+            onClick={() => window.open(book.website, "_blank")}
           />
 
           <div>
@@ -77,9 +76,12 @@ export default function UpcomingWorks() {
             <p className="text-gray-800 mb-4">{book.description2}</p>
             <p className="text-gray-800 mb-4">{book.description3}</p>
             <p className="text-gray-800 italic">{book.available}</p>
-            <button className="mt-4 px-4 py-2 bg-black text-white rounded">
+            <a
+              href={book.website}
+              className="mt-4 px-4 py-2 bg-black text-white rounded"
+            >
               Pre-Order Now!
-            </button>
+            </a>
           </div>
         </div>
       ))}

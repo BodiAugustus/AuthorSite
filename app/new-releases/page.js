@@ -115,9 +115,12 @@ export default function NewReleases() {
               </p>
             </div>
 
-            <button className="mt-4 px-4 py-2 bg-black text-white rounded">
+            <a
+              href="https://www.simonandschuster.com/books/False-Positive/Tristan-Nettles/9781592117772"
+              className="mt-4 px-4 py-2 bg-black text-white rounded"
+            >
               Pre-Order Now!
-            </button>
+            </a>
           </div>
         </div>
       </div>

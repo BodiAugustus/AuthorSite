@@ -140,6 +140,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Official Pre-Sale Links!</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: March, 10th 2026 8:24 am EDT
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Tristan Nettle&apos;s two upcoming epic novels, False Positive
+                and The King, are now officially available for presale from the
+                publisher, Histria Books and Simon & Schuster...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">The King - Final Edit!</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: March, 2nd 2026 1:26 pm EDT
@@ -148,20 +162,6 @@ export default function ComingSoon() {
                 Tristan Nettle&apos;s 500 page epic, The King - A Bronze Age
                 Tale II is in the final stages of the final edit. Within two
                 weeks the finished final edition will be...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">Home Page Updated!</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: February, 19th 2026 8:26 am EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettle&apos;s author website continues to be updated in
-                preparation for his upcoming novels, False Positive and The King
-                - A Bronze Age Tale II. Final edits...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE

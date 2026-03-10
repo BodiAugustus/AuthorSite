@@ -8,12 +8,12 @@ const slides = [
   {
     src: "/slide1.png",
     alt: "False Positive Cover",
-    href: "/ComingSoon",
+    href: "https://www.simonandschuster.com/books/False-Positive/Tristan-Nettles/9781592117772",
   },
   {
     src: "/slide3.jpeg",
-    alt: "Pet Sematary Cover",
-    href: "/ComingSoon",
+    alt: "The King Cover",
+    href: "/https://www.simonandschuster.com/books/The-King/Tristan-Nettles/A-Bronze-Age-Tale/9781592117673",
   },
   {
     src: "/slide2.jpeg",
