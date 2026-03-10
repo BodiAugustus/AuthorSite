@@ -13,7 +13,7 @@ const slides = [
   {
     src: "/slide3.jpeg",
     alt: "The King Cover",
-    href: "/https://www.simonandschuster.com/books/The-King/Tristan-Nettles/A-Bronze-Age-Tale/9781592117673",
+    href: "https://www.simonandschuster.com/books/The-King/Tristan-Nettles/A-Bronze-Age-Tale/9781592117673",
   },
   {
     src: "/slide2.jpeg",
