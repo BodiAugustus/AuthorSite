@@ -78,7 +78,7 @@ export default function UpcomingWorks() {
             <p className="text-gray-800 italic">{book.available}</p>
             <a
               href={book.website}
-              className="mt-4 px-4 py-2 bg-black text-white rounded"
+              className="mt-4 px-4 py-2 bg-black text-white rounded hover:scale-105 active:scale-105 transition-all"
             >
               Pre-Order Now!
             </a>
