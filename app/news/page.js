@@ -4,9 +4,9 @@ import Image from "next/image";
 
 const newsItems = [
   {
-    title: "Official Pre-Sale Links!",
+    title: "Official Presale Links!",
     date: "March, 10th 2026 8:24 am EDT",
-    content: `Tristan Nettle's two upcoming epic novels, False Positive and The King, are now officially available for presale from the publisher, Histria Books and Simon & Schuster. From this moment on, both works can be purchased, providing epic reads to further the real-life struggle of freeing Ashley Oosthuizen from Thai prison. Buy a book to save a life today!`,
+    content: `Tristan Nettles two upcoming epic novels, False Positive and The King, are now officially available for presale from the publisher, Histria Books and Simon & Schuster. From this moment on, both works can be purchased, providing epic reads to further the real-life struggle of freeing Ashley Oosthuizen from Thai prison. Buy a book to save a life today!`,
     youtubeEmbed: "",
     image: [],
   },

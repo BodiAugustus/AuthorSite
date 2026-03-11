@@ -18,63 +18,6 @@ export default function ComingSoon() {
               {/* Blurred background image */}
               <div className="absolute inset-0 z-0 scale-110 blur-md p-5">
                 <Image
-                  src="/FalsePositiveCover.jpg"
-                  alt="Blurred background"
-                  width={300}
-                  height={300}
-                  className="object-cover "
-                />
-              </div>
-
-              {/* Foreground book cover image */}
-              <div className="relative z-10">
-                <Image
-                  src="/FalsePositiveCover.jpg"
-                  alt="The Shepherd Cover"
-                  width={125}
-                  height={200}
-                  className="mx-auto rounded shadow-md mt-2 mb-2"
-                />
-
-                {/* Torn ribbon */}
-                <div className="absolute top-3 left-1/3 transform -translate-x-1/4 z-20">
-                  <div className="relative bg-red-700 text-white font-bold text-xs px-4 py-1 shadow-lg">
-                    Release Date: Oct. 20th, 2026
-                    <span className="absolute left-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -ml-1"></span>
-                    <span className="absolute right-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -mr-1"></span>
-                  </div>
-                </div>
-              </div>
-
-              {/* Description */}
-              <div className="p-4 relative z-10 bg-white bg-opacity-90">
-                <h3 className="text-xl font-bold text-gray-900">
-                  False Positive
-                </h3>
-                <p className="mt-2 text-gray-700 text-sm font-serif">
-                  From a troubled childhood in the American South to the
-                  battle-scarred fields of Ukraine,{" "}
-                  <strong>Tristan Seth Nettles</strong> has lived a life that
-                  almost defies belief. Born between wealth and poverty, armed
-                  with stubborn determination and a restless spirit, Tristan
-                  navigates a world that seems determined to break him to
-                  it&#39;s mold — and somehow survives, grows stronger, and
-                  fights back.
-                </p>
-                <Link
-                  href="/upcoming-works"
-                  className="text-sm font-bold mt-3 text-gray-800"
-                >
-                  MORE INFO
-                </Link>
-              </div>
-            </div>
-
-            {/* Card 2 */}
-            <div className="relative bg-white shadow-lg rounded-lg overflow-hidden max-w-xs mx-auto max-h-[500px]">
-              {/* Blurred background image */}
-              <div className="absolute inset-0 z-0 scale-110 blur-md p-5">
-                <Image
                   src="/TheKingCover.jpg"
                   alt="Blurred background"
                   width={300}
@@ -126,6 +69,62 @@ export default function ComingSoon() {
                 </Link>
               </div>
             </div>
+            {/* Card 2 */}
+            <div className="relative bg-white shadow-lg rounded-lg overflow-hidden max-w-xs mx-auto max-h-[500px]">
+              {/* Blurred background image */}
+              <div className="absolute inset-0 z-0 scale-110 blur-md p-5">
+                <Image
+                  src="/FalsePositiveCover.jpg"
+                  alt="Blurred background"
+                  width={300}
+                  height={300}
+                  className="object-cover "
+                />
+              </div>
+
+              {/* Foreground book cover image */}
+              <div className="relative z-10">
+                <Image
+                  src="/FalsePositiveCover.jpg"
+                  alt="The Shepherd Cover"
+                  width={125}
+                  height={200}
+                  className="mx-auto rounded shadow-md mt-2 mb-2"
+                />
+
+                {/* Torn ribbon */}
+                <div className="absolute top-3 left-1/3 transform -translate-x-1/4 z-20">
+                  <div className="relative bg-red-700 text-white font-bold text-xs px-4 py-1 shadow-lg">
+                    Release Date: Oct. 20th, 2026
+                    <span className="absolute left-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -ml-1"></span>
+                    <span className="absolute right-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -mr-1"></span>
+                  </div>
+                </div>
+              </div>
+
+              {/* Description */}
+              <div className="p-4 relative z-10 bg-white bg-opacity-90">
+                <h3 className="text-xl font-bold text-gray-900">
+                  False Positive
+                </h3>
+                <p className="mt-2 text-gray-700 text-sm font-serif">
+                  From a troubled childhood in the American South to the
+                  battle-scarred fields of Ukraine,{" "}
+                  <strong>Tristan Seth Nettles</strong> has lived a life that
+                  almost defies belief. Born between wealth and poverty, armed
+                  with stubborn determination and a restless spirit, Tristan
+                  navigates a world that seems determined to break him to
+                  it&#39;s mold — and somehow survives, grows stronger, and
+                  fights back.
+                </p>
+                <Link
+                  href="/upcoming-works"
+                  className="text-sm font-bold mt-3 text-gray-800"
+                >
+                  MORE INFO
+                </Link>
+              </div>
+            </div>
           </div>
         </div>
 
@@ -140,13 +139,13 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">Official Pre-Sale Links!</h3>
+              <h3 className="font-bold">Official Presale Links!</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: March, 10th 2026 8:24 am EDT
               </p>
               <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettle&apos;s two upcoming epic novels, False Positive
-                and The King, are now officially available for presale from the
+                Tristan Nettles two upcoming epic novels, False Positive and The
+                King, are now officially available for presale from the
                 publisher, Histria Books and Simon & Schuster...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
