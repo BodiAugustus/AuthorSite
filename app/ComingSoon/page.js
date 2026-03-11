@@ -18,62 +18,6 @@ export default function ComingSoon() {
               {/* Blurred background image */}
               <div className="absolute inset-0 z-0 scale-110 blur-md p-5">
                 <Image
-                  src="/TheKingCover.jpg"
-                  alt="Blurred background"
-                  width={300}
-                  height={300}
-                  className="object-cover "
-                />
-              </div>
-
-              {/* Foreground book cover image */}
-              <div className="relative z-10">
-                <Image
-                  src="/TheKingCover.jpg"
-                  alt="The Shepherd Cover"
-                  width={125}
-                  height={200}
-                  className="mx-auto rounded shadow-md mt-2 mb-2"
-                />
-
-                {/* Torn ribbon */}
-                <div className="absolute top-3 left-1/3 transform -translate-x-1/4 z-20">
-                  <div className="relative bg-red-700 text-white font-bold text-xs px-4 py-1 shadow-lg">
-                    Release Date: Sep. 22, 2026
-                    <span className="absolute left-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -ml-1"></span>
-                    <span className="absolute right-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -mr-1"></span>
-                  </div>
-                </div>
-              </div>
-
-              {/* Description */}
-              <div className="p-4 relative z-10 bg-white bg-opacity-90">
-                <h3 className="text-xl font-bold text-gray-900">
-                  The King - A Bronze Age Tale
-                </h3>
-                <p className="mt-2 text-gray-700 text-sm font-serif">
-                  In a brutal world shaped by bronze and blood,{" "}
-                  <strong>Pan Shepherd</strong> returns — no longer a slave, but
-                  a man driven by love, vengeance, and an unrelenting
-                  determination to rescue Beocca, who was abducted during their
-                  wedding by a sadistic prince-turned-king. Set against the
-                  sweeping backdrop of a collapsing kingdom and a rising
-                  warlord, <em>The King – A Bronze Age Tale</em> continues the
-                  saga of the shepherd destined to become a king.
-                </p>
-                <Link
-                  href="/upcoming-works"
-                  className="text-sm font-bold mt-3 text-gray-800"
-                >
-                  MORE INFO
-                </Link>
-              </div>
-            </div>
-            {/* Card 2 */}
-            <div className="relative bg-white shadow-lg rounded-lg overflow-hidden max-w-xs mx-auto max-h-[500px]">
-              {/* Blurred background image */}
-              <div className="absolute inset-0 z-0 scale-110 blur-md p-5">
-                <Image
                   src="/FalsePositiveCover.jpg"
                   alt="Blurred background"
                   width={300}
@@ -116,6 +60,63 @@ export default function ComingSoon() {
                   navigates a world that seems determined to break him to
                   it&#39;s mold — and somehow survives, grows stronger, and
                   fights back.
+                </p>
+                <Link
+                  href="/upcoming-works"
+                  className="text-sm font-bold mt-3 text-gray-800"
+                >
+                  MORE INFO
+                </Link>
+              </div>
+            </div>
+
+            {/* Card 2 */}
+            <div className="relative bg-white shadow-lg rounded-lg overflow-hidden max-w-xs mx-auto max-h-[500px]">
+              {/* Blurred background image */}
+              <div className="absolute inset-0 z-0 scale-110 blur-md p-5">
+                <Image
+                  src="/TheKingCover.jpg"
+                  alt="Blurred background"
+                  width={300}
+                  height={300}
+                  className="object-cover "
+                />
+              </div>
+
+              {/* Foreground book cover image */}
+              <div className="relative z-10">
+                <Image
+                  src="/TheKingCover.jpg"
+                  alt="The Shepherd Cover"
+                  width={125}
+                  height={200}
+                  className="mx-auto rounded shadow-md mt-2 mb-2"
+                />
+
+                {/* Torn ribbon */}
+                <div className="absolute top-3 left-1/3 transform -translate-x-1/4 z-20">
+                  <div className="relative bg-red-700 text-white font-bold text-xs px-4 py-1 shadow-lg">
+                    Release Date: Sep. 22, 2026
+                    <span className="absolute left-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -ml-1"></span>
+                    <span className="absolute right-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -mr-1"></span>
+                  </div>
+                </div>
+              </div>
+
+              {/* Description */}
+              <div className="p-4 relative z-10 bg-white bg-opacity-90">
+                <h3 className="text-xl font-bold text-gray-900">
+                  The King - A Bronze Age Tale
+                </h3>
+                <p className="mt-2 text-gray-700 text-sm font-serif">
+                  In a brutal world shaped by bronze and blood,{" "}
+                  <strong>Pan Shepherd</strong> returns — no longer a slave, but
+                  a man driven by love, vengeance, and an unrelenting
+                  determination to rescue Beocca, who was abducted during their
+                  wedding by a sadistic prince-turned-king. Set against the
+                  sweeping backdrop of a collapsing kingdom and a rising
+                  warlord, <em>The King – A Bronze Age Tale</em> continues the
+                  saga of the shepherd destined to become a king.
                 </p>
                 <Link
                   href="/upcoming-works"
