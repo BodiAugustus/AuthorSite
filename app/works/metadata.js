@@ -4,8 +4,9 @@ export const metadata = {
     "Browse the full library of books by Tristan Nettles, including historical sagas and modern epics.",
   keywords: [
     "Tristan Nettles books",
-    "The Shepherd novel",
-    "False Positive novel",
+    "The Shepherd - A Bronze Age Tale",
+    "False Positive",
+    "The King - A Bronze Age Tale II",
     "Bronze Age fiction",
     "complete works",
     "Tristan Nettles author",
