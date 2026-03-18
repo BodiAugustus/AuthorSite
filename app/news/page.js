@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Final Edits Finished!",
+    date: "March, 18th 2026 12:49 pm EDT",
+    content: `Tristan Nettles has finished the final edits for his two upcoming novels, False Positive and The King - A Bronze Age Tale II. Both manuscripts have been sent to the publishers for their final round of in-house edits before going to print! A lot of exciting things to come in the build up to release for both epic novels. Stay tuned!`,
+    youtubeEmbed: "",
+    image: [],
+  },
+  {
     title: "Official Presale Links!",
     date: "March, 10th 2026 8:24 am EDT",
     content: `Tristan Nettles two upcoming epic novels, False Positive and The King, are now officially available for presale from the publisher, Histria Books and Simon & Schuster. From this moment on, both works can be purchased, providing epic reads to further the real-life struggle of freeing Ashley Oosthuizen from Thai prison. Buy a book to save a life today!`,
