@@ -5,14 +5,20 @@ const worksData = [
   {
     title: "The Shepherd - A Bronze Age Tale",
     type: "Historical Fiction",
-    date: "March 11th, 2024",
+    date: "March 11, 2024",
     url: "https://www.theshepherdnovel.com",
   },
   {
     title: "The King - A Bronze Age Tale II",
     type: "Historical Fiction",
-    date: "September 22nd, 2026",
+    date: "September 22, 2026",
     url: "https://thekingsaga.com",
+  },
+  {
+    title: "False Positive",
+    type: "Commercial Non-Fiction",
+    date: "October 20, 2026",
+    url: "https://FalsePositiveNovel.com",
   },
 ];
 
