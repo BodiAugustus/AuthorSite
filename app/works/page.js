@@ -16,7 +16,7 @@ const worksData = [
   },
   {
     title: "False Positive",
-    type: "Commercial Non-Fiction",
+    type: "Commercial NonFiction",
     date: "October 20, 2026",
     url: "https://FalsePositiveNovel.com",
   },
