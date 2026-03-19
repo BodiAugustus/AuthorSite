@@ -108,16 +108,11 @@ export default function NewReleases() {
                 journey through love, loss, crime, war, and the deep, messy
                 beauty of being human.
               </p>
-
-              <p className="font font-serif italic font-bold">
-                False Positive is available for preorder now — in hardcover,
-                ebook, and audiobook — only at Histria Books!
-              </p>
             </div>
 
             <a
               href="https://www.simonandschuster.com/books/False-Positive/Tristan-Nettles/9781592117772"
-              className="mt-4 px-4 py-2 bg-black text-white rounded cursor-pointer shadow-md hover:scale-105 hover:shadow-xl active:translate-y-1 active:shadow-inner active:scale-95 transition-all duration-150 ease-in-out"
+              className="mt-8 px-4 py-2 bg-black text-white rounded cursor-pointer shadow-md hover:scale-105 hover:shadow-xl active:translate-y-1 active:shadow-inner active:scale-95 transition-all duration-150 ease-in-out"
             >
               Pre-Order Now
             </a>
