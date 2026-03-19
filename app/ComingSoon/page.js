@@ -115,8 +115,7 @@ export default function ComingSoon() {
                   with stubborn determination and a restless spirit, Tristan
                   navigates a world that seems determined to break him to
                   it&#39;s mold — and somehow survives, grows stronger, and
-                  fights back. Told with dark humor, brutal honesty, and
-                  heart-stopping intensity, False Positive is a modern epic.
+                  fights back.
                 </p>
                 <Link
                   href="/upcoming-works"
