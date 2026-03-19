@@ -77,7 +77,7 @@ export default function NewReleases() {
               </p>
             </div>
             {/* Scrollable content area */}
-            <div className="max-h-[60vh] overflow-y-auto pr-4 space-y-6 bg-white p-2 rounded-md">
+            <div className="max-h-[60vh] overflow-y-auto pr-4 space-y-6 bg-white p-2 rounded-md mb-6">
               <p className="font font-serif">
                 From a troubled childhood in the American South to the
                 battle-scarred fields of Ukraine,{" "}
@@ -112,7 +112,7 @@ export default function NewReleases() {
 
             <a
               href="https://www.simonandschuster.com/books/False-Positive/Tristan-Nettles/9781592117772"
-              className="mt-8 px-4 py-2 bg-black text-white rounded cursor-pointer shadow-md hover:scale-105 hover:shadow-xl active:translate-y-1 active:shadow-inner active:scale-95 transition-all duration-150 ease-in-out"
+              className="mt-4 px-4 py-2 bg-black text-white rounded cursor-pointer shadow-md hover:scale-105 hover:shadow-xl active:translate-y-1 active:shadow-inner active:scale-95 transition-all duration-150 ease-in-out"
             >
               Pre-Order Now
             </a>
