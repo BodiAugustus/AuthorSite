@@ -33,7 +33,7 @@ export default function ContactPage() {
 
         <div className="relative w-full h-[200px] md:h-[200px] lg:h-[200px] mt-16 rounded overflow-hidden shadow-lg">
           <Image
-            src="/shepherd.png" // Replace with your Canva image
+            src="/banner3.webp" // Replace with your Canva image
             alt="Call to Action Billboard"
             fill
             className="object-cover"

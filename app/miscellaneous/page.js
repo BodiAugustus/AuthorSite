@@ -33,6 +33,28 @@ export default function MiscPage() {
             </a>
           </div>
           <div>
+            <p className="font-bold">The King - A Bronze Age Tale II</p>
+            <a
+              href="https://www.TheKingSaga.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-blue-400"
+            >
+              Official webpage for The King novel
+            </a>
+          </div>
+          <div>
+            <p className="font-bold">False Positive</p>
+            <a
+              href="https://www.FalsePositiveNovel.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-blue-400"
+            >
+              Official webpage for the novel False Positive
+            </a>
+          </div>
+          <div>
             <p className="font-bold">Tristan Nettles YouTube Channel</p>
             <a
               href="https://www.youtube.com/@TristanNettlesFreeAshley"
@@ -40,7 +62,7 @@ export default function MiscPage() {
               rel="noopener noreferrer"
               className="hover:text-blue-400"
             >
-              Official YouTube channel of Tristan Nettles.
+              Official YouTube channel of Tristan Nettles
             </a>
           </div>
           <div>

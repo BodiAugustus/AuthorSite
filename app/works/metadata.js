@@ -10,6 +10,7 @@ export const metadata = {
     "Bronze Age fiction",
     "complete works",
     "Tristan Nettles author",
+    "Ashley Oosthuizen",
   ],
   alternates: {
     canonical: "https://www.tristannettles.com/works",
