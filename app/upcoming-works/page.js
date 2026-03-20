@@ -19,7 +19,7 @@ const upcomingWorks = [
       "https://www.simonandschuster.com/books/False-Positive/Tristan-Nettles/9781592117772",
   },
   {
-    title: "The King - A Bronze Age Tale",
+    title: "The King - A Bronze Age Tale II",
     releaseDate: "September 22nd, 2026",
     description1:
       "In a brutal world shaped by bronze and blood, Pan Shepherd returns — no longer a slave, but a man driven by love, vengeance, and an unrelenting determination to rescue Beocca, who was abducted during their wedding by a sadistic prince-turned-king.",

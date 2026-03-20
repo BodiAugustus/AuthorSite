@@ -36,7 +36,7 @@ export default function ContactPage() {
             src="/banner3.webp" // Replace with your Canva image
             alt="Call to Action Billboard"
             fill
-            className="object-cover"
+            className="object-fit"
             priority
           />
           <div className="absolute inset-0 bg-black/40 flex items-center justify-center">
