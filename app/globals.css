@@ -38,3 +38,30 @@ body {
     5% 20%
   );
 }
+
+/* Header & nav — always visible */
+header,
+.nav,
+.navigation,
+.menu,
+.header-nav {
+  background-color: #f8f4eb; /* exact parchment color — tweak if needed */
+  color: #1a1a1a !important;
+  background-image: url("your-texture.jpg"); /* keep your existing image */
+}
+
+/* All links inside nav (desktop + mobile) */
+nav a,
+.header a,
+.menu a,
+.nav-link,
+.mobile-nav a,
+.hamburger-menu a {
+  color: #1a1a1a !important;
+  text-decoration: none;
+}
+
+/* Extra safety for texture backgrounds */
+nav a {
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.6); /* makes text pop */
+}
