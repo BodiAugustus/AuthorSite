@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Websites Up!",
+    date: "April 3rd, 8:38 am EDT",
+    content: `The two websites for each of Tristan Nettles' upcoming novels are now live! Be sure to check out both now! The King SPA can be visited at https://www.TheKingSaga.com and False Positive's SPA can be visited at https://www.FalsePositiveNovel.com. Be sure to check out both now and don't forget to subscribe to the newsletter! More updates coming soon!`,
+    youtubeEmbed: "",
+    image: [],
+  },
+  {
     title: "Final Edits Finished!",
     date: "March, 18th 2026 12:49 pm EDT",
     content: `Tristan Nettles has finished the final edits for his two upcoming novels, False Positive and The King - A Bronze Age Tale II. Both manuscripts have been sent to the publishers for their final round of in-house edits before going to print! A lot of exciting things to come in the build up to release for both epic novels. Stay tuned!`,

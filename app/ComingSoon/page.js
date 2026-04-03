@@ -139,6 +139,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Websites Up!</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: date: April 3rd, 8:38 am EDT,
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                The two websites for each of Tristan Nettles&apos; upcoming
+                novels are now live! Be sure to check out both now! The King SPA
+                can be visited at ...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">Final Edits Finished!</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: date: March, 18th 2026 12:49 pm EDT,
@@ -147,20 +161,6 @@ export default function ComingSoon() {
                 Tristan Nettles has finished the final edits for his two
                 upcoming novels, False Positive and The King - A Bronze Age Tale
                 II. Both manuscripts have...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">Official Presale Links!</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: March, 10th 2026 8:24 am EDT
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles two upcoming epic novels, False Positive and The
-                King, are now officially available for presale from the
-                publisher, Histria Books and Simon & Schuster...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
