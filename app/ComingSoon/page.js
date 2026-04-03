@@ -146,7 +146,7 @@ export default function ComingSoon() {
               <p className="text-sm text-gray-700 font-serif">
                 The two websites for each of Tristan Nettles&apos; upcoming
                 novels are now live! Be sure to check out both now! The King SPA
-                can be visited at ...
+                can be visited at...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
