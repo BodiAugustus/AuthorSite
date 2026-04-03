@@ -47,7 +47,7 @@ header,
 .header-nav {
   background-color: #f8f4eb; /* exact parchment color — tweak if needed */
   color: #1a1a1a !important;
-  background-image: url("your-texture.jpg"); /* keep your existing image */
+  /* background-image: url("your-texture.jpg"); keep your existing image */
 }
 
 /* All links inside nav (desktop + mobile) */
