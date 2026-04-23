@@ -6,7 +6,7 @@ const newsItems = [
   {
     title: "INDIE Awards & NetGalley!",
     date: "April 19th, 8:03 am EDT",
-    content: `Tristan Nettles upcoming novels, The King - A Bronze Age Tale II and False Positive, have been entered into the INDIE awards for multiple categories, including Historical Fiction and Military. In addition, both novels are being listed through Histria Books and Simon & Schuster on the global early release platform known as NetGalley, opening them up to a potentially endless amount of pre-publication publicity! Remember, everything is about getting Ashley Oosthuizen the royal pardon she needs to gain freedom! Buy a book to save a life today! Stay tuned for the results in the months ahead!`,
+    content: `Tristan Nettles upcoming novels, The King - A Bronze Age Tale II and False Positive, have been entered into the INDIE awards for multiple categories, including Historical Fiction and Military. In addition, both novels are being listed through Histria Books and Simon & Schuster on the global early release platform known as NetGalley, opening them up to a potentially endless amount of pre-publication publicity! Remember, everything is about getting Ashley Oosthuizen the royal pardon she needs to gain freedom! Buy a book to save a life today! `,
     youtubeEmbed: "",
     image: [],
   },
