@@ -4,19 +4,20 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "New Series!",
+    date: "May 4th, 5:29 pm EDT",
+    content: `Tristan Nettles is now hard at work on his fourth novel, the first installment of an epic new series entitled Hominids, following five different species of early human as they competed for survival on the island of Java, fifty-five thousand years ago. With painstaking atterntion to detail, expect something as powerful as it will be timeless!`,
+    youtubeEmbed: "",
+    image: [],
+  },
+  {
     title: "INDIE Awards & NetGalley!",
     date: "April 19th, 8:03 am EDT",
     content: `Tristan Nettles upcoming novels, The King - A Bronze Age Tale II and False Positive, have been entered into the INDIE awards for multiple categories, including Historical Fiction and Military. In addition, both novels are being listed through Histria Books and Simon & Schuster on the global early release platform known as NetGalley, opening them up to a potentially endless amount of pre-publication publicity! Remember, everything is about getting Ashley Oosthuizen the royal pardon she needs to gain freedom! Buy a book to save a life today! `,
     youtubeEmbed: "",
     image: [],
   },
-  // {
-  //   title: "INDIE Awards & NetGalley!",
-  //   date: "April 19th, 8:03 am EDT",
-  //   content: `Tristan Nettles is now hard at work on his fourth novel, the epic Hominids, following five different species of early human as they competed for survival on the island of Java, fifty-five thousand years ago. With painstaking atterntion to detail, expect something in scope not seen since The Lord of the Rings!`,
-  //   youtubeEmbed: "",
-  //   image: [],
-  // },
+
   {
     title: "Websites Up!",
     date: "April 3rd, 8:38 am EDT",
