@@ -6,7 +6,7 @@ const newsItems = [
   {
     title: "Amazon Author Page!",
     date: "May 13th, 12:29 pm EDT",
-    content: `Tristan Nettles now has his own author page on Amazon, replete with his current and upcoming works. Tristan Nettles digital footprint continues to grow as word of his writing prowess and campaign to free Ashley Oosthuizen from Thai prison spreads. Make sure to follow Tristan as he creates more timeless classics for the ages.`,
+    content: `Tristan Nettles now has his own author page on Amazon, replete with his current and upcoming works. Tristan Nettles digital footprint continues to grow as word of his writing prowess and campaign to free Ashley Oosthuizen from Thai prison spreads. Make sure to follow Tristan as he creates more timeless classics for the ages while fighting to free Ashley.`,
     youtubeEmbed: "",
     image: ["/amz.png"],
   },
