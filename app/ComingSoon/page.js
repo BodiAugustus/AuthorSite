@@ -139,6 +139,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">New Move!</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: date: June 1st, 2:19 pm EDT,
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Tristan Nettles is headed further south to continue his work as
+                an author and marine diesel mechanic. He fixes boats and
+                generators by day, and writes...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">Amazon Author Page!</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: date: May 13th, 12:29 pm EDT,
@@ -146,21 +160,7 @@ export default function ComingSoon() {
               <p className="text-sm text-gray-700 font-serif">
                 Tristan Nettles now has his own author page on Amazon, replete
                 with his current and upcoming works. Tristan Nettles digital
-                footprint continues to grow ...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">New Series!</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: date: May 4th, 5:29 pm EDT,
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles is now hard at work on his fourth novel, the
-                first installment of an epic new series entitled Hominids,
-                following five different...
+                footprint continues to grow...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
