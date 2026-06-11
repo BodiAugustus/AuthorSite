@@ -144,9 +144,9 @@ export default function ComingSoon() {
                 Posted: date: June 1st, 2:19 pm EDT,
               </p>
               <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles is headed further south to continue his work as
-                an author and marine diesel mechanic. He fixes boats and
-                generators by day, and writes...
+                Tristan Nettles is heading further south, where he&apos;ll keep
+                balancing two remarkable worlds. By day, he&apos;s a marine
+                diesel mechanic...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE

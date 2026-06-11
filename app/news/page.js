@@ -6,9 +6,9 @@ const newsItems = [
   {
     title: "New Move!",
     date: "June 1st, 2:19 pm EDT",
-    content: `Tristan Nettles is headed further south to continue his work as an author and marine diesel mechanic. He fixes boats and generators by day, and writes masterpieces by night. Work is ongoing with Hominids, his latest work. Stay tuned for more updates soon!`,
+    content: `Tristan Nettles is heading further south, where he’ll keep balancing two remarkable worlds. By day, he’s a marine diesel mechanic—fixing boats and generators with precision and grit. By night, he becomes the author of ambitious, thought-provoking fiction.He’s currently deep into Hominids, his latest work. Stay tuned for more updates soon.`,
     youtubeEmbed: "",
-    image: ["/amz.png"],
+    image: [""],
   },
   {
     title: "Amazon Author Page!",
