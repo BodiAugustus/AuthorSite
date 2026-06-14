@@ -4,9 +4,24 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Novels on NetGalley!",
+    date: "June 14th, 12:43 pm EDT",
+    content: `Tristan Nettles’ upcoming novels, The King - A Bronze Age Tale II and False Positive, have both been listed on NetGalley, where early review copies are now available to approved book advocates, librarians, booksellers, bloggers, journalists, and other industry professionals worldwide. This is a major step for both titles. NetGalley is the premier global platform for pre-publication buzz — it allows vetted readers to request and review digital galleys months ahead of release. Positive early reviews on NetGalley (and the sites they influence, like Goodreads, Amazon, and book blogs) generate critical momentum, helping new releases climb charts and reach wider audiences. Through Histria Books and Simon & Schuster distribution, these listings give The King (the epic sequel following Pan Shepherd’s brutal journey through Bronze Age war, love, and destiny) and False Positive (Tristan’s unflinching autobiographical novel of redemption, dark web dealings, combat in Ukraine, and his fight to free Ashley Oosthuizen) exposure to thousands of professional readers who can help build authentic pre-launch excitement. This NetGalley presence, combined with presale availability and INDIE Awards entries, positions both books strongly for their 2026 releases (The King on September 22, False Positive on October 20). Stay tuned for more updates!
+
+
+
+
+
+
+
+`,
+    youtubeEmbed: "",
+    image: [],
+  },
+  {
     title: "New Move!",
     date: "June 1st, 2:19 pm EDT",
-    content: `Tristan Nettles is heading further south, where he’ll keep balancing two remarkable worlds. By day, he’s a marine diesel mechanic—fixing boats and generators with precision and grit. By night, he becomes the author of ambitious, thought-provoking fiction.He’s currently deep into Hominids, his latest work. Stay tuned for more updates soon.`,
+    content: `Tristan Nettles is heading further south, where he’ll keep balancing two remarkable worlds. By day, he’s a marine diesel mechanic—fixing boats with precision and grit. By night, he becomes the author of ambitious, thought-provoking fiction.He’s currently deep into Hominids - Genesis, his latest work. Stay tuned for more updates soon.`,
     youtubeEmbed: "",
     image: [],
   },
