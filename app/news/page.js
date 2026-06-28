@@ -4,16 +4,17 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "The King - Final Edit!",
+    date: "June 28th, 9:01 am EDT",
+    content: `Tristan Nettles’ upcoming novels, The King - A Bronze Age Tale II was sent back for final review. The level of editing done by the publisher, Histria Books in conjunction with Simon & Schuster, really is next level. The upcoming new release will be a shining example of what love, loss, and the pursuit of justice can accomplish. Prepare yourself for an instant classic beng released soon! Take a peak below to see the process in action!
+`,
+    youtubeEmbed: "",
+    image: ["/edit.png"],
+  },
+  {
     title: "Novels on NetGalley!",
     date: "June 14th, 12:43 pm EDT",
     content: `Tristan Nettles’ upcoming novels, The King - A Bronze Age Tale II and False Positive, have both been listed on NetGalley, where early review copies are now available to approved book advocates, librarians, booksellers, bloggers, journalists, and other industry professionals worldwide. This is a major step for both titles. NetGalley is the premier global platform for pre-publication buzz — it allows vetted readers to request and review digital galleys months ahead of release. Positive early reviews on NetGalley (and the sites they influence, like Goodreads, Amazon, and book blogs) generate critical momentum, helping new releases climb charts and reach wider audiences. Through Histria Books and Simon & Schuster distribution, these listings give The King (the epic sequel following Pan Shepherd’s brutal journey through Bronze Age war, love, and destiny) and False Positive (Tristan’s unflinching autobiographical novel of redemption, dark web dealings, combat in Ukraine, and his fight to free Ashley Oosthuizen) exposure to thousands of professional readers who can help build authentic pre-launch excitement. This NetGalley presence, combined with presale availability and INDIE Awards entries, positions both books strongly for their 2026 releases (The King on September 22, False Positive on October 20). Stay tuned for more updates!
-
-
-
-
-
-
-
 `,
     youtubeEmbed: "",
     image: [],

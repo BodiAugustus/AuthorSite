@@ -139,6 +139,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">The King - Final Edit!</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: date: June 28th, 9:01 am EDT,
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Tristan Nettles&apos; upcoming novels, The King - A Bronze Age
+                Tale II was sent back for final review. The level of editing
+                done by the publisher, Histria Books in...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">Novels Listed on NetGalley!</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: date: June 14th, 12:43 pm EDT,
@@ -147,20 +161,6 @@ export default function ComingSoon() {
                 Tristan Nettles upcoming novels, The King - A Bronze Age Tale II
                 and False Positive, have both been listed on NetGalley, where
                 early review copies are now available to...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">New Move!</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: date: June 1st, 2:19 pm EDT,
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles is heading further south, where he&apos;ll keep
-                balancing two remarkable worlds. By day, he&apos;s a marine
-                diesel mechanic...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
