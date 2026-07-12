@@ -4,9 +4,17 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Fewer than 0.1%",
+    date: "July 12th, 7:39 am EDT",
+    content: `Fewer than 0.1% of all authors are traditionally published 3 times in 5 years for nearly 1,500 pages. Tristan Nettles is in that 0.1%. Tristan has spent more than 5 years trying to make the world see and hear Ashley Oosthuizen. Let us hope that this fall, he will have finally succeeded. First 503 pages epic drops soon, stay tuned!
+`,
+    youtubeEmbed: "",
+    image: ["/edits.png"],
+  },
+  {
     title: "The King - Final Edit!",
     date: "June 28th, 9:01 am EDT",
-    content: `Tristan Nettles’ upcoming novels, The King - A Bronze Age Tale II was sent back for final review. The level of editing done by the publisher, Histria Books in conjunction with Simon & Schuster, really is next level. The upcoming new release will be a shining example of what love, loss, and the pursuit of justice can accomplish. Prepare yourself for an instant classic beng released soon! Take a peak below to see the process in action!
+    content: `Tristan Nettles upcoming novels, The King - A Bronze Age Tale II was sent back for final review. The level of editing done by the publisher, Histria Books in conjunction with Simon & Schuster, really is next level. The upcoming new release will be a shining example of what love, loss, and the pursuit of justice can accomplish. Prepare yourself for an instant classic beng released soon! Take a peak below to see the process in action!
 `,
     youtubeEmbed: "",
     image: ["/edits.png"],
