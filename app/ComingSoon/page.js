@@ -145,8 +145,8 @@ export default function ComingSoon() {
               </p>
               <p className="text-sm text-gray-700 font-serif">
                 Fewer than 0.1% of all authors are traditionally published 3
-                times in 5 years for nearly 1,500 pages. Tristan Nettles is in
-                that 0.1%...
+                times in 5 years totaling nearly 1,500 pages. Tristan Nettles is
+                in that 0.1%...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE

@@ -6,10 +6,10 @@ const newsItems = [
   {
     title: "Fewer than 0.1%",
     date: "July 12th, 7:39 am EDT",
-    content: `Fewer than 0.1% of all authors are traditionally published 3 times in 5 years for nearly 1,500 pages. Tristan Nettles is in that 0.1%. Tristan has spent more than 5 years trying to make the world see and hear Ashley Oosthuizen. Let us hope that this fall, he will have finally succeeded. First 503 pages epic drops soon, stay tuned!
+    content: `Fewer than 0.1% of all authors are traditionally published 3 times in 5 years totaling nearly 1,500 pages. Tristan Nettles is in that 0.1%. Tristan has spent more than 5 years trying to make the world see and hear Ashley Oosthuizen. Let us hope that this fall, he will have finally succeeded. First 503 pages epic drops soon, stay tuned!
 `,
     youtubeEmbed: "",
-    image: ["/edits.png"],
+    image: [],
   },
   {
     title: "The King - Final Edit!",
