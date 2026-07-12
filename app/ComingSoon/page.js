@@ -159,8 +159,8 @@ export default function ComingSoon() {
               </p>
               <p className="text-sm text-gray-700 font-serif">
                 Tristan Nettles&apos; upcoming novels, The King - A Bronze Age
-                Tale II was sent back for final review. The level of editing
-                done by the publisher, Histria Books in...
+                Tale II was sent back for final review. The amount of high
+                polish added by the editor, Histria Books in...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE

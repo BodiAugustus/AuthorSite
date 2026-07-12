@@ -14,7 +14,7 @@ const newsItems = [
   {
     title: "The King - Final Edit!",
     date: "June 28th, 9:01 am EDT",
-    content: `Tristan Nettles upcoming novels, The King - A Bronze Age Tale II was sent back for final review. The level of editing done by the publisher, Histria Books in conjunction with Simon & Schuster, really is next level. The upcoming new release will be a shining example of what love, loss, and the pursuit of justice can accomplish. Prepare yourself for an instant classic beng released soon! Take a peak below to see the process in action!
+    content: `Tristan Nettles upcoming novels, The King - A Bronze Age Tale II was sent back for final review. The amount of high polish added by the editor, Histria Books in conjunction with Simon & Schuster, really is next level. The upcoming new release will be a shining example of what love, loss, and the pursuit of justice can accomplish. Prepare yourself for an instant classic beng released soon! Take a peak below to see the process in action!
 `,
     youtubeEmbed: "",
     image: ["/edits.png"],
