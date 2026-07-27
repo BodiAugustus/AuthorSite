@@ -6,7 +6,7 @@ import Link from "next/link";
 
 const slides = [
   {
-    src: "/slide1.png",
+    src: "/c2.png",
     alt: "False Positive Cover",
     href: "https://www.simonandschuster.com/books/False-Positive/Tristan-Nettles/9781592117772",
   },
@@ -16,7 +16,7 @@ const slides = [
     href: "https://www.simonandschuster.com/books/The-King/Tristan-Nettles/A-Bronze-Age-Tale/9781592117673",
   },
   {
-    src: "/slide2.jpeg",
+    src: "/s3.png",
     alt: "Histria Books Banner",
     href: "https://histriabooks.com/",
   },
