@@ -4,6 +4,14 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Updated Cover!",
+    date: "July 26th, 8:20 pm EDT",
+    content: `Tristan Nettles upcoming modern epic, False Positive, just received an updated cover for the new release. This will be the final edit. The unbelievable true story of Tristan & Ashley will be released on October 20, 2026. Every book sold helps bring Ashley Oosthuizen's ongoing plight to the world. Pre-order your copy now!
+`,
+    youtubeEmbed: "",
+    image: ["2.png"],
+  },
+  {
     title: "Fewer than 0.1%",
     date: "July 12th, 7:39 am EDT",
     content: `Fewer than 0.1% of all authors are traditionally published 3 times in 5 years totaling nearly 1,500 pages. Tristan Nettles is in that 0.1%. Tristan has spent more than 5 years trying to make the world see and hear Ashley Oosthuizen. Let us hope that this fall, he will have finally succeeded. First 503 pages epic drops soon, stay tuned!

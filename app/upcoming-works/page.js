@@ -13,7 +13,7 @@ const upcomingWorks = [
     description3:
       "Told with dark humor, brutal honesty, and heart-stopping intensity, False Positive is a modern epic — a real-life odyssey in the spirit of Forrest Gump and Catch Me If You Can. It's a raw, unforgettable journey through love, loss, crime, war, and the deep, messy beauty of being human.",
     available: "",
-    image: "/FalsePositiveCover.jpg",
+    image: "/2.png",
     category: "Commercial Nonfiction",
     website:
       "https://www.simonandschuster.com/books/False-Positive/Tristan-Nettles/9781592117772",

@@ -74,7 +74,7 @@ export default function ComingSoon() {
               {/* Blurred background image */}
               <div className="absolute inset-0 z-0 scale-110 blur-md p-5">
                 <Image
-                  src="/FalsePositiveCover.jpg"
+                  src="/2.png"
                   alt="Blurred background"
                   width={300}
                   height={300}
@@ -85,7 +85,7 @@ export default function ComingSoon() {
               {/* Foreground book cover image */}
               <div className="relative z-10">
                 <Image
-                  src="/FalsePositiveCover.jpg"
+                  src="/2.png"
                   alt="The Shepherd Cover"
                   width={125}
                   height={200}
@@ -139,6 +139,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Updated Cover!</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: date: July 26th, 8:20 pm EDT,
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Tristan Nettles upcoming modern epic, False Positive, just
+                received an updated cover for the new release. This will be the
+                final edit. The...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">Fewer than 0.1%</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: date: July 12th, 7:39 am EDT,
@@ -147,20 +161,6 @@ export default function ComingSoon() {
                 Fewer than 0.1% of all authors are traditionally published 3
                 times in 5 years totaling nearly 1,500 pages. Tristan Nettles is
                 in that 0.1%...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">The King - Final Edit!</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: date: June 28th, 9:01 am EDT,
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles&apos; upcoming novels, The King - A Bronze Age
-                Tale II was sent back for final review. The amount of high
-                polish added by the editor, Histria Books in...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
