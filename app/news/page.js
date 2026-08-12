@@ -4,6 +4,14 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Final Spread!",
+    date: "August 12th,11:14 am EDT",
+    content: `Tristan Nettles upcoming release, The King, has received its final book jacket. The incredible story of how a shepherd becomes king will be released on September 22, 2026. Pre-order your copy now!
+`,
+    youtubeEmbed: "",
+    image: ["jacket.png"],
+  },
+  {
     title: "Updated Cover!",
     date: "July 26th, 8:20 pm EDT",
     content: `Tristan Nettles upcoming modern epic, False Positive, just received an updated cover for the new release. This will be the final edit. The unbelievable true story of Tristan & Ashley will be released on October 20, 2026. Every book sold helps bring Ashley Oosthuizen's ongoing plight to the world. Pre-order your copy now!
