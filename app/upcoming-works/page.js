@@ -20,7 +20,7 @@ const upcomingWorks = [
   },
   {
     title: "The King - A Bronze Age Tale II",
-    releaseDate: "September 22nd, 2026",
+    releaseDate: "October 6, 2026",
     description1:
       "In a brutal world shaped by bronze and blood, Pan Shepherd returns — no longer a slave, but a man driven by love, vengeance, and an unrelenting determination to rescue Beocca, who was abducted during their wedding by a sadistic prince-turned-king.",
     description2:

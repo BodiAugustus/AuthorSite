@@ -11,7 +11,7 @@ const worksData = [
   {
     title: "The King - A Bronze Age Tale II",
     type: "Historical Fiction",
-    date: "September 22, 2026",
+    date: "October 6, 2026",
     url: "https://thekingsaga.com",
   },
   {
