@@ -4,6 +4,14 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Podcast Appearance",
+    date: "August 27th,3:14 pm EDT",
+    content: `Tristan Nettles just appeared on the True Crime podcast with Matt Cox in his Tampa Bay recording studio where they spent almost 3 hours going over different parts of Tristan's upcoming book, False Positive, the unbelievable true story and modern day odyssee. True Crime is a podcast with over a million subscribers and a billion views, so it should help propel Ashley's story out further into the wider world, especially the American one. We will post a link to the episode when it airs in 3 or 4 weeks time, so stay tuned!
+`,
+    youtubeEmbed: "",
+    image: ["jacket.png"],
+  },
+  {
     title: "Final Spread!",
     date: "August 12th,11:14 am EDT",
     content: `Tristan Nettles upcoming release, The King, has received its final book jacket. The incredible story of how a shepherd becomes king will be released on September 22, 2026. Pre-order your copy now!

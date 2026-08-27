@@ -139,6 +139,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Podcast Appearance</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: date: August 27th,3:14 pm EDT,
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Tristan Nettles just appeared on the True Crime podcast with
+                Matt Cox in his Tampa Bay recording studio where they spent
+                almost 3 hours going over different parts of...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">Final Spread!</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: date: August 12th,11:14 am EDT,
@@ -147,20 +161,6 @@ export default function ComingSoon() {
                 Tristan Nettles upcoming release, The King, has received its
                 final book jacket. The incredible story of how a shepherd
                 becomes king...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">Updated Cover!</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: date: July 26th, 8:20 pm EDT,
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles upcoming modern epic, False Positive, just
-                received an updated cover for the new release. This will be the
-                final edit. The...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
