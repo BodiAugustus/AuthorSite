@@ -4,8 +4,15 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "First Editions",
+    date: "September 12th, 1:00 pm EDT",
+    content: `Tristan Nettles has just received the first editions of his upcoming books, False Positive and The King from the publisher. He did what he said he would. Three novels, 5 years, 1,500 pages. Ashley Oosthuizen was his muse. Every book he has written is ultimately about her. Next month, the world gains access. Pre-Order your copies now and help Free Ashley today!`,
+    youtubeEmbed: "",
+    image: ["books.jpeg"],
+  },
+  {
     title: "Podcast Appearance",
-    date: "August 27th,3:14 pm EDT",
+    date: "August 27th, 3:14 pm EDT",
     content: `Tristan Nettles just appeared on the True Crime podcast with Matt Cox in his Tampa Bay recording studio where they spent almost 3 hours going over different parts of Tristan's upcoming book, False Positive, the unbelievable true story and modern day odyssee. True Crime is a podcast with over a million subscribers and a billion views, so it should help propel Ashley's story out further into the wider world, especially the American one. We will post a link to the episode when it airs in 3 or 4 weeks time, so stay tuned!
 `,
     youtubeEmbed: "",
