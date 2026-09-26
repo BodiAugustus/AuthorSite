@@ -11,12 +11,19 @@ const newsItems = [
     image: ["books.jpeg"],
   },
   {
+    title: "Publisher's Weekly",
+    date: "September 25th, 9:04 pm EDT",
+    content: `Tristan Nettles soon to be released epic novel, The King, was featured in this months edition of Publisher's Weekly. The 503 page bronze page saga will be getting a lot more attention with less than 2 weeks to go until publish! Make sure to order your copy today!`,
+    youtubeEmbed: "",
+    image: ["PW.jpg"],
+  },
+  {
     title: "Podcast Appearance",
     date: "August 27th, 3:14 pm EDT",
     content: `Tristan Nettles just appeared on the True Crime podcast with Matt Cox in his Tampa Bay recording studio where they spent almost 3 hours going over different parts of Tristan's upcoming book, False Positive, the unbelievable true story and modern day odyssee. True Crime is a podcast with over a million subscribers and a billion views, so it should help propel Ashley's story out further into the wider world, especially the American one. We will post a link to the episode when it airs in 3 or 4 weeks time, so stay tuned!
 `,
     youtubeEmbed: "",
-    image: ["jacket.png"],
+    image: [],
   },
   {
     title: "Final Spread!",

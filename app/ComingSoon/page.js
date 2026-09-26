@@ -139,6 +139,20 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Publisher&apos;s Weekly</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: date: September 25th, 9:04 pm EDT,
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                Tristan Nettles soon to be released epic novel, The King, was
+                featured in this months edition of Publisher&apos;s Weekly. The
+                503 page bronze page saga will be getting a...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">First Editions</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: date: September 12th, 1:00 pm EDT,
@@ -148,20 +162,6 @@ export default function ComingSoon() {
                 upcoming books, False Positive and The King from the publisher.
                 He did whas he said he would. Three books, 5 years, 1,500
                 pages...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">Podcast Appearance</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: date: August 27th, 3:14 pm EDT,
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles just appeared on the True Crime podcast with
-                Matt Cox in his Tampa Bay recording studio where they spent
-                almost 3 hours going over different parts of...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
