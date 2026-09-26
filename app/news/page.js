@@ -4,19 +4,20 @@ import Image from "next/image";
 
 const newsItems = [
   {
-    title: "First Editions",
-    date: "September 12th, 1:00 pm EDT",
-    content: `Tristan Nettles has just received the first editions of his upcoming books, False Positive and The King from the publisher. He did what he said he would. Three novels, 5 years, 1,500 pages. Ashley Oosthuizen was his muse. Every book he has written is ultimately about her. Next month, the world gains access. Pre-Order your copies now and help Free Ashley today!`,
-    youtubeEmbed: "",
-    image: ["books.jpeg"],
-  },
-  {
     title: "Publisher's Weekly",
     date: "September 25th, 9:04 pm EDT",
     content: `Tristan Nettles soon to be released epic novel, The King, was featured in this months edition of Publisher's Weekly. The 503 page bronze page saga will be getting a lot more attention with less than 2 weeks to go until publish! Make sure to order your copy today!`,
     youtubeEmbed: "",
     image: ["PW.jpg"],
   },
+  {
+    title: "First Editions",
+    date: "September 12th, 1:00 pm EDT",
+    content: `Tristan Nettles has just received the first editions of his upcoming books, False Positive and The King from the publisher. He did what he said he would. Three novels, 5 years, 1,500 pages. Ashley Oosthuizen was his muse. Every book he has written is ultimately about her. Next month, the world gains access. Pre-Order your copies now and help Free Ashley today!`,
+    youtubeEmbed: "",
+    image: ["books.jpeg"],
+  },
+
   {
     title: "Podcast Appearance",
     date: "August 27th, 3:14 pm EDT",
