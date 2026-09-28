@@ -4,6 +4,13 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "True Crime Podcast",
+    date: "September 28th, 7:12 pm EDT",
+    content: `Tristan Nettles appeared on Matt Cox's True Crime podcast which boast over 1 million subscribers! After 4 days the podcast episode has already been viewed over 82,000 times! That means 80,000 new people learning about Ashley Oosthuizen, and the upcoming epic novel False Positive, being released October 20th! Make sure you check out the podcast episode and pre-order your copy of False Positive today!`,
+    youtubeEmbed: ["https://www.youtube.com/watch?v=FRZLYObZjpc"],
+    image: [],
+  },
+  {
     title: "Publisher's Weekly",
     date: "September 25th, 9:04 pm EDT",
     content: `Tristan Nettles soon to be released epic novel, The King, was featured in this months edition of Publisher's Weekly. The 503 page bronze page saga will be getting a lot more attention with less than 2 weeks to go until publish! Make sure to order your copy today!`,
