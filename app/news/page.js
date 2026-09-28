@@ -7,7 +7,7 @@ const newsItems = [
     title: "True Crime Podcast",
     date: "September 28th, 7:12 pm EDT",
     content: `Tristan Nettles appeared on Matt Cox's True Crime podcast which boast over 1 million subscribers! After 4 days the podcast episode has already been viewed over 82,000 times! That means 80,000 new people learning about Ashley Oosthuizen, and the upcoming epic novel False Positive, being released October 20th! Make sure you check out the podcast episode and pre-order your copy of False Positive today!`,
-    youtubeEmbed: ["https://www.youtube.com/watch?v=FRZLYObZjpc"],
+    youtubeEmbed: "https://www.youtube.com/embed/FRZLYObZjpc",
     image: [],
   },
   {
