@@ -80,7 +80,7 @@ export default function UpcomingWorks() {
               href={book.website}
               className="mt-4 px-4 py-2 bg-black text-white rounded shadow-md hover:scale-105 hover:shadow-xl active:translate-y-1 active:shadow-inner active:scale-95 transition-all duration-150 ease-in-out"
             >
-              Pre-Order Now!
+              Order Now!
             </a>
           </div>
         </div>

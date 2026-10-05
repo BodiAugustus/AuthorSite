@@ -4,6 +4,15 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "The King!",
+    date: "October 6th, 7:12 am EDT",
+    content: `Tristan Nettles long awaited epic, The King, is being published today! The 503-page Bronze Age sequel follows Pan Shepherd—no longer a slave, but a man driven by love and vengeance—as he fights to rescue Beocca, abducted on their wedding day by a sadistic prince-turned-king, through collapsing kingdoms, court intrigue, and armies closing in. Get your copy today!
+
+ `,
+    youtubeEmbed: "",
+    image: [],
+  },
+  {
     title: "True Crime Podcast",
     date: "September 28th, 7:12 pm EDT",
     content: `Tristan Nettles appeared on Matt Cox's True Crime podcast which boast over 1 million subscribers! After 4 days the podcast episode has already been viewed over 82,000 times! That means 80,000 new people learning about Ashley Oosthuizen, and the upcoming epic novel False Positive, being released October 20th! Make sure you check out the podcast episode and pre-order your copy of False Positive today!`,
