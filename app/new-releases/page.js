@@ -73,7 +73,7 @@ export default function NewReleases() {
                 False Positive
               </h2>
               <p className="text-sm text-gray-500">
-                Release Date: October 20th, 2026
+                Release Date: Nov. 3rd, 2026
               </p>
             </div>
             {/* Scrollable content area */}

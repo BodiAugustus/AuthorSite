@@ -39,7 +39,7 @@ export default function ComingSoon() {
                 {/* Torn ribbon */}
                 <div className="absolute top-3 left-1/3 transform -translate-x-1/4 z-20">
                   <div className="relative bg-red-700 text-white font-bold text-xs px-4 py-1 shadow-lg">
-                    Release Date: Oct. 6, 2026
+                    Release Date: Oct. 20, 2026
                     <span className="absolute left-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -ml-1"></span>
                     <span className="absolute right-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -mr-1"></span>
                   </div>
@@ -95,7 +95,7 @@ export default function ComingSoon() {
                 {/* Torn ribbon */}
                 <div className="absolute top-3 left-1/3 transform -translate-x-1/4 z-20">
                   <div className="relative bg-red-700 text-white font-bold text-xs px-4 py-1 shadow-lg">
-                    Release Date: Oct. 20th, 2026
+                    Release Date: Nov. 3rd, 2026
                     <span className="absolute left-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -ml-1"></span>
                     <span className="absolute right-0 top-1/2 -translate-y-1/2 w-2 h-2 bg-white rotate-45 -mr-1"></span>
                   </div>
@@ -139,6 +139,21 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Documentary!</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: date: October 17th, 8:12 pm EDT,
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                `A documentary is in the works about Tristan Nettles and Ashley
+                Oosthuizen. An LA based production company with a South African
+                presence known as Wellworth Pictures is currently putting
+                together...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">The King!</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: date: October 6th, 7:12 am EDT,
@@ -148,22 +163,6 @@ export default function ComingSoon() {
                 today! The 503-page Bronze Age sequel follows Pan Shepherd—no
                 longer a slave, but a man driven by love and vengeance—as he
                 fights...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">True Crime Podcast</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: date: September 28th, 7:12 pm EDT,
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                Tristan Nettles soon to be released epic novel, The King, was
-                Tristan Nettles appeared on Matt Cox&apos;s True Crime podcast
-                which boast over 1 million subscribers! After 4 days the podcast
-                episode has already been viewed over 82,000 times! That...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE

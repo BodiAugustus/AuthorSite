@@ -11,13 +11,13 @@ const worksData = [
   {
     title: "The King - A Bronze Age Tale II",
     type: "Historical Fiction",
-    date: "October 6, 2026",
+    date: "October 20, 2026",
     url: "https://thekingsaga.com",
   },
   {
     title: "False Positive",
     type: "Commercial NonFiction",
-    date: "October 20, 2026",
+    date: "November 3, 2026",
     url: "https://FalsePositiveNovel.com",
   },
 ];

@@ -4,6 +4,14 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Documentary!",
+    date: "October 17th, 8:12 pm EDT",
+    content: `A documentary is in the works about Tristan Nettles and Ashley Oosthuizen. An LA based production company with a South African presence known as Wellworth Pictures is currently putting together a multi-part documentary on the Tristan Ashley saga from start to the present that will be finished in 2027, after the upcoming book releases. The professional and paid documentary will help ensure that both resources and attention continue to support Ashley's ongoing fight for freedom. Stay tuned!
+ `,
+    youtubeEmbed: "",
+    image: [],
+  },
+  {
     title: "The King!",
     date: "October 6th, 7:12 am EDT",
     content: `Tristan Nettles long awaited epic, The King, is being published today! The 503-page Bronze Age sequel follows Pan Shepherd—no longer a slave, but a man driven by love and vengeance—as he fights to rescue Beocca, abducted on their wedding day by a sadistic prince-turned-king, through collapsing kingdoms, court intrigue, and armies closing in. Get your copy today!
