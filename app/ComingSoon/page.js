@@ -10,7 +10,7 @@ export default function ComingSoon() {
           <h2
             className={`text-4xl font-bold mb-4 tracking-tighter ${cinzel.className}`}
           >
-            Coming Soon
+            Now Available
           </h2>
           <div className="grid gap-8 md:gap-0 md:grid-cols-2">
             {/* Card 2 */}

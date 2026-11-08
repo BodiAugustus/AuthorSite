@@ -4,34 +4,46 @@ import Link from "next/link";
 
 const upcomingWorks = [
   {
-    title: "False Positive",
-    releaseDate: "November 3, 2026",
+    title: "Hominids - Genesis",
+    releaseDate: "TBA",
     description1:
-      "From a troubled childhood in the American South to the battle-scarred fields of Ukraine, Tristan Seth Nettles has lived a life that almost defies belief. Born between wealth and poverty, armed with stubborn determination and a restless spirit, Tristan navigates a world that seems determined to break him to it's mold — and somehow survives, grows stronger, and fights back.",
-    description2:
-      "False Positive is the true story of a man who outruns his past but never forgets it. As a rambunctious youth, soldier, international dark web drug dealer, outlaw, and mercenary, Tristan travels the world — from armed home invasions in Mississippi to mountain top temples in Nepal, from Southeast Asian prisons to battlefields in Eastern Europe — chasing truth, redemption, and ultimately, justice. When the woman he loves, Ashley Oosthuizen, is wrongfully imprisoned and sentenced to death in Thailand, Tristan's mission becomes clear. What began as a reckless search for freedom turns into an international fight for someone else's. ",
-    description3:
-      "Told with dark humor, brutal honesty, and heart-stopping intensity, False Positive is a modern epic — a real-life odyssey in the spirit of Forrest Gump and Catch Me If You Can. It's a raw, unforgettable journey through love, loss, crime, war, and the deep, messy beauty of being human.",
+      "Fifty-five thousand years ago, on the island of Java, in what is now today modern Indonesia, five distinct species of humans coexisted in close proximity to each other; the only time in Earth’s history that this occurred. There were Homo floresiensis, Homo Erectus, Denisovans, Homo Sapiens, and even a wayward population of Neanderthals, originally from Siberia, who skirted the Himalayas before migrating south. On this small, pristine, and resource-rich tropical island, humanity came together for the very first—and last—time. This is their story.",
+    description2: "",
+    description3: "",
     available: "",
-    image: "/2.png",
+    image: "/comingSoon.jpeg",
     category: "Commercial Nonfiction",
-    website:
-      "https://www.simonandschuster.com/books/False-Positive/Tristan-Nettles/9781592117772",
+    website: "",
   },
+  // {
+  //   title: "False Positive",
+  //   releaseDate: "November 3, 2026",
+  //   description1:
+  //     "From a troubled childhood in the American South to the battle-scarred fields of Ukraine, Tristan Seth Nettles has lived a life that almost defies belief. Born between wealth and poverty, armed with stubborn determination and a restless spirit, Tristan navigates a world that seems determined to break him to it's mold — and somehow survives, grows stronger, and fights back.",
+  //   description2:
+  //     "False Positive is the true story of a man who outruns his past but never forgets it. As a rambunctious youth, soldier, international dark web drug dealer, outlaw, and mercenary, Tristan travels the world — from armed home invasions in Mississippi to mountain top temples in Nepal, from Southeast Asian prisons to battlefields in Eastern Europe — chasing truth, redemption, and ultimately, justice. When the woman he loves, Ashley Oosthuizen, is wrongfully imprisoned and sentenced to death in Thailand, Tristan's mission becomes clear. What began as a reckless search for freedom turns into an international fight for someone else's. ",
+  //   description3:
+  //     "Told with dark humor, brutal honesty, and heart-stopping intensity, False Positive is a modern epic — a real-life odyssey in the spirit of Forrest Gump and Catch Me If You Can. It's a raw, unforgettable journey through love, loss, crime, war, and the deep, messy beauty of being human.",
+  //   available: "",
+  //   image: "/2.png",
+  //   category: "Commercial Nonfiction",
+  //   website:
+  //     "https://www.simonandschuster.com/books/False-Positive/Tristan-Nettles/9781592117772",
+  // },
   {
-    title: "The King - A Bronze Age Tale II",
-    releaseDate: "October 20, 2026",
-    description1:
-      "In a brutal world shaped by bronze and blood, Pan Shepherd returns — no longer a slave, but a man driven by love, vengeance, and an unrelenting determination to rescue Beocca, who was abducted during their wedding by a sadistic prince-turned-king.",
-    description2:
-      "Set against the sweeping backdrop of a collapsing kingdom and a rising warlord, The King – A Bronze Age Tale continues the saga of the shepherd destined to become a king. As better-trained and better-equipped enemy armies close in, Pan must navigate overwhelming odds, betrayal, and court intrigue — not only to survive, but to reclaim the woman he loves.",
-    description3:
-      " Rich in historical detail, political intrigue, and haunting emotion, this epic sequel to The Shepherd cements Tristan Nettles’ place as a rising voice in historical fiction. The King is a powerful tale of war, leadership, and love — where loyalty endures, and nothing is more sacred than the bonds we fight to protect.",
-    available: "",
-    image: "/TheKingCover.jpg",
-    category: "Commercial Fiction",
-    website:
-      "https://www.simonandschuster.com/books/The-King/Tristan-Nettles/A-Bronze-Age-Tale/9781592117673",
+    // title: "The King - A Bronze Age Tale II",
+    // releaseDate: "October 20, 2026",
+    // description1:
+    //   "In a brutal world shaped by bronze and blood, Pan Shepherd returns — no longer a slave, but a man driven by love, vengeance, and an unrelenting determination to rescue Beocca, who was abducted during their wedding by a sadistic prince-turned-king.",
+    // description2:
+    //   "Set against the sweeping backdrop of a collapsing kingdom and a rising warlord, The King – A Bronze Age Tale continues the saga of the shepherd destined to become a king. As better-trained and better-equipped enemy armies close in, Pan must navigate overwhelming odds, betrayal, and court intrigue — not only to survive, but to reclaim the woman he loves.",
+    // description3:
+    //   " Rich in historical detail, political intrigue, and haunting emotion, this epic sequel to The Shepherd cements Tristan Nettles’ place as a rising voice in historical fiction. The King is a powerful tale of war, leadership, and love — where loyalty endures, and nothing is more sacred than the bonds we fight to protect.",
+    // available: "",
+    // image: "/TheKingCover.jpg",
+    // category: "Commercial Fiction",
+    // website:
+    //   "https://www.simonandschuster.com/books/The-King/Tristan-Nettles/A-Bronze-Age-Tale/9781592117673",
   },
   // More books can be added here
 ];
