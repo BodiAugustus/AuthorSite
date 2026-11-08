@@ -26,7 +26,7 @@ const newsItems = [
 
  `,
     youtubeEmbed: "",
-    image: [],
+    image: ["jacket.png"],
   },
   {
     title: "True Crime Podcast",
