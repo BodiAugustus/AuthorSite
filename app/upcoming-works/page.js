@@ -85,15 +85,15 @@ export default function UpcomingWorks() {
               Release Date: {book.releaseDate}
             </p>
             <p className="text-gray-800 mb-4">{book.description1}</p>
-            <p className="text-gray-800 mb-4">{book.description2}</p>
-            <p className="text-gray-800 mb-4">{book.description3}</p>
+            {/* <p className="text-gray-800 mb-4">{book.description2}</p>
+            <p className="text-gray-800 mb-4">{book.description3}</p> */}
             <p className="text-gray-800 italic">{book.available}</p>
-            <a
+            {/* <a
               href={book.website}
               className="mt-4 px-4 py-2 bg-black text-white rounded shadow-md hover:scale-105 hover:shadow-xl active:translate-y-1 active:shadow-inner active:scale-95 transition-all duration-150 ease-in-out"
             >
               Order Now!
-            </a>
+            </a> */}
           </div>
         </div>
       ))}

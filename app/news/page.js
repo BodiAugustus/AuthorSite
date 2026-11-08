@@ -9,7 +9,7 @@ const newsItems = [
     content: `The long anticipated modern odyssee, False Positive, is being published today by Histria Books and distributed by Simon & Schuster. The epic, jaw-dropping true story of Tristan Nettles and Ashley Oosthuizen is now available worldwide, both online and in retailers. Every book sold further shins a spotlight on the ongoing travesty surrounding Ashley Oosthuizen's ongoing incarceration inside of a Thai prison. Do your part today and buy a book to save a life! The real-life adventure story is one you will not soon forget.
  `,
     youtubeEmbed: "",
-    image: [],
+    image: ["jacket2.jpeg"],
   },
   {
     title: "Documentary!",
