@@ -4,6 +4,14 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "False Positive Published!",
+    date: "November 3rd, 7:15 am EDT",
+    content: `The long anticipated modern odyssee, False Positive, is being published today by Histria Books and distributed by Simon & Schuster. The epic, jaw-dropping true story of Tristan Nettles and Ashley Oosthuizen is now available worldwide, both online and in retailers. Every book sold further shins a spotlight on the ongoing travesty surrounding Ashley Oosthuizen's ongoing incarceration inside of a Thai prison. Do your part today and buy a book to save a life! The real-life adventure story is one you will not soon forget.
+ `,
+    youtubeEmbed: "",
+    image: [],
+  },
+  {
     title: "Documentary!",
     date: "October 17th, 8:12 pm EDT",
     content: `A documentary is in the works about Tristan Nettles and Ashley Oosthuizen. An LA based production company with a South African presence known as Wellworth Pictures is currently putting together a multi-part documentary on the Tristan Ashley saga from start to the present that will be finished in 2027, after the upcoming book releases. The professional and paid documentary will help ensure that both resources and attention continue to support Ashley's ongoing fight for freedom. Stay tuned!
