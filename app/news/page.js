@@ -14,15 +14,7 @@ const newsItems = [
   {
     title: "Buy a book to save a life!",
     date: "November 21st, 10:22 am EDT",
-    content: `False Positive is an epic, modern-day odyssey.
-
-The unbelievable real-life saga is aimed at helping free Miss Ashley Oosthuizen from her ongoing incarceration inside of a Thai prison. 
-
-Buy a book to save a life today!
-
-https://simonandschuster.com/books/False-Positive/Tristan-Nettles/9781592117772
-
-Free Ashley🕊️
+    content: `False Positive is an epic, modern-day odyssey. The unbelievable real-life saga is aimed at helping free Miss Ashley Oosthuizen from her ongoing incarceration inside of a Thai prison. Buy a book to save a life today! Free Ashley🕊️
  `,
     youtubeEmbed: "",
     image: ["buy.png"],
