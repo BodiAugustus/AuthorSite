@@ -144,10 +144,10 @@ export default function ComingSoon() {
                 Posted: November 21st, 10:22 am EDT,
               </p>
               <p className="text-sm text-gray-700 font-serif">
-                `The unbelievable real-life saga is aimed at helping free Miss
-                Ashley Oosthuizen from her ongoing incarceration inside of a
-                Thai prison. Buy a book to save a life today!
-                https://simonands...
+                `False Positive is an epic, modern-day odyssey. The unbelievable
+                real-life saga is aimed at helping free Miss Ashley Oosthuizen
+                from her ongoing incarceration inside of a Thai prison. Buy a
+                book to save a life today!
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
