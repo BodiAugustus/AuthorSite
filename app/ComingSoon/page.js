@@ -138,21 +138,21 @@ export default function ComingSoon() {
             More News
           </Link>
           <div className="space-y-6">
-            {/* <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">Retired.</h3>
+            <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Buy a book to save a life!</h3>
               <p className="text-xs text-gray-500 mb-2">
-                Posted: November 21st, 7:31 am EDT,
+                Posted: November 21st, 10:22 am EDT,
               </p>
               <p className="text-sm text-gray-700 font-serif">
-                `Tristan Nettles will no longer write novels. Despite being a
-                naturally gifted writer, the only reason he started and
-                continued writing was as a way to bring more attention and
-                resources to Ms. Ashley Oosthuizen. After...
+                `The unbelievable real-life saga is aimed at helping free Miss
+                Ashley Oosthuizen from her ongoing incarceration inside of a
+                Thai prison. Buy a book to save a life today!
+                https://simonands...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
               </Link>
-            </div> */}
+            </div>
             <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">False Positive Published!</h3>
               <p className="text-xs text-gray-500 mb-2">

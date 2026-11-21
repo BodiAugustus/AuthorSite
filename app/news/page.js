@@ -12,6 +12,22 @@ const newsItems = [
   //     image: [],
   //   },
   {
+    title: "Buy a book to save a life!",
+    date: "November 21st, 10:22 am EDT",
+    content: `False Positive is an epic, modern-day odyssey.
+
+The unbelievable real-life saga is aimed at helping free Miss Ashley Oosthuizen from her ongoing incarceration inside of a Thai prison. 
+
+Buy a book to save a life today!
+
+https://simonandschuster.com/books/False-Positive/Tristan-Nettles/9781592117772
+
+Free Ashley🕊️
+ `,
+    youtubeEmbed: "",
+    image: ["buy.png"],
+  },
+  {
     title: "False Positive Published!",
     date: "November 3rd, 7:15 am EDT",
     content: `The long anticipated modern odyssee, False Positive, is being published today by Histria Books and distributed by Simon & Schuster. The epic, jaw-dropping true story of Tristan Nettles and Ashley Oosthuizen is now available worldwide, both online and in retailers. Every book sold further shins a spotlight on the ongoing travesty surrounding Ashley Oosthuizen's ongoing incarceration inside of a Thai prison. Do your part today and buy a book to save a life! The real-life adventure story is one you will not soon forget.
