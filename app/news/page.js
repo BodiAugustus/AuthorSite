@@ -4,6 +4,14 @@ import Image from "next/image";
 
 const newsItems = [
   {
+    title: "Retired.",
+    date: "November 21st, 7:31 am EDT",
+    content: `Tristan Nettles will no longer write novels. Despite being a naturally gifted writer, the only reason he started and continued writing was as a way to bring more attention and resources to Ms. Ashley Oosthuizen. After publishing 3 novels in only 5 years, it is clear that strategy has failed. The literal thousands of hours that go into writing a book can no longer be justified for so little a return. In the age of AI and declining readership, it is clear which way the wind blows. Tristan proved his abilities and lived up to his word. If the world wishes him to write more books, it will pay him properly to do so. Otherwise, The Shepherd, The King, and False Positive will be all. Tristan's current project, Hominids - Genesis, is now on permanant hiatus. The last book to close the bronze age trilogy, The Conqueror, will never be written, nor will 6 other original novels with plots already developed. Tristan has no desire or intent to end up like another Edgar Allen Poe. He needs money for Ashley, himself, and for his eventual family. As such, other more profitable pursuits are being undertaken. Free Ashley, and fuck the world for not making all of Tristan's endless pursuits, toil, risks, and sacrifices enough to Free her from her prison cell. 
+ `,
+    youtubeEmbed: "",
+    image: [""],
+  },
+  {
     title: "False Positive Published!",
     date: "November 3rd, 7:15 am EDT",
     content: `The long anticipated modern odyssee, False Positive, is being published today by Histria Books and distributed by Simon & Schuster. The epic, jaw-dropping true story of Tristan Nettles and Ashley Oosthuizen is now available worldwide, both online and in retailers. Every book sold further shins a spotlight on the ongoing travesty surrounding Ashley Oosthuizen's ongoing incarceration inside of a Thai prison. Do your part today and buy a book to save a life! The real-life adventure story is one you will not soon forget.

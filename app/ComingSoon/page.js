@@ -139,6 +139,21 @@ export default function ComingSoon() {
           </Link>
           <div className="space-y-6">
             <div className="bg-white shadow-sm p-4">
+              <h3 className="font-bold">Retired.</h3>
+              <p className="text-xs text-gray-500 mb-2">
+                Posted: November 21st, 7:31 am EDT,
+              </p>
+              <p className="text-sm text-gray-700 font-serif">
+                `Tristan Nettles will no longer write novels. Despite being a
+                naturally gifted writer, the only reason he started and
+                continued writing was as a way to bring more attention and
+                resources to Ms. Ashley Oosthuizen. After...
+              </p>
+              <Link href="news" className="text-sm font-bold mt-2">
+                READ MORE
+              </Link>
+            </div>
+            <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">False Positive Published!</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: November 3rd, 7:15 am EDT,
@@ -148,21 +163,6 @@ export default function ComingSoon() {
                 published today by Histria Books and distributed by Simon &
                 Schuster. The epic, jaw-dropping true story of Tristan Nettles
                 and Ashley Oosthuizen is now...
-              </p>
-              <Link href="news" className="text-sm font-bold mt-2">
-                READ MORE
-              </Link>
-            </div>
-            <div className="bg-white shadow-sm p-4">
-              <h3 className="font-bold">Documentary!</h3>
-              <p className="text-xs text-gray-500 mb-2">
-                Posted: October 17th, 8:12 pm EDT,
-              </p>
-              <p className="text-sm text-gray-700 font-serif">
-                `A documentary is in the works about Tristan Nettles and Ashley
-                Oosthuizen. An LA based production company with a South African
-                presence known as Wellworth Pictures is currently putting
-                together...
               </p>
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
