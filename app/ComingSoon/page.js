@@ -144,7 +144,7 @@ export default function ComingSoon() {
                 Posted: November 21st, 10:22 am EDT,
               </p>
               <p className="text-sm text-gray-700 font-serif">
-                `False Positive is an epic, modern-day odyssey. The unbelievable
+                False Positive is an epic, modern-day odyssey. The unbelievable
                 real-life saga is aimed at helping free Miss Ashley Oosthuizen
                 from her ongoing incarceration inside of a Thai prison. Buy a
                 book to save a life today!
@@ -159,7 +159,7 @@ export default function ComingSoon() {
                 Posted: November 3rd, 7:15 am EDT,
               </p>
               <p className="text-sm text-gray-700 font-serif">
-                `The long anticipated modern odyssee, False Positive, is being
+                The long anticipated modern odyssee, False Positive, is being
                 published today by Histria Books and distributed by Simon &
                 Schuster. The epic, jaw-dropping true story of Tristan Nettles
                 and Ashley Oosthuizen is now...
