@@ -138,7 +138,7 @@ export default function ComingSoon() {
             More News
           </Link>
           <div className="space-y-6">
-            <div className="bg-white shadow-sm p-4">
+            {/* <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">Retired.</h3>
               <p className="text-xs text-gray-500 mb-2">
                 Posted: November 21st, 7:31 am EDT,
@@ -152,7 +152,7 @@ export default function ComingSoon() {
               <Link href="news" className="text-sm font-bold mt-2">
                 READ MORE
               </Link>
-            </div>
+            </div> */}
             <div className="bg-white shadow-sm p-4">
               <h3 className="font-bold">False Positive Published!</h3>
               <p className="text-xs text-gray-500 mb-2">
